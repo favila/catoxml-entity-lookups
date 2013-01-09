@@ -20,7 +20,7 @@ $(targetdir)/%.xml: $(tmpdir)/%.xml.tmp-unformatted
 $(tmpdir)/billversions.xml.tmp-unformatted: $(scriptdir)/doctypes2xml.py $(sourcedir)/doctypes.txt
 	python $+ $@
 
-$(tmpdir)/acts.xml.tmp-unformatted: $(scriptdir)/act-names.py $(sourcedir)/act-names.csv
+$(tmpdir)/acts.xml.tmp-unformatted: $(scriptdir)/act-names.py $(sourcedir)/popular-names.csv
 	python  $+ $@
 
 $(targetdir)/committees.xml: $(scriptdir)/fix-committees.xsl $(sourcedir)/committees-subcommittees.xml

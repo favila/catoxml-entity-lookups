@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<entities type="act" updated="2013-01-09T02:40:59">
+<entities type="act" updated="2013-01-09T12:31:52">
   <entity id="_______ Act of _______">
     <name>_______ Act of _______</name>
   </entity>
@@ -599,9 +599,6 @@
   <entity id="Agricultural Security Improvement Act of 2008">
     <name>Agricultural Security Improvement Act of 2008</name>
   </entity>
-  <entity id="Agricultural Security Improvement Act of 2008">
-    <name>Agricultural Security Improvement Act of 2008</name>
-  </entity>
   <entity id="Agricultural Subterminal Facilities Act of 1980">
     <name>Agricultural Subterminal Facilities Act of 1980</name>
   </entity>
@@ -860,29 +857,29 @@
   <entity id="Airport and Airway Extension Act of 2010">
     <name>Airport and Airway Extension Act of 2010</name>
   </entity>
-  <entity id="Airport and Airway Extension Act of 2010">
-    <name>Airport and Airway Extension Act of 2010</name>
+  <entity id="Airport and Airway Extension Act of 2010, Part II">
+    <name>Airport and Airway Extension Act of 2010, Part II</name>
   </entity>
-  <entity id="Airport and Airway Extension Act of 2010">
-    <name>Airport and Airway Extension Act of 2010</name>
+  <entity id="Airport and Airway Extension Act of 2010, Part III">
+    <name>Airport and Airway Extension Act of 2010, Part III</name>
   </entity>
-  <entity id="Airport and Airway Extension Act of 2010">
-    <name>Airport and Airway Extension Act of 2010</name>
-  </entity>
-  <entity id="Airport and Airway Extension Act of 2011">
-    <name>Airport and Airway Extension Act of 2011</name>
+  <entity id="Airport and Airway Extension Act of 2010, Part IV">
+    <name>Airport and Airway Extension Act of 2010, Part IV</name>
   </entity>
   <entity id="Airport and Airway Extension Act of 2011">
     <name>Airport and Airway Extension Act of 2011</name>
   </entity>
-  <entity id="Airport and Airway Extension Act of 2011">
-    <name>Airport and Airway Extension Act of 2011</name>
+  <entity id="Airport and Airway Extension Act of 2011, Part II">
+    <name>Airport and Airway Extension Act of 2011, Part II</name>
   </entity>
-  <entity id="Airport and Airway Extension Act of 2011">
-    <name>Airport and Airway Extension Act of 2011</name>
+  <entity id="Airport and Airway Extension Act of 2011, Part III">
+    <name>Airport and Airway Extension Act of 2011, Part III</name>
   </entity>
-  <entity id="Airport and Airway Extension Act of 2011">
-    <name>Airport and Airway Extension Act of 2011</name>
+  <entity id="Airport and Airway Extension Act of 2011, Part IV">
+    <name>Airport and Airway Extension Act of 2011, Part IV</name>
+  </entity>
+  <entity id="Airport and Airway Extension Act of 2011, Part V">
+    <name>Airport and Airway Extension Act of 2011, Part V</name>
   </entity>
   <entity id="Airport and Airway Improvement Act of 1982">
     <name>Airport and Airway Improvement Act of 1982</name>
@@ -1928,9 +1925,6 @@
   </entity>
   <entity id="Army Promotion Act">
     <name>Army Promotion Act</name>
-  </entity>
-  <entity id="Army Reserve and Retired Personnel Service Law of 1940">
-    <name>Army Reserve and Retired Personnel Service Law of 1940</name>
   </entity>
   <entity id="Army Reserve and Retired Personnel Service Law of 1940">
     <name>Army Reserve and Retired Personnel Service Law of 1940</name>
@@ -5955,9 +5949,6 @@
   <entity id="Defense Acquisition Improvement Act of 1986">
     <name>Defense Acquisition Improvement Act of 1986</name>
   </entity>
-  <entity id="Defense Acquisition Improvement Act of 1986">
-    <name>Defense Acquisition Improvement Act of 1986</name>
-  </entity>
   <entity id="Defense Acquisition Workforce Improvement Act">
     <name>Defense Acquisition Workforce Improvement Act</name>
   </entity>
@@ -6480,23 +6471,23 @@
   <entity id="Department of Commerce Appropriation Act, 1988">
     <name>Department of Commerce Appropriation Act, 1988</name>
   </entity>
-  <entity id="Department of Commerce Appropriations Act, 1989">
-    <name>Department of Commerce Appropriations Act, 1989</name>
+  <entity id="Department of Commerce Appropriation Act, 1989">
+    <name>Department of Commerce Appropriation Act, 1989</name>
   </entity>
-  <entity id="Department of Commerce Appropriations Act, 1990">
-    <name>Department of Commerce Appropriations Act, 1990</name>
+  <entity id="Department of Commerce Appropriation Act, 1990">
+    <name>Department of Commerce Appropriation Act, 1990</name>
   </entity>
-  <entity id="Department of Commerce Appropriations Act, 1991">
-    <name>Department of Commerce Appropriations Act, 1991</name>
+  <entity id="Department of Commerce Appropriation Act, 1991">
+    <name>Department of Commerce Appropriation Act, 1991</name>
   </entity>
-  <entity id="Department of Commerce Appropriations Act, 1992">
-    <name>Department of Commerce Appropriations Act, 1992</name>
+  <entity id="Department of Commerce Appropriation Act, 1992">
+    <name>Department of Commerce Appropriation Act, 1992</name>
   </entity>
-  <entity id="Department of Commerce Appropriations Act, 1993">
-    <name>Department of Commerce Appropriations Act, 1993</name>
+  <entity id="Department of Commerce Appropriation Act, 1993">
+    <name>Department of Commerce Appropriation Act, 1993</name>
   </entity>
-  <entity id="Department of Commerce Appropriations Act, 1994">
-    <name>Department of Commerce Appropriations Act, 1994</name>
+  <entity id="Department of Commerce Appropriation Act, 1994">
+    <name>Department of Commerce Appropriation Act, 1994</name>
   </entity>
   <entity id="Department of Commerce Appropriations Act, 2008">
     <name>Department of Commerce Appropriations Act, 2008</name>
@@ -6639,8 +6630,8 @@
   <entity id="Department of Defense Appropriations Act, 1986">
     <name>Department of Defense Appropriations Act, 1986</name>
   </entity>
-  <entity id="Department of Defense Appropriations  Act, 1987">
-    <name>Department of Defense Appropriations  Act, 1987</name>
+  <entity id="Department of Defense Appropriations Act, 1987">
+    <name>Department of Defense Appropriations Act, 1987</name>
   </entity>
   <entity id="Department of Defense Appropriations Act, 1988">
     <name>Department of Defense Appropriations Act, 1988</name>
@@ -8250,9 +8241,6 @@
   <entity id="Departments of Labor, and Health, Education, and Welfare Appropriation Act, 1971">
     <name>Departments of Labor, and Health, Education, and Welfare Appropriation Act, 1971</name>
   </entity>
-  <entity id="Departments of Labor, and Health, Education, and Welfare Appropriation Act, 1971">
-    <name>Departments of Labor, and Health, Education, and Welfare Appropriation Act, 1971</name>
-  </entity>
   <entity id="Departments of Labor, and Health, Education, and Welfare Appropriation Act, 1974">
     <name>Departments of Labor, and Health, Education, and Welfare Appropriation Act, 1974</name>
   </entity>
@@ -8685,8 +8673,8 @@
   <entity id="Dire Emergency Supplemental Appropriations Act, 1992, for Disaster Assistance To Meet Urgent Needs Because of Calamities Such as Those Which Occurred in Los Angeles and Chicago">
     <name>Dire Emergency Supplemental Appropriations Act, 1992, for Disaster Assistance To Meet Urgent Needs Because of Calamities Such as Those Which Occurred in Los Angeles and Chicago</name>
   </entity>
-  <entity id="Dire Emergency Supplemental Appropriations Act, 1992, Including Disaster Assistance To Meet the Present Emergencies Arising From the Consequences of Hurricane Andrew, Typhoon Omar, Hurricane Iniki, and Other Natural Disasters, and Additional Assistance to Distressed Communities">
-    <name>Dire Emergency Supplemental Appropriations Act, 1992, Including Disaster Assistance To Meet the Present Emergencies Arising From the Consequences of Hurricane Andrew, Typhoon Omar, Hurricane Iniki, and Other Natural Disasters, and Additional Assistance to Distressed Communities</name>
+  <entity id="Dire Emergency Supplemental Appropriations Act, 1992, Including Disaster Assistance To Meet the Present Emergencies Arising From the Consequences of Hurricane Andrew, Typhoon Omar, Hurricane Iniki, and Other Natural Disasters, and Additional Assistance to">
+    <name>Dire Emergency Supplemental Appropriations Act, 1992, Including Disaster Assistance To Meet the Present Emergencies Arising From the Consequences of Hurricane Andrew, Typhoon Omar, Hurricane Iniki, and Other Natural Disasters, and Additional Assistance to</name>
   </entity>
   <entity id="Dire Emergency Supplemental Appropriations and Transfers for Relief From the Effects of Natural Disasters, for Other Urgent Needs, and for Incremental Cost of &quot;Operation Desert Shield/Desert Storm&quot; Act of 1992">
     <name>Dire Emergency Supplemental Appropriations and Transfers for Relief From the Effects of Natural Disasters, for Other Urgent Needs, and for Incremental Cost of "Operation Desert Shield/Desert Storm" Act of 1992</name>
@@ -11709,8 +11697,8 @@
   <entity id="Federal Aviation Administration Extension Act of 2008">
     <name>Federal Aviation Administration Extension Act of 2008</name>
   </entity>
-  <entity id="Federal Aviation Administration Extension Act of 2008">
-    <name>Federal Aviation Administration Extension Act of 2008</name>
+  <entity id="Federal Aviation Administration Extension Act of 2008, Part II">
+    <name>Federal Aviation Administration Extension Act of 2008, Part II</name>
   </entity>
   <entity id="Federal Aviation Administration Extension Act of 2009">
     <name>Federal Aviation Administration Extension Act of 2009</name>
@@ -12986,8 +12974,8 @@
   <entity id="Fiscal Year 2010 Federal Aviation Administration Extension Act">
     <name>Fiscal Year 2010 Federal Aviation Administration Extension Act</name>
   </entity>
-  <entity id="Fiscal Year 2010 Federal Aviation Administration Extension Act">
-    <name>Fiscal Year 2010 Federal Aviation Administration Extension Act</name>
+  <entity id="Fiscal Year 2010 Federal Aviation Administration Extension Act, Part II">
+    <name>Fiscal Year 2010 Federal Aviation Administration Extension Act, Part II</name>
   </entity>
   <entity id="Fiscal Year Adjustment Act">
     <name>Fiscal Year Adjustment Act</name>
@@ -13510,9 +13498,6 @@
   </entity>
   <entity id="Foreign Investors Tax Act of 1966">
     <name>Foreign Investors Tax Act of 1966</name>
-  </entity>
-  <entity id="Foreign Language Assistance Act of 1988">
-    <name>Foreign Language Assistance Act of 1988</name>
   </entity>
   <entity id="Foreign Language Assistance Act of 1988">
     <name>Foreign Language Assistance Act of 1988</name>
@@ -14661,10 +14646,6 @@
   </entity>
   <entity id="Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006">
     <name>Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006</name>
-  </entity>
-  <entity id="Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008">
-    <name>Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008</name>
-    <name>Also known as HOPE II Act</name>
   </entity>
   <entity id="Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008">
     <name>Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008</name>
@@ -32068,9 +32049,6 @@
   </entity>
   <entity id="Water Pollution Control Act Amendments of 1956">
     <name>Water Pollution Control Act Amendments of 1956</name>
-  </entity>
-  <entity id="Water Pollution Control Act">
-    <name>Water Pollution Control Act</name>
   </entity>
   <entity id="Water Power Act">
     <name>Water Power Act</name>
