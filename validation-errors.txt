@@ -1,0 +1,108 @@
+lookuptables/acts.xml:602: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Agricultural Security Improvement Act of 2008'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:863: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Airport and Airway Extension Act of 2010'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:866: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Airport and Airway Extension Act of 2010'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:869: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Airport and Airway Extension Act of 2010'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:875: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Airport and Airway Extension Act of 2011'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:878: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Airport and Airway Extension Act of 2011'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:881: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Airport and Airway Extension Act of 2011'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:884: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Airport and Airway Extension Act of 2011'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:1935: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Army Reserve and Retired Personnel Service Law of 1940'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:5958: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Defense Acquisition Improvement Act of 1986'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:8253: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Departments of Labor, and Health, Education, and Welfare Appropriation Act, 1971'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:11712: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Federal Aviation Administration Extension Act of 2008'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:12989: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Fiscal Year 2010 Federal Aviation Administration Extension Act'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:13517: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Foreign Language Assistance Act of 1988'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:14669: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml:32072: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['Water Pollution Control Act'] in key identity-constraint 'entity-id'.
+lookuptables/acts.xml fails to validate
+lookuptables/committees.xml:324: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/committees.xml:327: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/committees.xml:330: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/committees.xml:333: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/committees.xml:336: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/committees.xml:339: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/committees.xml fails to validate
+lookuptables/federal-entities.xml:2976: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['89N7'] in key identity-constraint 'entity-id'.
+lookuptables/federal-entities.xml:3063: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence ['89BA'] in key identity-constraint 'entity-id'.
+lookuptables/federal-entities.xml fails to validate
+lookuptables/people.xml:1386: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1389: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1392: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1395: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1398: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1401: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1404: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1407: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1410: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1413: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1416: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1419: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1422: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1425: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1428: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1431: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1434: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1437: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1440: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1443: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1446: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1449: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1452: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1455: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1458: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1461: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1464: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1467: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1470: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1473: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1476: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1479: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1482: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1485: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1488: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1491: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1494: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1497: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1500: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1503: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1506: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1509: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1512: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1515: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1518: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1521: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1524: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1527: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1530: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1533: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1536: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1539: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1542: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1545: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1548: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1551: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1554: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1557: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1560: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1563: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1566: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1569: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1572: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1575: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1578: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1581: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1584: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1587: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1590: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1593: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1596: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1599: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1602: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1605: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1608: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1611: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1614: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml:1617: element entity: Schemas validity error : Element 'entity': Duplicate key-sequence [''] in key identity-constraint 'entity-id'.
+lookuptables/people.xml fails to validate
+lookuptables/billversions.xml validates
+make: *** [validate] Error 3
