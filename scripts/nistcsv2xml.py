@@ -11,9 +11,9 @@ def convert(fp):
     for row in rows:
         eid, epid, ename = [c.decode('cp1252').strip() for c in row]
         entity = ET.SubElement(root, 'entity')
-        entity.attrib['id'] = eid
+        entity.attrib['id'] = "{:0>4s}".format(eid)
         if epid:
-            entity.attrib['parent-id'] = epid
+            entity.attrib['parent-id'] = "{:0>4s}".format(epid) if epid else ''
         name = ET.SubElement(entity, 'name')
         name.set('role', 'official')
         name.text = ename
