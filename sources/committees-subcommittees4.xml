@@ -1,0 +1,745 @@
+<congressional-committees version="2012-12-11">
+  <committee-entity id="JCSE00">
+    <name role="official">Commission on Security and Cooperation in Europe</name>
+  </committee-entity>
+  <committee-entity id="SCNC00">
+    <name role="official">United States Senate Caucus on International Narcotics Control</name>
+  </committee-entity>
+  <committee-entity id="JSDF00">
+    <name role="official">Joint Select Committee on Deficit Reduction</name>
+  </committee-entity>
+  <committee-entity id="JSEC00">
+    <name role="official">Joint Economic Committee</name>
+  </committee-entity>
+  <committee-entity id="JSLC00">
+    <name role="official">Joint Committee on the Library</name>
+  </committee-entity>
+  <committee-entity id="JSPR00">
+    <name role="official">Joint Committee on Printing</name>
+  </committee-entity>
+  <committee-entity id="JSTX00">
+    <name role="official">Joint Committee on Taxation</name>
+  </committee-entity>
+  <committee-entity id="SLET00">
+    <name role="official">Senate Select Committee on Ethics</name>
+  </committee-entity>
+  <committee-entity id="SLIN00">
+    <name role="official">Senate Select Committee on Intelligence</name>
+  </committee-entity>
+  <committee-entity id="SPAG00">
+    <name role="official">Senate Select Committee on Aging</name>
+    <name>Senate Special Committee on Aging</name>
+    <name>Special Committee on Aging of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAF00">
+    <name role="official">Committee on Agriculture, Nutrition, and Forestry</name>
+    <name>Committee on Agriculture, Nutrition, and Forestry of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAF13" parent-id="SSAF00">
+    <name role="official">Subcommittee on Commodities, Markets, Trade and Risk Management</name>
+    <name>Subcommittee on Commodities, Markets, Trade and Risk Management of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAF14" parent-id="SSAF00">
+    <name role="official">Subcommittee on Conservation, Forestry and Natural Resources</name>
+    <name>Subcommittee on Conservation, Forestry and Natural Resources of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAF15" parent-id="SSAF00">
+    <name role="official">Subcommittee on Jobs, Rural Economic Growth and Energy Innovation</name>
+    <name>Subcommittee on Jobs, Rural Economic Growth and Energy Innovation of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAF16" parent-id="SSAF00">
+    <name role="official">Subcommittee on Nutrition, Specialty Crops, Food and Agricultural Research</name>
+    <name>Subcommittee on Nutrition, Specialty Crops, Food and Agricultural Research of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAF17" parent-id="SSAF00">
+    <name role="official">Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security</name>
+    <name>Subcommittee on Livestock, Dairy, Poultry, Marketing and Agriculture Security of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAP00">
+    <name role="official">Committee on Appropriations</name>
+    <name>Committee on Appropriations of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAP01" parent-id="SSAP00">
+    <name role="official">Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies</name>
+    <name>Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies of the Committee on Appropriations of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAP02" parent-id="SSAP00">
+    <name role="official">Subcommittee on Department of Defense</name>
+    <name>Subcommittee on Defense of the Committee on Appropriations of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAP08" parent-id="SSAP00">
+    <name role="official">Subcommittee on the Legislative Branch</name>
+    <name>Subcommittee on the Legislative Branch of the Committee on Appropriations of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAP14" parent-id="SSAP00">
+    <name role="official">Subcommittee on Department of Homeland Security</name>
+    <name>Subcommittee on Homeland Security of the Committee on Appropriations of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAP16" parent-id="SSAP00">
+    <name role="official">Subcommittee on Commerce, Justice, Science, and Related Agencies</name>
+    <name>Subcommittee on Commerce, Justice, Science, and Related Agencies of the Committee on Appropriations of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAP17" parent-id="SSAP00">
+    <name role="official">Subcommittee on Department of the Interior, Environment, and Related Agencies</name>
+    <name>Subcommittee on the Interior, Environment, and Related Agencies of the Committee on Appropriations of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAP18" parent-id="SSAP00">
+    <name role="official">Subcommittee on Departments of Labor, Health and Human Services, and Education, and Related Agencies</name>
+    <name>Subcommittee on Labor, Health and Human Services, and Education, and Related Agencies of the Committee on Appropriations of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAP19" parent-id="SSAP00">
+    <name role="official">Subcommittee on Military Construction and Veterans Affairs, and Related Agencies</name>
+    <name>Subcommittee on Military Construction and Veterans Affairs, and Related Agencies of the Committee on Appropriations of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAP20" parent-id="SSAP00">
+    <name role="official">Subcommittee on State, Foreign Operations, and Related Programs</name>
+    <name>Subcommittee on State, Foreign Operations, and Related Programs of the Committee on Appropriations of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAP22" parent-id="SSAP00">
+    <name role="official">Subcommittee on Energy and Water Development</name>
+    <name>Subcommittee on Energy and Water Development of the Committee on Appropriations of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAP23" parent-id="SSAP00">
+    <name role="official">Subcommittee on Financial Service and General Government</name>
+    <name>Subcommittee on Financial Service and General Government of the Committee on Appropriations of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAP24" parent-id="SSAP00">
+    <name role="official">Subcommittee on Transportation and Housing and Urban Development, and Related Agencies</name>
+    <name>Subcommittee on Transportation and Housing and Urban Development, and Related Agencies of the Committee on Appropriations of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAS00">
+    <name role="official">Senate Committee on Armed Services</name>
+    <name>Committee on Armed Services of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSAS13" parent-id="SSAS00">
+    <name role="official">Subcommittee on Seapower</name>
+  </committee-entity>
+  <committee-entity id="SSAS14" parent-id="SSAS00">
+    <name role="official">Subcommittee on Airland</name>
+  </committee-entity>
+  <committee-entity id="SSAS15" parent-id="SSAS00">
+    <name role="official">Subcommittee on Readiness and Management Support</name>
+  </committee-entity>
+  <committee-entity id="SSAS16" parent-id="SSAS00">
+    <name role="official">Subcommittee on Strategic Forces</name>
+  </committee-entity>
+  <committee-entity id="SSAS17" parent-id="SSAS00">
+    <name role="official">Subcommittee on Personnel</name>
+  </committee-entity>
+  <committee-entity id="SSAS20" parent-id="SSAS00">
+    <name role="official">Subcommittee on Emerging Threats and Capabilities</name>
+  </committee-entity>
+  <committee-entity id="SSBK00">
+    <name role="official">Senate Committee on Banking, Housing, and Urban Affairs</name>
+    <name>Committee on Banking, Housing, and Urban Affairs of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSBK04" parent-id="SSBK00">
+    <name role="official">Subcommittee on Securities, Insurance and Investment</name>
+  </committee-entity>
+  <committee-entity id="SSBK05" parent-id="SSBK00">
+    <name role="official">Subcommittee on Security and International Trade and Finance</name>
+  </committee-entity>
+  <committee-entity id="SSBK08" parent-id="SSBK00">
+    <name role="official">Subcommittee on Financial Institutions and Consumer Protection</name>
+  </committee-entity>
+  <committee-entity id="SSBK09" parent-id="SSBK00">
+    <name role="official">Subcommittee on Housing, Transportation and Community Development</name>
+  </committee-entity>
+  <committee-entity id="SSBK12" parent-id="SSBK00">
+    <name role="official">Subcommittee on Economic Policy</name>
+  </committee-entity>
+  <committee-entity id="SSBU00">
+    <name role="official">Senate Committee on the Budget</name>
+    <name>Committee on the Budget of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSCM00">
+    <name role="official">Senate Committee on Commerce, Science, and Transportation</name>
+    <name>Committee on Commerce, Science, and Transportation of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSCM01" parent-id="SSCM00">
+    <name role="official">Subcommittee on Aviation Operations, Safety, and Security</name>
+  </committee-entity>
+  <committee-entity id="SSCM20" parent-id="SSCM00">
+    <name role="official">Subcommittee on Consumer Protection, Product Safety, and Insurance</name>
+  </committee-entity>
+  <committee-entity id="SSCM22" parent-id="SSCM00">
+    <name role="official">Subcommittee on Oceans, Atmosphere, Fisheries, and Coast Guard</name>
+  </committee-entity>
+  <committee-entity id="SSCM24" parent-id="SSCM00">
+    <name role="official">Subcommittee on Science and Space</name>
+  </committee-entity>
+  <committee-entity id="SSCM25" parent-id="SSCM00">
+    <name role="official">Subcommittee on Surface Transportation and Merchant Marine Infrastructure, Safety, and Security</name>
+  </committee-entity>
+  <committee-entity id="SSCM26" parent-id="SSCM00">
+    <name role="official">Subcommittee on Communications, Technology, and the Internet</name>
+  </committee-entity>
+  <committee-entity id="SSCM27" parent-id="SSCM00">
+    <name role="official">Subcommittee on Competitiveness, Innovation, and Export Promotion</name>
+    <name>Subcommittee on Communications, Technology, and the Internet of the Committee on Commerce, Science, and Transportation of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSEG00">
+    <name role="official">Senate Committee on Energy and Natural Resources</name>
+    <name>Committee on Energy and Natural Resources of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSEG01" parent-id="SSEG00">
+    <name role="official">Subcommittee on Energy</name>
+  </committee-entity>
+  <committee-entity id="SSEG03" parent-id="SSEG00">
+    <name role="official">Subcommittee on Public Lands and Forests</name>
+  </committee-entity>
+  <committee-entity id="SSEG04" parent-id="SSEG00">
+    <name role="official">Subcommittee on National Parks</name>
+  </committee-entity>
+  <committee-entity id="SSEG07" parent-id="SSEG00">
+    <name role="official">Subcommittee on Water and Power</name>
+  </committee-entity>
+  <committee-entity id="SSFI00">
+    <name role="official">Senate Committee on Finance</name>
+    <name>Committee on Finance of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSFI02" parent-id="SSFI00">
+    <name role="official">Subcommittee on Social Security, Pensions and Family Policy</name>
+  </committee-entity>
+  <committee-entity id="SSFI10" parent-id="SSFI00">
+    <name role="official">Subcommittee on Health Care</name>
+  </committee-entity>
+  <committee-entity id="SSFI11" parent-id="SSFI00">
+    <name role="official">Subcommittee on Taxation and IRS Oversight</name>
+  </committee-entity>
+  <committee-entity id="SSFI12" parent-id="SSFI00">
+    <name role="official">Subcommittee on Energy, Natural Resources, and Infrastructure</name>
+  </committee-entity>
+  <committee-entity id="SSFI13" parent-id="SSFI00">
+    <name role="official">Subcommittee on International Trade, Customs, and Global Competitiveness</name>
+  </committee-entity>
+  <committee-entity id="SSFI14" parent-id="SSFI00">
+    <name role="official">Subcommittee on Fiscal Responsibility and Economic Growth</name>
+  </committee-entity>
+  <committee-entity id="SSFR00">
+    <name role="official">Senate Committee on Foreign Relations</name>
+    <name>Committee on Foreign Relations of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSFR01" parent-id="SSFR00">
+    <name role="official">Subcommittee on European Affairs</name>
+  </committee-entity>
+  <committee-entity id="SSFR02" parent-id="SSFR00">
+    <name role="official">Subcommittee on East Asian and Pacific Affairs</name>
+  </committee-entity>
+  <committee-entity id="SSFR06" parent-id="SSFR00">
+    <name role="official">Subcommittee on Western Hemisphere, Peace Corps and Global Narcotics Affairs</name>
+  </committee-entity>
+  <committee-entity id="SSFR07" parent-id="SSFR00">
+    <name role="official">Subcommittee on Near Eastern and South and Central Asian Affairs</name>
+  </committee-entity>
+  <committee-entity id="SSFR09" parent-id="SSFR00">
+    <name role="official">Subcommittee on African Affairs</name>
+  </committee-entity>
+  <committee-entity id="SSFR12" parent-id="SSFR00">
+    <name role="official">Subcommittee on International Development and Foreign Assistance, Economic Affairs and International Environmental Protection</name>
+  </committee-entity>
+  <committee-entity id="SSFR13" parent-id="SSFR00">
+    <name role="official">Subcommittee on International Operations and Organizations, Human Rights, Democracy and Global Women's Issues</name>
+  </committee-entity>
+  <committee-entity id="SSGA00">
+    <name role="official">Senate Committee on Homeland Security and Governmental Affairs</name>
+    <name>Committee on Homeland Security and Governmental Affairs of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSGA01" parent-id="SSGA00">
+    <name role="official">Senate Permanent Subcommittee on Investigations</name>
+  </committee-entity>
+  <committee-entity id="SSGA03" parent-id="SSGA00">
+    <name role="official">Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia</name>
+    <name>Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia, of the Committee on Homeland Security and Governmental Affairs of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSGA09" parent-id="SSGA00">
+    <name role="official">Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security</name>
+  </committee-entity>
+  <committee-entity id="SSGA13" parent-id="SSGA00">
+    <name role="official">Ad Hoc Subcommittee on Contracting Oversight</name>
+  </committee-entity>
+  <committee-entity id="SSGA14" parent-id="SSGA00">
+    <name role="official">Ad Hoc Subcommittee on Disaster Recovery and Intergovernmental Affairs</name>
+  </committee-entity>
+  <committee-entity id="SSHR00">
+    <name role="official">Senate Committee on Health, Education, Labor, and Pensions</name>
+    <name>Committee on Health, Education, Labor, and Pensions of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSHR09" parent-id="SSHR00">
+    <name role="official">Subcommittee on Children and Families</name>
+  </committee-entity>
+  <committee-entity id="SSHR11" parent-id="SSHR00">
+    <name role="official">Subcommittee on Employment and Workplace Safety</name>
+  </committee-entity>
+  <committee-entity id="SSHR12" parent-id="SSHR00">
+    <name role="official">Subcommittee on Primary Health and Aging</name>
+  </committee-entity>
+  <committee-entity id="SLIA00">
+    <name role="official">Senate Committee on Indian Affairs</name>
+    <name>Committee on Indian Affairs of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSJU00">
+    <name role="official">Senate Committee on the Judiciary</name>
+    <name>Committee on the Judiciary of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSJU01" parent-id="SSJU00">
+    <name role="official">Subcommittee on Antitrust, Competition Policy and Consumer Rights</name>
+  </committee-entity>
+  <committee-entity id="SSJU02" parent-id="SSJU00">
+    <name role="official">Subcommittee on Administrative Oversight and the Courts</name>
+  </committee-entity>
+  <committee-entity id="SSJU04" parent-id="SSJU00">
+    <name role="official">Subcommittee on Immigration, Refugees and Border Security</name>
+  </committee-entity>
+  <committee-entity id="SSJU21" parent-id="SSJU00">
+    <name role="official">Subcommittee on the Constitution, Civil Rights and Human Rights</name>
+    <name>Subcommittee on Constitutional Rights of the Committee on the Judiciary of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSJU22" parent-id="SSJU00">
+    <name role="official">Subcommittee on Crime and Terrorism</name>
+  </committee-entity>
+  <committee-entity id="SSJU23" parent-id="SSJU00">
+    <name role="official">Subcommittee on Privacy, Technology and the Law</name>
+  </committee-entity>
+  <committee-entity id="SSRA00">
+    <name role="official">Senate Committee on Rules and Administration</name>
+    <name>Committee on Rules and Administration of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSSB00">
+    <name role="official">Senate Committee on Small Business and Entrepreneurship</name>
+    <name>Committee on Small Business and Entrepreneurship of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSVA00">
+    <name role="official">Senate Committee on Veterans' Affairs</name>
+    <name>Committee on Veterans' Affairs of the Senate</name>
+  </committee-entity>
+  <committee-entity id="SSEV00">
+    <name role="official">Senate Committee on Environment and Public Works</name>
+    <name>Committee on Environment and Public Works of the Senate</name>
+  </committee-entity>
+  <committee-entity id="" parent-id="SSEV00">
+    <name role="official">Subcommittee on Children's Health and Environmental Responsibility</name>
+  </committee-entity>
+  <committee-entity id="" parent-id="SSEV00">
+    <name role="official">Subcommittee on Clean Air and Nuclear Safety</name>
+  </committee-entity>
+  <committee-entity id="" parent-id="SSEV00">
+    <name role="official">Subcommittee on Green Jobs and the New Economy</name>
+  </committee-entity>
+  <committee-entity id="" parent-id="SSEV00">
+    <name role="official">Subcommittee on Oversight</name>
+  </committee-entity>
+  <committee-entity id="" parent-id="SSEV00">
+    <name role="official">Subcommittee on Superfund, Toxics and Environmental Health</name>
+  </committee-entity>
+  <committee-entity id="" parent-id="SSEV00">
+    <name role="official">Subcommittee on Transportation and Infrastructure</name>
+  </committee-entity>
+  <committee-entity id="" parent-id="SSEV00">
+    <name role="official">Subcommittee on Water and Wildlife</name>
+  </committee-entity>
+  <committee-entity id="HAG00">
+    <name role="official">House Committee on Agriculture</name>
+    <name>Committee on Agriculture of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HAG03" parent-id="HAG00">
+    <name role="official">Subcommittee on Nutrition and Horticulture</name>
+  </committee-entity>
+  <committee-entity id="HAG14" parent-id="HAG00">
+    <name role="official">Subcommittee on Rural Development, Research, Biotechnology, and Foreign Agriculture</name>
+  </committee-entity>
+  <committee-entity id="HAG15" parent-id="HAG00">
+    <name role="official">Subcommittee on Conservation, Energy, and Forestry</name>
+  </committee-entity>
+  <committee-entity id="HAG16" parent-id="HAG00">
+    <name role="official">Subcommittee on General Farm Commodities and Risk Management</name>
+  </committee-entity>
+  <committee-entity id="HAG22" parent-id="HAG00">
+    <name role="official">Subcommittee on Department Operations, Oversight, and Credit</name>
+  </committee-entity>
+  <committee-entity id="HAG29" parent-id="HAG00">
+    <name role="official">Subcommittee on Livestock, Dairy, and Poultry</name>
+  </committee-entity>
+  <committee-entity id="HAP00">
+    <name role="official">House Committee on Appropriations</name>
+    <name>Committee on Appropriations of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HAP01" parent-id="HAP00">
+    <name role="official">Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies</name>
+  </committee-entity>
+  <committee-entity id="HAP02" parent-id="HAP00">
+    <name role="official">Subcommittee on Defense</name>
+    <name>Subcommittee on Defense of the Committee on Appropriations of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HAP04" parent-id="HAP00">
+    <name role="official">Subcommittee on State, Foreign Operations, and Related Programs</name>
+  </committee-entity>
+  <committee-entity id="HAP06" parent-id="HAP00">
+    <name role="official">Subcommittee on Interior, Environment, and Related Agencies</name>
+  </committee-entity>
+  <committee-entity id="HAP07" parent-id="HAP00">
+    <name role="official">Subcommittee on Labor, Health and Human Services, Education, and Related Agencies</name>
+  </committee-entity>
+  <committee-entity id="HAP10" parent-id="HAP00">
+    <name role="official">Subcommittee on Energy and Water Development, and Related Agencies</name>
+  </committee-entity>
+  <committee-entity id="HAP15" parent-id="HAP00">
+    <name role="official">Subcommittee on Homeland Security</name>
+    <name>Subcommittee on Defense of the Committee on Appropriations of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HAP18" parent-id="HAP00">
+    <name role="official">Subcommittee on Military Construction, Veterans Affairs, and Related Agencies</name>
+    <name>Subcommittee on Military Construction and Veterans Affairs, and Related Agencies of the Committee on Appropriations of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HAP19" parent-id="HAP00">
+    <name role="official">Subcommittee on Commerce, Justice, Science, and Related Agencies</name>
+  </committee-entity>
+  <committee-entity id="HAP20" parent-id="HAP00">
+    <name role="official">Subcommittee on Transportation, and Housing and Urban Development, and Related Agencies</name>
+  </committee-entity>
+  <committee-entity id="HAP23" parent-id="HAP00">
+    <name role="official">Subcommittee on Financial Services and General Government</name>
+  </committee-entity>
+  <committee-entity id="HAP24" parent-id="HAP00">
+    <name role="official">Subcommittee on the Legislative Branch</name>
+    <name>Subcommittee on the Legislative Branch of the Committee on Appropriations of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HAS00">
+    <name role="official">House Committee on Armed Services</name>
+    <name>Committee on Armed Services of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HAS02" parent-id="HAS00">
+    <name role="official">Subcommittee on Military Personnel</name>
+  </committee-entity>
+  <committee-entity id="HAS03" parent-id="HAS00">
+    <name role="official">Subcommittee on Readiness</name>
+  </committee-entity>
+  <committee-entity id="HAS06" parent-id="HAS00">
+    <name role="official">Subcommittee on Oversight and Investigations</name>
+  </committee-entity>
+  <committee-entity id="HAS25" parent-id="HAS00">
+    <name role="official">Subcommittee on Tactical Air and Land Forces</name>
+  </committee-entity>
+  <committee-entity id="HAS26" parent-id="HAS00">
+    <name role="official">Subcommittee on Emerging Threats and Capabilities</name>
+  </committee-entity>
+  <committee-entity id="HAS28" parent-id="HAS00">
+    <name role="official">Subcommittee on Seapower and Projection Forces</name>
+  </committee-entity>
+  <committee-entity id="HAS29" parent-id="HAS00">
+    <name role="official">Subcommittee on Strategic Forces</name>
+    <name>Subcommittee on Strategic Forces of the Committee on Armed Services of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HBA00">
+    <name role="official">House Committee on Financial Services</name>
+    <name>Committee on Financial Services of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HBA04" parent-id="HBA00">
+    <name role="official">Subcommittee on Insurance, Housing and Community Opportunity</name>
+  </committee-entity>
+  <committee-entity id="HBA09" parent-id="HBA00">
+    <name role="official">Subcommittee on Oversight and Investigations</name>
+  </committee-entity>
+  <committee-entity id="HBA15" parent-id="HBA00">
+    <name role="official">Subcommittee on Financial Institutions and Consumer Credit</name>
+  </committee-entity>
+  <committee-entity id="HBA16" parent-id="HBA00">
+    <name role="official">Subcommittee on Capital Markets and Government Sponsored Enterprises</name>
+  </committee-entity>
+  <committee-entity id="HBA19" parent-id="HBA00">
+    <name role="official">Subcommittee on Domestic Monetary Policy and Technology</name>
+  </committee-entity>
+  <committee-entity id="HBA20" parent-id="HBA00">
+    <name role="official">Subcommittee on International Monetary Policy and Trade</name>
+  </committee-entity>
+  <committee-entity id="HBU00">
+    <name role="official">House Committee on the Budget</name>
+    <name>Committee on the Budget of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HED00">
+    <name role="official">House Committee on Education and the Workforce</name>
+    <name>Committee on Education and the Workforce of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HED02" parent-id="HED00">
+    <name role="official">Subcommittee on Health, Employment, Labor, and Pensions</name>
+  </committee-entity>
+  <committee-entity id="HED10" parent-id="HED00">
+    <name role="official">Subcommittee on Workforce Protections</name>
+  </committee-entity>
+  <committee-entity id="HED13" parent-id="HED00">
+    <name role="official">Subcommittee on Higher Education and Workforce Training</name>
+  </committee-entity>
+  <committee-entity id="HED14" parent-id="HED00">
+    <name role="official">Subcommittee on Early Childhood, Elementary, and Secondary Education</name>
+  </committee-entity>
+  <committee-entity id="HFA00">
+    <name role="official">House Committee on Foreign Affairs</name>
+    <name>Committee on Foreign Affairs of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HFA05" parent-id="HFA00">
+    <name role="official">Subcommittee on Asia and the Pacific</name>
+  </committee-entity>
+  <committee-entity id="HFA07" parent-id="HFA00">
+    <name role="official">Subcommittee on the Western Hemisphere</name>
+  </committee-entity>
+  <committee-entity id="HFA13" parent-id="HFA00">
+    <name role="official">Subcommittee on the Middle East and South Asia</name>
+  </committee-entity>
+  <committee-entity id="HFA14" parent-id="HFA00">
+    <name role="official">Subcommittee on Europe and Eurasia</name>
+  </committee-entity>
+  <committee-entity id="HFA16" parent-id="HFA00">
+    <name role="official">Subcommittee on Africa, Global Health, and Human Rights</name>
+  </committee-entity>
+  <committee-entity id="HFA17" parent-id="HFA00">
+    <name role="official">Subcommittee on Oversight and Investigations</name>
+  </committee-entity>
+  <committee-entity id="HFA18" parent-id="HFA00">
+    <name role="official">Subcommittee on Terrorism, Nonproliferation, and Trade</name>
+  </committee-entity>
+  <committee-entity id="HGO00">
+    <name role="official">House Committee on Oversight and Government Reform</name>
+    <name>Committee on Oversight and Government Reform of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HGO06" parent-id="HGO00">
+    <name role="official">Subcommittee on National Security, Homeland Defense and Foreign Operations</name>
+  </committee-entity>
+  <committee-entity id="HGO24" parent-id="HGO00">
+    <name role="official">Subcommittee on Government Organization, Efficiency and Financial Management</name>
+  </committee-entity>
+  <committee-entity id="HGO25" parent-id="HGO00">
+    <name role="official">Subcommittee on Federal Workforce, U.S. Postal Service and Labor Policy</name>
+  </committee-entity>
+  <committee-entity id="HGO27" parent-id="HGO00">
+    <name role="official">Subcommittee on Health Care, District of Columbia, Census and the National Archives</name>
+  </committee-entity>
+  <committee-entity id="HGO28" parent-id="HGO00">
+    <name role="official">Subcommittee on Regulatory Affairs, Stimulus Oversight and Government Spending</name>
+  </committee-entity>
+  <committee-entity id="HGO29" parent-id="HGO00">
+    <name role="official">Subcommittee on TARP, Financial Services and Bailouts of Public and Private Programs</name>
+  </committee-entity>
+  <committee-entity id="HGO30" parent-id="HGO00">
+    <name role="official">Subcommittee on Technology, Information Policy, Intergovernmental Relations and Procurement Reform</name>
+  </committee-entity>
+  <committee-entity id="HHA00">
+    <name role="official">House Committee on House Administration</name>
+    <name>Committee on House Administration of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HHA06" parent-id="HHA00">
+    <name role="official">Subcommittee on Oversight</name>
+  </committee-entity>
+  <committee-entity id="HHA08" parent-id="HHA00">
+    <name role="official">Subcommittee on Elections</name>
+  </committee-entity>
+  <committee-entity id="HHM00">
+    <name role="official">House Committee on Homeland Security</name>
+    <name>Committee on Homeland Security of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HHM05" parent-id="HHM00">
+    <name role="official">Subcommittee on Counterterrorism and Intelligence</name>
+  </committee-entity>
+  <committee-entity id="HHM07" parent-id="HHM00">
+    <name role="official">Subcommittee on Transportation Security</name>
+  </committee-entity>
+  <committee-entity id="HHM08" parent-id="HHM00">
+    <name role="official">Subcommittee on Cybersecurity, Infrastructure Protection, and Security Technologies</name>
+  </committee-entity>
+  <committee-entity id="HHM09" parent-id="HHM00">
+    <name role="official">Subcommittee on Oversight, Investigations, and Management</name>
+    <name>Subcommittee on Oversight, Investigations, and Management of the Committee on Homeland Security of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HHM11" parent-id="HHM00">
+    <name role="official">Subcommittee on Border and Maritime Security</name>
+  </committee-entity>
+  <committee-entity id="HHM12" parent-id="HHM00">
+    <name role="official">Subcommittee on Emergency Preparedness, Response and Communications</name>
+  </committee-entity>
+  <committee-entity id="HIF00">
+    <name role="official">House Committee on Energy and Commerce</name>
+    <name>Committee on Energy and Commerce of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HIF02" parent-id="HIF00">
+    <name role="official">Subcommittee on Oversight and Investigations</name>
+  </committee-entity>
+  <committee-entity id="HIF03" parent-id="HIF00">
+    <name role="official">Subcommittee on Energy and Power</name>
+  </committee-entity>
+  <committee-entity id="HIF14" parent-id="HIF00">
+    <name role="official">Subcommittee on Health</name>
+  </committee-entity>
+  <committee-entity id="HIF16" parent-id="HIF00">
+    <name role="official">Subcommittee on Communications and Technology</name>
+    <name>Subcommittee on Communications and Technology of the Committee on Energy and Commerce of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HIF17" parent-id="HIF00">
+    <name role="official">Subcommittee on Commerce, Manufacturing, and Trade</name>
+  </committee-entity>
+  <committee-entity id="HIF18" parent-id="HIF00">
+    <name role="official">Subcommittee on Environment and the Economy</name>
+  </committee-entity>
+  <committee-entity id="HIG00">
+    <name role="official">Permanent Select Committee on Intelligence</name>
+    <name>Permanent Select Committee on Intelligence of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HIG05" parent-id="HIG00">
+    <name role="official">Subcommittee on Technical and Tactical Intelligence</name>
+  </committee-entity>
+  <committee-entity id="HIG08" parent-id="HIG00">
+    <name role="official">Subcommittee on Terrorism, Human Intelligence, Analysis, and Counterintelligence</name>
+  </committee-entity>
+  <committee-entity id="HIG09" parent-id="HIG00">
+    <name role="official">Subcommittee on Oversight and Investigations</name>
+  </committee-entity>
+  <committee-entity id="HII00">
+    <name role="official">House Committee on Natural Resources</name>
+    <name>Committee on Natural Resources of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HII06" parent-id="HII00">
+    <name role="official">Subcommittee on Energy and Mineral Resources</name>
+  </committee-entity>
+  <committee-entity id="HII10" parent-id="HII00">
+    <name role="official">Subcommittee on National Parks, Forests and Public Lands</name>
+  </committee-entity>
+  <committee-entity id="HII13" parent-id="HII00">
+    <name role="official">Subcommittee on Water and Power</name>
+  </committee-entity>
+  <committee-entity id="HII22" parent-id="HII00">
+    <name role="official">Subcommittee on Fisheries, Wildlife, Oceans and Insular Affairs</name>
+  </committee-entity>
+  <committee-entity id="HII24" parent-id="HII00">
+    <name role="official">Subcommittee on Indian and Alaska Native Affairs</name>
+  </committee-entity>
+  <committee-entity id="HJU00">
+    <name role="official">House Committee on the Judiciary</name>
+    <name>Committee on the Judiciary of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HJU01" parent-id="HJU00">
+    <name role="official">Subcommittee on Immigration Policy and Enforcement</name>
+  </committee-entity>
+  <committee-entity id="HJU03" parent-id="HJU00">
+    <name role="official">Subcommittee on Courts, Commercial and Administrative Law</name>
+  </committee-entity>
+  <committee-entity id="HJU08" parent-id="HJU00">
+    <name role="official">Subcommittee on Crime, Terrorism, and Homeland Security</name>
+  </committee-entity>
+  <committee-entity id="HJU10" parent-id="HJU00">
+    <name role="official">Subcommittee on the Constitution</name>
+  </committee-entity>
+  <committee-entity id="HJU12" parent-id="HJU00">
+    <name role="official">Subcommittee on Intellectual Property, Competition, and the Internet</name>
+  </committee-entity>
+  <committee-entity id="HPW00">
+    <name role="official">House Committee on Transportation and Infrastructure</name>
+    <name>Committee on Transportation and Infrastructure of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HPW02" parent-id="HPW00">
+    <name role="official">Subcommittee on Water Resources and Environment</name>
+  </committee-entity>
+  <committee-entity id="HPW05" parent-id="HPW00">
+    <name role="official">Subcommittee on Aviation</name>
+  </committee-entity>
+  <committee-entity id="HPW07" parent-id="HPW00">
+    <name role="official">Subcommittee on Coast Guard and Maritime Transportation</name>
+  </committee-entity>
+  <committee-entity id="HPW12" parent-id="HPW00">
+    <name role="official">Subcommittee on Highways and Transit</name>
+  </committee-entity>
+  <committee-entity id="HPW13" parent-id="HPW00">
+    <name role="official">Subcommittee on Economic Development, Public Buildings, and Emergency Management</name>
+  </committee-entity>
+  <committee-entity id="HPW14" parent-id="HPW00">
+    <name role="official">Subcommittee on Railroads, Pipelines, and Hazardous Materials</name>
+  </committee-entity>
+  <committee-entity id="HRU00">
+    <name role="official">House Committee on Rules</name>
+    <name>Committee on Rules of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HRU02" parent-id="HRU00">
+    <name role="official">Subcommittee on Legislative and Budget Process</name>
+  </committee-entity>
+  <committee-entity id="HRU04" parent-id="HRU00">
+    <name role="official">Subcommittee on Rules and Organization of the House</name>
+  </committee-entity>
+  <committee-entity id="HSM00">
+    <name role="official">House Committee on Small Business</name>
+    <name>Committee on Small Business of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HSM23" parent-id="HSM00">
+    <name role="official">Subcommittee on Contracting and Workforce</name>
+  </committee-entity>
+  <committee-entity id="HSM24" parent-id="HSM00">
+    <name role="official">Subcommittee on Investigations, Oversight and Regulations</name>
+  </committee-entity>
+  <committee-entity id="HSM25" parent-id="HSM00">
+    <name role="official">Subcommittee on Agriculture, Energy and Trade</name>
+  </committee-entity>
+  <committee-entity id="HSM26" parent-id="HSM00">
+    <name role="official">Subcommittee on Healthcare and Technology</name>
+  </committee-entity>
+  <committee-entity id="HSM27" parent-id="HSM00">
+    <name role="official">Subcommittee on Economic Growth, Tax and Capital Access</name>
+  </committee-entity>
+  <committee-entity id="HSO00">
+    <name role="official">House Committee on Ethics</name>
+    <name>Committee on Ethics of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HSY00">
+    <name role="official">House Committee on Science, Space, and Technology</name>
+    <name>Committee on Science, Space, and Technology of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HSY14" parent-id="HSY00">
+    <name role="official">Subcommittee on Research and Science Education</name>
+  </committee-entity>
+  <committee-entity id="HSY16" parent-id="HSY00">
+    <name role="official">Subcommittee on Space and Aeronautics</name>
+  </committee-entity>
+  <committee-entity id="HSY19" parent-id="HSY00">
+    <name role="official">Subcommittee on Technology and Innovation</name>
+  </committee-entity>
+  <committee-entity id="HSY20" parent-id="HSY00">
+    <name role="official">Subcommittee on Energy and Environment</name>
+  </committee-entity>
+  <committee-entity id="HSY21" parent-id="HSY00">
+    <name role="official">Subcommittee on Investigations and Oversight</name>
+  </committee-entity>
+  <committee-entity id="HVR00">
+    <name role="official">House Committee on Veterans' Affairs</name>
+    <name>Committee on Veterans' Affairs of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HVR03" parent-id="HVR00">
+    <name role="official">Subcommittee on Health</name>
+  </committee-entity>
+  <committee-entity id="HVR08" parent-id="HVR00">
+    <name role="official">Subcommittee on Oversight and Investigations</name>
+  </committee-entity>
+  <committee-entity id="HVR09" parent-id="HVR00">
+    <name role="official">Subcommittee on Disability Assistance and Memorial Affairs</name>
+  </committee-entity>
+  <committee-entity id="HVR10" parent-id="HVR00">
+    <name role="official">Subcommittee on Economic Opportunity</name>
+  </committee-entity>
+  <committee-entity id="HWM00">
+    <name role="official">House Committee on Ways and Means</name>
+    <name>Committee on Ways and Means of the House of Representatives</name>
+  </committee-entity>
+  <committee-entity id="HWM01" parent-id="HWM00">
+    <name role="official">Subcommittee on Social Security</name>
+  </committee-entity>
+  <committee-entity id="HWM02" parent-id="HWM00">
+    <name role="official">Subcommittee on Health</name>
+  </committee-entity>
+  <committee-entity id="HWM03" parent-id="HWM00">
+    <name role="official">Subcommittee on Human Resources</name>
+  </committee-entity>
+  <committee-entity id="HWM04" parent-id="HWM00">
+    <name role="official">Subcommittee on Trade</name>
+  </committee-entity>
+  <committee-entity id="HWM05" parent-id="HWM00">
+    <name role="official">Subcommittee on Select Revenue Measures</name>
+  </committee-entity>
+  <committee-entity id="HWM06" parent-id="HWM00">
+    <name role="official">Subcommittee on Oversight</name>
+  </committee-entity>
+</congressional-committees>
+

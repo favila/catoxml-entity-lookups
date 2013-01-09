@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<entities description="Definitions of Common Versions of Bills" source="http://www.gpo.gov/help/about_congressional_bills.htm" type="billversion" updated="2013-01-09T02:41:01">
+  <entity chambers="S" definition="An alternate name for this version is Senate Amendment Ordered to be Printed. This version contains an amendment that has been ordered to be printed." id="as">
+    <name role="official">Amendment Ordered to be Printed Senate</name>
+  </entity>
+  <entity chambers="H" definition="An alternate name for this version is House Sponsors or Cosponsors Added or Withdrawn. This version is used to add or delete cosponsor names. When used, it most often shows numerous cosponsors being added." id="ash">
+    <name role="official">Additional Sponsors House</name>
+  </entity>
+  <entity chambers="H" definition="An alternate name for this version is Agreed to by House. This version is a simple or concurrent resolution as agreed to in the House of Representatives." id="ath">
+    <name role="official">Agreed to House</name>
+  </entity>
+  <entity chambers="S" definition="An alternate name for this version is Agreed to by Senate. This version is a simple or concurrent resolution as agreed to in the Senate." id="ats">
+    <name role="official">Agreed to Senate</name>
+  </entity>
+  <entity chambers="H S" definition="An alternate name for this version is House Committee Discharged from Further Consideration. This version is a bill or resolution as it was when the committee to which the bill or resolution has been referred has been discharged from its consideration to make it available for floor consideration." id="cdh">
+    <name role="official">Committee Discharged House</name>
+  </entity>
+  <entity chambers="H S" definition="An alternate name for this version is Senate Committee Discharged from Further Consideration. This version is a bill or resolution as it was when the committee to which the bill or resolution has been referred has been discharged from its consideration to make it available for floor consideration." id="cds">
+    <name role="official">Committee Discharged Senate</name>
+  </entity>
+  <entity chambers="H" definition="Considered and Passed House &#x2013; An alternate name for this version is Considered and Passed by House. This version is a bill or joint resolution as considered and passed." id="cph">
+    <name role="official">Considered and Passed House</name>
+  </entity>
+  <entity chambers="H S" definition="An alternate name for this version is Considered and Passed by Senate. This version is a bill or joint resolution as considered and passed." id="cps">
+    <name role="official">Considered and Passed Senate</name>
+  </entity>
+  <entity chambers="H S" definition="An alternate name for this version is Engrossed Amendment as Agreed to by House. This version is the official copy of a bill or joint resolution as passed, including the text as amended by floor action, and certified by the Clerk of the House before it is sent to the Senate. Often this is the engrossment of an amendment in the nature of a substitute, an amendment which replaces the entire text of a measure. It strikes out everything after the enacting or resolving clause and inserts a version which may be somewhat, substantially, or entirely different." id="eah">
+    <name role="official">Engrossed Amendment House</name>
+  </entity>
+  <entity chambers="H S" definition="An alternate name for this version is Engrossed Amendment as Agreed to by Senate. This version is the official copy of the amendment to a bill or joint resolution as passed, including the text as amended by floor action, and certified by the Secretary of the Senate before it is sent to the House. Often this is the engrossment of an amendment in the nature of a substitute, an amendment which replaces the entire text of a measure. It strikes out everything after the enacting or resolving clause and inserts a version which may be somewhat, substantially, or entirely different." id="eas">
+    <name role="official">Engrossed Amendment Senate</name>
+  </entity>
+  <entity chambers="H" definition="An alternate name for this version is Engrossed as Agreed to or Passed by House. This version is the official copy of the bill or joint resolution as passed, including the text as amended by floor action, and certified by the Clerk of the House before it is sent to the Senate." id="eh">
+    <name role="official">Engrossed in House</name>
+  </entity>
+  <entity chambers="H" definition="This version is the official copy of the bill or joint resolution as passed and certified by the Clerk of the House before it is sent to the Senate. See H. J. RES. 280 from the 101st Congress for an example of this bill version." id="eph">
+    <name role="official">Engrossed and Deemed Passed by House</name>
+  </entity>
+  <entity chambers="" definition="An alternate name for this version is Enrolled as Agreed to or Passed by Both House and Senate. This version is the final official copy of the bill or joint resolution which both the House and the Senate have passed in identical form. After it is certified by the chief officer of the house in which it originated (the Clerk of the House or the Secretary of the Senate), then signed by the House Speaker and the Senate President Pro Tempore, the measure is sent to the President for signature." id="enr">
+    <name role="official">Enrolled Bill</name>
+  </entity>
+  <entity chambers="" definition="House" id="Senate">
+    <name role="official">Joint</name>
+  </entity>
+  <entity chambers="S" definition="An alternate name for this version is Engrossed as Agreed to or Passed by Senate. This version is the official copy of the bill or joint resolution as passed, including the text as amended by floor action, and certified by the Secretary of the Senate before it is sent to the House." id="es">
+    <name role="official">Engrossed in Senate</name>
+  </entity>
+  <entity chambers="H" definition="This amendment has failed in the House." id="fah">
+    <name role="official">Failed Amendment House</name>
+  </entity>
+  <entity chambers="H" definition="Bill or resolution that failed to pass the House." id="fph">
+    <name role="official">Failed Passage House</name>
+  </entity>
+  <entity chambers="S" definition="Bill or resolution that failed to pass the Senate." id="fps">
+    <name role="official">Failed Passage Senate</name>
+  </entity>
+  <entity chambers="H" definition="An alternate name for this bill version is Ordered Held at House Desk after being Received from House. This version has been held at the desk in the House." id="hdh">
+    <name role="official">Held at Desk House</name>
+  </entity>
+  <entity chambers="S" definition="An alternate name for this bill version is Ordered Held at Senate Desk after being Received from House. This version is a bill or resolution as received in the Senate from the House which has been ordered to be held at the desk, sometimes in preparation for going to conference. It is available to be called up for consideration by unanimous consent." id="hds">
+    <name role="official">Held at Desk Senate</name>
+  </entity>
+  <entity chambers="H" definition="This version is a bill or resolution as formally presented by a member of Congress to a clerk when the House is in session." id="ih">
+    <name role="official">Introduced in House</name>
+  </entity>
+  <entity chambers="H" definition="This version is a bill or resolution as it was when consideration was suspended with no date specified for continuing its consideration." id="iph">
+    <name role="official">Indefinitely Postponed  House</name>
+  </entity>
+  <entity chambers="H S" definition="This version is a bill or resolution as it was when consideration was suspended with no date specified for continuing its consideration." id="ips">
+    <name role="official">Indefinitely Postponed Senate</name>
+  </entity>
+  <entity chambers="S" definition="This version is a bill or resolution as formally presented by a member of Congress to a clerk when the Senate is in session." id="is">
+    <name role="official">Introduced in Senate</name>
+  </entity>
+  <entity chambers="H S" definition="This version is a bill or resolution as laid on the table which disposes of it immediately, finally, and adversely via a motion without a direct vote on its substance." id="lth">
+    <name role="official">Laid on Table in House</name>
+  </entity>
+  <entity chambers="H S" definition="This version was laid on the table in the Senate. See also Laid on Table in House." id="lts">
+    <name role="official">Laid on Table in Senate</name>
+  </entity>
+  <entity chambers="H" definition="This version was ordered to be printed by the House.  See also Ordered to be Printed Senate." id="oph">
+    <name role="official">Ordered to be Printed House</name>
+  </entity>
+  <entity chambers="S" definition="This version was ordered to be printed by the Senate. For example, in the 105th Congress S. 1173 was considered at length by the Senate, returned to the Senate calendar, ordered to be printed. Then its text was inserted into its companion House bill which was passed by the Senate." id="ops">
+    <name role="official">Ordered to be Printed Senate</name>
+  </entity>
+  <entity chambers="H S" definition="This version is a bill or resolution as it was when an action previously taken on it was undone or invalidated. For example in the 102nd Congress for H.R. 2321 the Senate action discharging the Energy Committee and amending and passing the bill was vitiated by unanimous consent. The bill was amended, reported, and passed anew." id="pav">
+    <name role="official">Previous Action Vitiated</name>
+  </entity>
+  <entity chambers="H S" definition="This version is a bill or resolution as placed on one of the five House calendars. It is eligible for floor consideration, but a place on a calendar does not guarantee consideration." id="pch">
+    <name role="official">Placed on Calendar House</name>
+  </entity>
+  <entity chambers="H S" definition="This version is a bill or resolution as placed on one of the two Senate calendars. It is eligible for floor consideration, but a place on a calendar does not guarantee consideration." id="pcs">
+    <name role="official">Placed on Calendar Senate</name>
+  </entity>
+  <entity chambers="H S" definition="Any bill from the House or Senate may be issued as a public print. If a bill is issued as a Public Print more copies will be printed than are printed for an engrossed version. Public prints also number the amendments made by the last chamber to pass it. Public Prints are typically published by the Senate to show Senate amendments to House bills. They typically contain the text of a House bill, indicating portions struck, plus Senate amendments in italics. They are routinely ordered for appropriations bills, but the Senate occasionally by unanimous consent orders public prints of other significant bills." id="pp">
+    <name role="official">Public Print</name>
+  </entity>
+  <entity chambers="H S" definition="This version is a public print of a bill as passed. Generally, appropriation bills receive a PP designation while non-appropriation bills receive a PAP designation. See also Public Print." id="pap">
+    <name role="official">Printed as Passed</name>
+  </entity>
+  <entity chambers="H S" definition="This version shows Senate amendments to a House bill. It is similar to a Public Print from the Senate, except that it does not include portions struck, only the Senate amendment in the nature of a substitute in italics. See S. 1059 from the 106th Congress for an example of this bill version on a Senate bill." id="pwah">
+    <name role="official">Ordered to be Printed with House Amendment</name>
+  </entity>
+  <entity chambers="H" definition="This version was referred with amendments to the House." id="rah">
+    <name role="official">Referred with Amendments House</name>
+  </entity>
+  <entity chambers="S" definition="This version was referred with amendments to the Senate." id="ras">
+    <name role="official">Referred with Amendments Senate</name>
+  </entity>
+  <entity chambers="H S" definition="An alternate name for this bill version is Referred to Different or Additional House Committee. This version is a bill or resolution as re-referred to a different or additional House committee. It may have been discharged from the committee to which it was originally referred then referred to a different committee, referred to an additional committee sequentially, or reported by the original committee then referred to an additional committee. See S. 1016 for an example of this bill version on a Senate bill." id="rch">
+    <name role="official">Reference Change House</name>
+  </entity>
+  <entity chambers="H S" definition="An alternate name for this version is Referred to Different or Additional Senate Committee. This version is a  bill or resolution as it was re-referred to a different or additional Senate committee. It may have been discharged from the committee to which it was originally referred then referred to a different committee, referred to an additional committee sequentially, or reported by the original committee then referred to an additional committee. See H.R. 1502 from the 105th Congress for an example of this bill version on a House bill." id="rcs">
+    <name role="official">Reference Change Senate</name>
+  </entity>
+  <entity chambers="H" definition="An alternate name for this bill version is Received in House from Senate. This version is a bill or resolution as passed or agreed to in the Senate which has been sent to and received in the House. See the 105th Congress for an example of this bill version." id="rdh">
+    <name role="official">Received in House</name>
+  </entity>
+  <entity chambers="S" definition="An alternate name for this bill version is Received in Senate from House. This version is a bill or resolution as it was passed or agreed to in the House which has been sent to and received in the Senate." id="rds">
+    <name role="official">Received in Senate</name>
+  </entity>
+  <entity chambers="H S" definition="This version is a re-engrossed amendment in the House." id="reah">
+    <name role="official">Re-engrossed Amendment House</name>
+  </entity>
+  <entity chambers="H S" definition="This version is a re-engrossed amendment in the Senate. See also Engrossed Amendment Senate." id="res">
+    <name role="official">Re-engrossed Amendment Senate</name>
+  </entity>
+  <entity chambers="" definition="This version has been re-enrolled." id="renr">
+    <name role="official">Re-enrolled Bill</name>
+  </entity>
+  <entity chambers="" definition="Senate" id="House">
+    <name role="official">Joint</name>
+  </entity>
+  <entity chambers="H S" definition="An alternate name for this bill version is Referred to House Committee after being Received from Senate. This version is a bill or resolution as passed or agreed to in the Senate which has been sent to, received in the House, and referred to House committee or committees." id="rfh">
+    <name role="official">Referred in House</name>
+  </entity>
+  <entity chambers="H S" definition="An alternate name for this bill version is Referred to Senate Committee after being Received from House. This version is a bill or resolution as passed or agreed to in the House which has been sent to, received in the Senate, and referred to Senate committee or committees." id="rfs">
+    <name role="official">Referred in Senate</name>
+  </entity>
+  <entity chambers="H S" definition="This version is a bill or resolution as reported by the committee or one of the committees to which it was referred, including changes, if any, made in committee. The bill or resolution is usually accompanied by a committee report which describes the measure, the committee's views on it, its costs, and the changes it proposes to make in existing law. The bill or resolution is then available for floor consideration. This version occurs to both House and Senate bills." id="rh">
+    <name role="official">Reported in House</name>
+  </entity>
+  <entity chambers="H S" definition="An alternate name for this bill version is Referred to House Committee with Instructions. This version is a bill or resolution as referred or re-referred to committee with instructions to take some action on it. Invariably in the House the instructions require the committee to report the measure forthwith with specified amendments." id="rih">
+    <name role="official">Referral Instructions House</name>
+  </entity>
+  <entity chambers="H S" definition="An alternate name for this bill version is Referred to Senate Committee with Instructions. This version is a bill or resolution as referred or re-referred to committee with instructions to take some action on it. Often in the Senate the instructions require the committee to report the measure forth with specified amendments." id="ris">
+    <name role="official">Referral Instructions Senate</name>
+  </entity>
+  <entity chambers="H S" definition="This version is a bill or resolution as reported by the committee or one of the committees to which it was referred, including changes, if any, made in committee. The bill or resolution is usually accompanied by a committee report which describes the measure, the committee's views on it, its costs, and the changes it proposes to make in existing law. The bill or resolution is then available for floor consideration." id="rs">
+    <name role="official">Reported in Senate</name>
+  </entity>
+  <entity chambers="H" definition="Bill or resolution as referred or re-referred to a House committee or committees. See 104th Congress for an example of this bill version." id="rth">
+    <name role="official">Referred to Committee House</name>
+  </entity>
+  <entity chambers="S" definition="Bill or resolution as referred or re-referred to a Senate committee or committees." id="rts">
+    <name role="official">Referred to Committee Senate</name>
+  </entity>
+  <entity chambers="S" definition="Additional sponsors have been added to this version." id="sas">
+    <name role="official">Additional Sponsors Senate</name>
+  </entity>
+</entities>

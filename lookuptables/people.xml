@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entities type="person" version="congress-113" updated="2013-01-09T02:41:00-06:00" source="http://www.govtrack.us/data/us/113/people.xml">
+  <entity id="A000055" govtrackid="400004" title="Rep." state="AL" district="4">
+    <name lastname="Aderholt" firstname="Robert">Rep. Robert Aderholt (R, AL-4)</name>
+  </entity>
+  <entity id="A000361" govtrackid="400006" title="Rep." state="LA" district="5">
+    <name lastname="Alexander" firstname="Rodney">Rep. Rodney Alexander (R, LA-5)</name>
+  </entity>
+  <entity id="A000210" govtrackid="400008" title="Rep." state="NJ" district="1">
+    <name lastname="Andrews" firstname="Robert">Rep. Robert Andrews (D, NJ-1)</name>
+  </entity>
+  <entity id="B000013" govtrackid="400010" title="Rep." state="AL" district="6">
+    <name lastname="Bachus" firstname="Spencer">Rep. Spencer Bachus (R, AL-6)</name>
+  </entity>
+  <entity id="B001230" govtrackid="400013" title="Sen." state="WI">
+    <name lastname="Baldwin" firstname="Tammy">Sen. Tammy Baldwin (D, WI)</name>
+  </entity>
+  <entity id="B000213" govtrackid="400018" title="Rep." state="TX" district="6">
+    <name lastname="Barton" firstname="Joe">Rep. Joe Barton (R, TX-6)</name>
+  </entity>
+  <entity id="B000287" govtrackid="400021" title="Rep." state="CA" district="34">
+    <name lastname="Becerra" firstname="Xavier">Rep. Xavier Becerra (D, CA-34)</name>
+  </entity>
+  <entity id="B000490" govtrackid="400030" title="Rep." state="GA" district="2">
+    <name lastname="Bishop" firstname="Sanford">Rep. Sanford Bishop (D, GA-2)</name>
+  </entity>
+  <entity id="B001242" govtrackid="400031" title="Rep." state="NY" district="1">
+    <name lastname="Bishop" firstname="Timothy">Rep. Timothy Bishop (D, NY-1)</name>
+  </entity>
+  <entity id="B001250" govtrackid="400029" title="Rep." state="UT" district="1">
+    <name lastname="Bishop" firstname="Rob">Rep. Rob Bishop (R, UT-1)</name>
+  </entity>
+  <entity id="B001243" govtrackid="400032" title="Rep." state="TN" district="7">
+    <name lastname="Blackburn" firstname="Marsha">Rep. Marsha Blackburn (R, TN-7)</name>
+  </entity>
+  <entity id="B000574" govtrackid="400033" title="Rep." state="OR" district="3">
+    <name lastname="Blumenauer" firstname="Earl">Rep. Earl Blumenauer (D, OR-3)</name>
+  </entity>
+  <entity id="B000575" govtrackid="400034" title="Sen." state="MO">
+    <name lastname="Blunt" firstname="Roy">Sen. Roy Blunt (R, MO)</name>
+  </entity>
+  <entity id="B000589" govtrackid="400036" title="Rep." state="OH" district="8">
+    <name lastname="Boehner" firstname="John">Rep. John Boehner (R, OH-8)</name>
+  </entity>
+  <entity id="B001244" govtrackid="400038" title="Rep." state="AL" district="1">
+    <name lastname="Bonner" firstname="Jo">Rep. Jo Bonner (R, AL-1)</name>
+  </entity>
+  <entity id="B001236" govtrackid="400040" title="Sen." state="AR">
+    <name lastname="Boozman" firstname="John">Sen. John Boozman (R, AR)</name>
+  </entity>
+  <entity id="B001245" govtrackid="400041" title="Del." state="GU" district="0">
+    <name lastname="Bordallo" firstname="Madeleine">Del. Madeleine Bordallo (D, GU-0)</name>
+  </entity>
+  <entity id="B001227" govtrackid="400047" title="Rep." state="PA" district="1">
+    <name lastname="Brady" firstname="Robert">Rep. Robert Brady (D, PA-1)</name>
+  </entity>
+  <entity id="B000755" govtrackid="400046" title="Rep." state="TX" district="8">
+    <name lastname="Brady" firstname="Kevin">Rep. Kevin Brady (R, TX-8)</name>
+  </entity>
+  <entity id="B000911" govtrackid="400048" title="Rep." state="FL" district="5">
+    <name lastname="Brown" firstname="Corrine">Rep. Corrine Brown (D, FL-5)</name>
+  </entity>
+  <entity id="B000944" govtrackid="400050" title="Sen." state="OH">
+    <name lastname="Brown" firstname="Sherrod">Sen. Sherrod Brown (D, OH)</name>
+  </entity>
+  <entity id="B001248" govtrackid="400052" title="Rep." state="TX" district="26">
+    <name lastname="Burgess" firstname="Michael">Rep. Michael Burgess (R, TX-26)</name>
+  </entity>
+  <entity id="B001135" govtrackid="400054" title="Sen." state="NC">
+    <name lastname="Burr" firstname="Richard">Sen. Richard Burr (R, NC)</name>
+  </entity>
+  <entity id="C000059" govtrackid="400057" title="Rep." state="CA" district="42">
+    <name lastname="Calvert" firstname="Ken">Rep. Ken Calvert (R, CA-42)</name>
+  </entity>
+  <entity id="C000071" govtrackid="400058" title="Rep." state="MI" district="4">
+    <name lastname="Camp" firstname="David">Rep. David Camp (R, MI-4)</name>
+  </entity>
+  <entity id="C001046" govtrackid="400060" title="Rep." state="VA" district="7">
+    <name lastname="Cantor" firstname="Eric">Rep. Eric Cantor (R, VA-7)</name>
+  </entity>
+  <entity id="C001047" govtrackid="400061" title="Rep." state="WV" district="2">
+    <name lastname="Capito" firstname="Shelley">Rep. Shelley Capito (R, WV-2)</name>
+  </entity>
+  <entity id="C001036" govtrackid="400062" title="Rep." state="CA" district="24">
+    <name lastname="Capps" firstname="Lois">Rep. Lois Capps (D, CA-24)</name>
+  </entity>
+  <entity id="C001037" govtrackid="400063" title="Rep." state="MA" district="7">
+    <name lastname="Capuano" firstname="Michael">Rep. Michael Capuano (D, MA-7)</name>
+  </entity>
+  <entity id="C000141" govtrackid="400064" title="Sen." state="MD">
+    <name lastname="Cardin" firstname="Benjamin">Sen. Benjamin Cardin (D, MD)</name>
+  </entity>
+  <entity id="C001051" govtrackid="400068" title="Rep." state="TX" district="31">
+    <name lastname="Carter" firstname="John">Rep. John Carter (R, TX-31)</name>
+  </entity>
+  <entity id="C000266" govtrackid="400071" title="Rep." state="OH" district="1">
+    <name lastname="Chabot" firstname="Steven">Rep. Steven Chabot (R, OH-1)</name>
+  </entity>
+  <entity id="C000380" govtrackid="400073" title="Del." state="VI" district="0">
+    <name lastname="Christensen" firstname="Donna">Del. Donna Christensen (D, VI-0)</name>
+  </entity>
+  <entity id="C001049" govtrackid="400074" title="Rep." state="MO" district="1">
+    <name lastname="Clay" firstname="William">Rep. William Clay (D, MO-1)</name>
+  </entity>
+  <entity id="C000537" govtrackid="400075" title="Rep." state="SC" district="6">
+    <name lastname="Clyburn" firstname="James">Rep. James Clyburn (D, SC-6)</name>
+  </entity>
+  <entity id="C000556" govtrackid="400076" title="Rep." state="NC" district="6">
+    <name lastname="Coble" firstname="Howard">Rep. Howard Coble (R, NC-6)</name>
+  </entity>
+  <entity id="C001053" govtrackid="400077" title="Rep." state="OK" district="4">
+    <name lastname="Cole" firstname="Tom">Rep. Tom Cole (R, OK-4)</name>
+  </entity>
+  <entity id="C000714" govtrackid="400080" title="Rep." state="MI" district="13">
+    <name lastname="Conyers" firstname="John">Rep. John Conyers (D, MI-13)</name>
+  </entity>
+  <entity id="C000754" govtrackid="400081" title="Rep." state="TN" district="5">
+    <name lastname="Cooper" firstname="Jim">Rep. Jim Cooper (D, TN-5)</name>
+  </entity>
+  <entity id="C001045" govtrackid="400086" title="Rep." state="FL" district="4">
+    <name lastname="Crenshaw" firstname="Ander">Rep. Ander Crenshaw (R, FL-4)</name>
+  </entity>
+  <entity id="C001038" govtrackid="400087" title="Rep." state="NY" district="14">
+    <name lastname="Crowley" firstname="Joseph">Rep. Joseph Crowley (D, NY-14)</name>
+  </entity>
+  <entity id="C001048" govtrackid="400089" title="Rep." state="TX" district="7">
+    <name lastname="Culberson" firstname="John">Rep. John Culberson (R, TX-7)</name>
+  </entity>
+  <entity id="C000984" govtrackid="400090" title="Rep." state="MD" district="7">
+    <name lastname="Cummings" firstname="Elijah">Rep. Elijah Cummings (D, MD-7)</name>
+  </entity>
+  <entity id="D000598" govtrackid="400097" title="Rep." state="CA" district="53">
+    <name lastname="Davis" firstname="Susan">Rep. Susan Davis (D, CA-53)</name>
+  </entity>
+  <entity id="D000096" govtrackid="400093" title="Rep." state="IL" district="7">
+    <name lastname="Davis" firstname="Danny">Rep. Danny Davis (D, IL-7)</name>
+  </entity>
+  <entity id="D000191" govtrackid="400100" title="Rep." state="OR" district="4">
+    <name lastname="DeFazio" firstname="Peter">Rep. Peter DeFazio (D, OR-4)</name>
+  </entity>
+  <entity id="D000197" govtrackid="400101" title="Rep." state="CO" district="1">
+    <name lastname="DeGette" firstname="Diana">Rep. Diana DeGette (D, CO-1)</name>
+  </entity>
+  <entity id="D000216" govtrackid="400103" title="Rep." state="CT" district="3">
+    <name lastname="DeLauro" firstname="Rosa">Rep. Rosa DeLauro (D, CT-3)</name>
+  </entity>
+  <entity id="D000600" govtrackid="400108" title="Rep." state="FL" district="25">
+    <name lastname="Diaz-Balart" firstname="Mario">Rep. Mario Diaz-Balart (R, FL-25)</name>
+  </entity>
+  <entity id="D000355" govtrackid="400110" title="Rep." state="MI" district="12">
+    <name lastname="Dingell" firstname="John">Rep. John Dingell (D, MI-12)</name>
+  </entity>
+  <entity id="D000399" govtrackid="400111" title="Rep." state="TX" district="35">
+    <name lastname="Doggett" firstname="Lloyd">Rep. Lloyd Doggett (D, TX-35)</name>
+  </entity>
+  <entity id="D000482" govtrackid="400114" title="Rep." state="PA" district="14">
+    <name lastname="Doyle" firstname="Michael">Rep. Michael Doyle (D, PA-14)</name>
+  </entity>
+  <entity id="D000533" govtrackid="400116" title="Rep." state="TN" district="2">
+    <name lastname="Duncan" firstname="John">Rep. John Duncan (R, TN-2)</name>
+  </entity>
+  <entity id="E000172" govtrackid="400121" title="Rep." state="MO" district="8">
+    <name lastname="Emerson" firstname="Jo Ann">Rep. Jo Ann Emerson (R, MO-8)</name>
+  </entity>
+  <entity id="E000179" govtrackid="400122" title="Rep." state="NY" district="16">
+    <name lastname="Engel" firstname="Eliot">Rep. Eliot Engel (D, NY-16)</name>
+  </entity>
+  <entity id="E000215" govtrackid="400124" title="Rep." state="CA" district="18">
+    <name lastname="Eshoo" firstname="Anna">Rep. Anna Eshoo (D, CA-18)</name>
+  </entity>
+  <entity id="F000010" govtrackid="400128" title="Del." state="AS" district="0">
+    <name lastname="Faleomavaega" firstname="Eni">Del. Eni Faleomavaega (D, AS-0)</name>
+  </entity>
+  <entity id="F000030" govtrackid="400129" title="Rep." state="CA" district="20">
+    <name lastname="Farr" firstname="Sam">Rep. Sam Farr (D, CA-20)</name>
+  </entity>
+  <entity id="F000043" govtrackid="400130" title="Rep." state="PA" district="2">
+    <name lastname="Fattah" firstname="Chaka">Rep. Chaka Fattah (D, PA-2)</name>
+  </entity>
+  <entity id="F000444" govtrackid="400134" title="Sen." state="AZ">
+    <name lastname="Flake" firstname="Jeff">Sen. Jeff Flake (R, AZ)</name>
+  </entity>
+  <entity id="F000445" govtrackid="400137" title="Rep." state="VA" district="4">
+    <name lastname="Forbes" firstname="J.">Rep. Randy Forbes (R, VA-4)</name>
+  </entity>
+  <entity id="F000448" govtrackid="400141" title="Rep." state="AZ" district="8">
+    <name lastname="Franks" firstname="Trent">Rep. Trent Franks (R, AZ-8)</name>
+  </entity>
+  <entity id="F000372" govtrackid="400142" title="Rep." state="NJ" district="11">
+    <name lastname="Frelinghuysen" firstname="Rodney">Rep. Rodney Frelinghuysen (R, NJ-11)</name>
+  </entity>
+  <entity id="G000548" govtrackid="400145" title="Rep." state="NJ" district="5">
+    <name lastname="Garrett" firstname="Scott">Rep. Scott Garrett (R, NJ-5)</name>
+  </entity>
+  <entity id="G000549" govtrackid="400147" title="Rep." state="PA" district="6">
+    <name lastname="Gerlach" firstname="Jim">Rep. Jim Gerlach (R, PA-6)</name>
+  </entity>
+  <entity id="G000550" govtrackid="400151" title="Rep." state="GA" district="11">
+    <name lastname="Gingrey" firstname="John">Rep. John Gingrey (R, GA-11)</name>
+  </entity>
+  <entity id="G000289" govtrackid="400154" title="Rep." state="VA" district="6">
+    <name lastname="Goodlatte" firstname="Robert">Rep. Robert Goodlatte (R, VA-6)</name>
+  </entity>
+  <entity id="G000377" govtrackid="400157" title="Rep." state="TX" district="12">
+    <name lastname="Granger" firstname="Kay">Rep. Kay Granger (R, TX-12)</name>
+  </entity>
+  <entity id="G000546" govtrackid="400158" title="Rep." state="MO" district="6">
+    <name lastname="Graves" firstname="Samuel">Rep. Samuel Graves (R, MO-6)</name>
+  </entity>
+  <entity id="G000410" govtrackid="400160" title="Rep." state="TX" district="29">
+    <name lastname="Green" firstname="Raymond">Rep. Raymond Green (D, TX-29)</name>
+  </entity>
+  <entity id="G000551" govtrackid="400162" title="Rep." state="AZ" district="3">
+    <name lastname="Grijalva" firstname="Raul">Rep. Raul Grijalva (D, AZ-3)</name>
+  </entity>
+  <entity id="G000535" govtrackid="400163" title="Rep." state="IL" district="4">
+    <name lastname="Gutiérrez" firstname="Luis">Rep. Luis Gutiérrez (D, IL-4)</name>
+  </entity>
+  <entity id="H000067" govtrackid="400165" title="Rep." state="TX" district="4">
+    <name lastname="Hall" firstname="Ralph">Rep. Ralph Hall (R, TX-4)</name>
+  </entity>
+  <entity id="H000324" govtrackid="400170" title="Rep." state="FL" district="20">
+    <name lastname="Hastings" firstname="Alcee">Rep. Alcee Hastings (D, FL-20)</name>
+  </entity>
+  <entity id="H000329" govtrackid="400171" title="Rep." state="WA" district="4">
+    <name lastname="Hastings" firstname="Doc">Rep. Doc Hastings (R, WA-4)</name>
+  </entity>
+  <entity id="H001036" govtrackid="400175" title="Rep." state="TX" district="5">
+    <name lastname="Hensarling" firstname="Jeb">Rep. Jeb Hensarling (R, TX-5)</name>
+  </entity>
+  <entity id="H000636" govtrackid="400179" title="Rep." state="TX" district="15">
+    <name lastname="Hinojosa" firstname="Rubén">Rep. Rubén Hinojosa (D, TX-15)</name>
+  </entity>
+  <entity id="H001032" govtrackid="400184" title="Rep." state="NJ" district="12">
+    <name lastname="Holt" firstname="Rush">Rep. Rush Holt (D, NJ-12)</name>
+  </entity>
+  <entity id="H001034" govtrackid="400185" title="Rep." state="CA" district="17">
+    <name lastname="Honda" firstname="Michael">Rep. Michael Honda (D, CA-17)</name>
+  </entity>
+  <entity id="H000874" govtrackid="400189" title="Rep." state="MD" district="5">
+    <name lastname="Hoyer" firstname="Steny">Rep. Steny Hoyer (D, MD-5)</name>
+  </entity>
+  <entity id="I000055" govtrackid="400194" title="Sen." state="GA">
+    <name lastname="Isakson" firstname="John">Sen. John Isakson (R, GA)</name>
+  </entity>
+  <entity id="I000057" govtrackid="400195" title="Rep." state="NY" district="3">
+    <name lastname="Israel" firstname="Steve">Rep. Steve Israel (D, NY-3)</name>
+  </entity>
+  <entity id="I000056" govtrackid="400196" title="Rep." state="CA" district="49">
+    <name lastname="Issa" firstname="Darrell">Rep. Darrell Issa (R, CA-49)</name>
+  </entity>
+  <entity id="J000174" govtrackid="400206" title="Rep." state="TX" district="3">
+    <name lastname="Johnson" firstname="Samuel">Rep. Samuel Johnson (R, TX-3)</name>
+  </entity>
+  <entity id="J000126" govtrackid="400204" title="Rep." state="TX" district="30">
+    <name lastname="Johnson" firstname="Eddie">Rep. Eddie Johnson (D, TX-30)</name>
+  </entity>
+  <entity id="J000255" govtrackid="400209" title="Rep." state="NC" district="3">
+    <name lastname="Jones" firstname="Walter">Rep. Walter Jones (R, NC-3)</name>
+  </entity>
+  <entity id="K000009" govtrackid="400211" title="Rep." state="OH" district="9">
+    <name lastname="Kaptur" firstname="Marcy">Rep. Marcy Kaptur (D, OH-9)</name>
+  </entity>
+  <entity id="K000188" govtrackid="400218" title="Rep." state="WI" district="3">
+    <name lastname="Kind" firstname="Ronald">Rep. Ronald Kind (D, WI-3)</name>
+  </entity>
+  <entity id="K000362" govtrackid="400220" title="Rep." state="IA" district="4">
+    <name lastname="King" firstname="Steve">Rep. Steve King (R, IA-4)</name>
+  </entity>
+  <entity id="K000210" govtrackid="400219" title="Rep." state="NY" district="2">
+    <name lastname="King" firstname="Peter">Rep. Peter King (R, NY-2)</name>
+  </entity>
+  <entity id="K000220" govtrackid="400221" title="Rep." state="GA" district="1">
+    <name lastname="Kingston" firstname="Jack">Rep. Jack Kingston (R, GA-1)</name>
+  </entity>
+  <entity id="K000360" govtrackid="400222" title="Sen." state="IL">
+    <name lastname="Kirk" firstname="Mark">Sen. Mark Kirk (R, IL)</name>
+  </entity>
+  <entity id="K000363" govtrackid="400224" title="Rep." state="MN" district="2">
+    <name lastname="Kline" firstname="John">Rep. John Kline (R, MN-2)</name>
+  </entity>
+  <entity id="L000559" govtrackid="400230" title="Rep." state="RI" district="2">
+    <name lastname="Langevin" firstname="James">Rep. James Langevin (D, RI-2)</name>
+  </entity>
+  <entity id="L000560" govtrackid="400232" title="Rep." state="WA" district="2">
+    <name lastname="Larsen" firstname="Rick">Rep. Rick Larsen (D, WA-2)</name>
+  </entity>
+  <entity id="L000557" govtrackid="400233" title="Rep." state="CT" district="1">
+    <name lastname="Larson" firstname="John">Rep. John Larson (D, CT-1)</name>
+  </entity>
+  <entity id="L000111" govtrackid="400234" title="Rep." state="IA" district="3">
+    <name lastname="Latham" firstname="Thomas">Rep. Thomas Latham (R, IA-3)</name>
+  </entity>
+  <entity id="L000551" govtrackid="400237" title="Rep." state="CA" district="13">
+    <name lastname="Lee" firstname="Barbara">Rep. Barbara Lee (D, CA-13)</name>
+  </entity>
+  <entity id="J000032" govtrackid="400199" title="Rep." state="TX" district="18">
+    <name lastname="Jackson-Lee" firstname="Sheila">Rep. Sheila Jackson-Lee (D, TX-18)</name>
+  </entity>
+  <entity id="L000263" govtrackid="400238" title="Rep." state="MI" district="9">
+    <name lastname="Levin" firstname="Sander">Rep. Sander Levin (D, MI-9)</name>
+  </entity>
+  <entity id="L000287" govtrackid="400240" title="Rep." state="GA" district="5">
+    <name lastname="Lewis" firstname="John">Rep. John Lewis (D, GA-5)</name>
+  </entity>
+  <entity id="L000554" govtrackid="400244" title="Rep." state="NJ" district="2">
+    <name lastname="LoBiondo" firstname="Frank">Rep. Frank LoBiondo (R, NJ-2)</name>
+  </entity>
+  <entity id="L000397" govtrackid="400245" title="Rep." state="CA" district="19">
+    <name lastname="Lofgren" firstname="Zoe">Rep. Zoe Lofgren (D, CA-19)</name>
+  </entity>
+  <entity id="L000480" govtrackid="400246" title="Rep." state="NY" district="17">
+    <name lastname="Lowey" firstname="Nita">Rep. Nita Lowey (D, NY-17)</name>
+  </entity>
+  <entity id="L000491" govtrackid="400247" title="Rep." state="OK" district="3">
+    <name lastname="Lucas" firstname="Frank">Rep. Frank Lucas (R, OK-3)</name>
+  </entity>
+  <entity id="L000562" govtrackid="400249" title="Rep." state="MA" district="8">
+    <name lastname="Lynch" firstname="Stephen">Rep. Stephen Lynch (D, MA-8)</name>
+  </entity>
+  <entity id="M000087" govtrackid="400251" title="Rep." state="NY" district="12">
+    <name lastname="Maloney" firstname="Carolyn">Rep. Carolyn Maloney (D, NY-12)</name>
+  </entity>
+  <entity id="M000133" govtrackid="400253" title="Rep." state="MA" district="5">
+    <name lastname="Markey" firstname="Edward">Rep. Edward Markey (D, MA-5)</name>
+  </entity>
+  <entity id="M001142" govtrackid="400255" title="Rep." state="UT" district="4">
+    <name lastname="Matheson" firstname="Jim">Rep. Jim Matheson (D, UT-4)</name>
+  </entity>
+  <entity id="M000309" govtrackid="400257" title="Rep." state="NY" district="4">
+    <name lastname="McCarthy" firstname="Carolyn">Rep. Carolyn McCarthy (D, NY-4)</name>
+  </entity>
+  <entity id="M001143" govtrackid="400259" title="Rep." state="MN" district="4">
+    <name lastname="McCollum" firstname="Betty">Rep. Betty McCollum (D, MN-4)</name>
+  </entity>
+  <entity id="M000404" govtrackid="400262" title="Rep." state="WA" district="7">
+    <name lastname="McDermott" firstname="James">Rep. James McDermott (D, WA-7)</name>
+  </entity>
+  <entity id="M000312" govtrackid="400263" title="Rep." state="MA" district="2">
+    <name lastname="McGovern" firstname="James">Rep. James McGovern (D, MA-2)</name>
+  </entity>
+  <entity id="M000485" govtrackid="400266" title="Rep." state="NC" district="7">
+    <name lastname="McIntyre" firstname="Mike">Rep. Mike McIntyre (D, NC-7)</name>
+  </entity>
+  <entity id="M000508" govtrackid="400267" title="Rep." state="CA" district="25">
+    <name lastname="McKeon" firstname="Howard">Rep. Howard McKeon (R, CA-25)</name>
+  </entity>
+  <entity id="M001137" govtrackid="400271" title="Rep." state="NY" district="5">
+    <name lastname="Meeks" firstname="Gregory">Rep. Gregory Meeks (D, NY-5)</name>
+  </entity>
+  <entity id="M000639" govtrackid="400272" title="Sen." state="NJ">
+    <name lastname="Menéndez" firstname="Robert">Sen. Robert Menéndez (D, NJ)</name>
+  </entity>
+  <entity id="M000689" govtrackid="400273" title="Rep." state="FL" district="7">
+    <name lastname="Mica" firstname="John">Rep. John Mica (R, FL-7)</name>
+  </entity>
+  <entity id="M001149" govtrackid="400274" title="Rep." state="ME" district="2">
+    <name lastname="Michaud" firstname="Michael">Rep. Michael Michaud (D, ME-2)</name>
+  </entity>
+  <entity id="M001150" govtrackid="400276" title="Rep." state="MI" district="10">
+    <name lastname="Miller" firstname="Candice">Rep. Candice Miller (R, MI-10)</name>
+  </entity>
+  <entity id="M001139" govtrackid="400277" title="Rep." state="CA" district="31">
+    <name lastname="Miller" firstname="Gary">Rep. Gary Miller (R, CA-31)</name>
+  </entity>
+  <entity id="M000725" govtrackid="400278" title="Rep." state="CA" district="11">
+    <name lastname="Miller" firstname="George">Rep. George Miller (D, CA-11)</name>
+  </entity>
+  <entity id="M001144" govtrackid="400279" title="Rep." state="FL" district="1">
+    <name lastname="Miller" firstname="Jeff">Rep. Jeff Miller (R, FL-1)</name>
+  </entity>
+  <entity id="M000934" govtrackid="400284" title="Sen." state="KS">
+    <name lastname="Moran" firstname="Jerry">Sen. Jerry Moran (R, KS)</name>
+  </entity>
+  <entity id="M000933" govtrackid="400283" title="Rep." state="VA" district="8">
+    <name lastname="Moran" firstname="James">Rep. James Moran (D, VA-8)</name>
+  </entity>
+  <entity id="M001151" govtrackid="400285" title="Rep." state="PA" district="18">
+    <name lastname="Murphy" firstname="Tim">Rep. Tim Murphy (R, PA-18)</name>
+  </entity>
+  <entity id="N000002" govtrackid="400289" title="Rep." state="NY" district="10">
+    <name lastname="Nadler" firstname="Jerrold">Rep. Jerrold Nadler (D, NY-10)</name>
+  </entity>
+  <entity id="N000179" govtrackid="400290" title="Rep." state="CA" district="32">
+    <name lastname="Napolitano" firstname="Grace">Rep. Grace Napolitano (D, CA-32)</name>
+  </entity>
+  <entity id="N000015" govtrackid="400291" title="Rep." state="MA" district="1">
+    <name lastname="Neal" firstname="Richard">Rep. Richard Neal (D, MA-1)</name>
+  </entity>
+  <entity id="N000147" govtrackid="400295" title="Del." state="DC" district="0">
+    <name lastname="Norton" firstname="Eleanor">Del. Eleanor Norton (D, DC-0)</name>
+  </entity>
+  <entity id="N000181" govtrackid="400297" title="Rep." state="CA" district="22">
+    <name lastname="Nunes" firstname="Devin">Rep. Devin Nunes (R, CA-22)</name>
+  </entity>
+  <entity id="P000034" govtrackid="400308" title="Rep." state="NJ" district="6">
+    <name lastname="Pallone" firstname="Frank">Rep. Frank Pallone (D, NJ-6)</name>
+  </entity>
+  <entity id="P000096" govtrackid="400309" title="Rep." state="NJ" district="9">
+    <name lastname="Pascrell" firstname="William">Rep. William Pascrell (D, NJ-9)</name>
+  </entity>
+  <entity id="P000099" govtrackid="400310" title="Rep." state="AZ" district="7">
+    <name lastname="Pastor" firstname="Edward">Rep. Edward Pastor (D, AZ-7)</name>
+  </entity>
+  <entity id="P000588" govtrackid="400313" title="Rep." state="NM" district="2">
+    <name lastname="Pearce" firstname="Steven">Rep. Steven Pearce (R, NM-2)</name>
+  </entity>
+  <entity id="P000197" govtrackid="400314" title="Rep." state="CA" district="12">
+    <name lastname="Pelosi" firstname="Nancy">Rep. Nancy Pelosi (D, CA-12)</name>
+  </entity>
+  <entity id="P000258" govtrackid="400316" title="Rep." state="MN" district="7">
+    <name lastname="Peterson" firstname="Collin">Rep. Collin Peterson (D, MN-7)</name>
+  </entity>
+  <entity id="P000265" govtrackid="400318" title="Rep." state="WI" district="6">
+    <name lastname="Petri" firstname="Thomas">Rep. Thomas Petri (R, WI-6)</name>
+  </entity>
+  <entity id="P000373" govtrackid="400320" title="Rep." state="PA" district="16">
+    <name lastname="Pitts" firstname="Joseph">Rep. Joseph Pitts (R, PA-16)</name>
+  </entity>
+  <entity id="P000449" govtrackid="400325" title="Sen." state="OH">
+    <name lastname="Portman" firstname="Robert">Sen. Robert Portman (R, OH)</name>
+  </entity>
+  <entity id="P000523" govtrackid="400326" title="Rep." state="NC" district="4">
+    <name lastname="Price" firstname="David">Rep. David Price (D, NC-4)</name>
+  </entity>
+  <entity id="R000011" govtrackid="400331" title="Rep." state="WV" district="3">
+    <name lastname="Rahall" firstname="Nick">Rep. Nick Rahall (D, WV-3)</name>
+  </entity>
+  <entity id="R000053" govtrackid="400333" title="Rep." state="NY" district="13">
+    <name lastname="Rangel" firstname="Charles">Rep. Charles Rangel (D, NY-13)</name>
+  </entity>
+  <entity id="R000575" govtrackid="400341" title="Rep." state="AL" district="3">
+    <name lastname="Rogers" firstname="Michael">Rep. Michael Rogers (R, AL-3)</name>
+  </entity>
+  <entity id="R000395" govtrackid="400340" title="Rep." state="KY" district="5">
+    <name lastname="Rogers" firstname="Harold">Rep. Harold Rogers (R, KY-5)</name>
+  </entity>
+  <entity id="R000572" govtrackid="400342" title="Rep." state="MI" district="8">
+    <name lastname="Rogers" firstname="Michael">Rep. Michael Rogers (R, MI-8)</name>
+  </entity>
+  <entity id="R000409" govtrackid="400343" title="Rep." state="CA" district="48">
+    <name lastname="Rohrabacher" firstname="Dana">Rep. Dana Rohrabacher (R, CA-48)</name>
+  </entity>
+  <entity id="R000435" govtrackid="400344" title="Rep." state="FL" district="27">
+    <name lastname="Ros-Lehtinen" firstname="Ileana">Rep. Ileana Ros-Lehtinen (R, FL-27)</name>
+  </entity>
+  <entity id="R000486" govtrackid="400347" title="Rep." state="CA" district="40">
+    <name lastname="Roybal-Allard" firstname="Lucille">Rep. Lucille Roybal-Allard (D, CA-40)</name>
+  </entity>
+  <entity id="R000487" govtrackid="400348" title="Rep." state="CA" district="39">
+    <name lastname="Royce" firstname="Edward">Rep. Edward Royce (R, CA-39)</name>
+  </entity>
+  <entity id="R000576" govtrackid="400349" title="Rep." state="MD" district="2">
+    <name lastname="Ruppersberger" firstname="C.A.">Rep. Dutch Ruppersberger (D, MD-2)</name>
+  </entity>
+  <entity id="R000515" govtrackid="400350" title="Rep." state="IL" district="1">
+    <name lastname="Rush" firstname="Bobby">Rep. Bobby Rush (D, IL-1)</name>
+  </entity>
+  <entity id="R000577" govtrackid="400352" title="Rep." state="OH" district="13">
+    <name lastname="Ryan" firstname="Timothy">Rep. Timothy Ryan (D, OH-13)</name>
+  </entity>
+  <entity id="R000570" govtrackid="400351" title="Rep." state="WI" district="1">
+    <name lastname="Ryan" firstname="Paul">Rep. Paul Ryan (R, WI-1)</name>
+  </entity>
+  <entity id="S001156" govtrackid="400355" title="Rep." state="CA" district="38">
+    <name lastname="Sánchez" firstname="Linda">Rep. Linda Sánchez (D, CA-38)</name>
+  </entity>
+  <entity id="S000030" govtrackid="400356" title="Rep." state="CA" district="46">
+    <name lastname="Sanchez" firstname="Loretta">Rep. Loretta Sanchez (D, CA-46)</name>
+  </entity>
+  <entity id="S000033" govtrackid="400357" title="Sen." state="VT">
+    <name lastname="Sanders" firstname="Bernard">Sen. Bernard Sanders (I, VT)</name>
+  </entity>
+  <entity id="S001145" govtrackid="400360" title="Rep." state="IL" district="9">
+    <name lastname="Schakowsky" firstname="Janice">Rep. Janice Schakowsky (D, IL-9)</name>
+  </entity>
+  <entity id="S001150" govtrackid="400361" title="Rep." state="CA" district="28">
+    <name lastname="Schiff" firstname="Adam">Rep. Adam Schiff (D, CA-28)</name>
+  </entity>
+  <entity id="S001157" govtrackid="400363" title="Rep." state="GA" district="13">
+    <name lastname="Scott" firstname="David">Rep. David Scott (D, GA-13)</name>
+  </entity>
+  <entity id="S000185" govtrackid="400364" title="Rep." state="VA" district="3">
+    <name lastname="Scott" firstname="Robert">Rep. Robert Scott (D, VA-3)</name>
+  </entity>
+  <entity id="S000244" govtrackid="400365" title="Rep." state="WI" district="5">
+    <name lastname="Sensenbrenner" firstname="F.">Rep. James Sensenbrenner (R, WI-5)</name>
+  </entity>
+  <entity id="S000248" govtrackid="400366" title="Rep." state="NY" district="15">
+    <name lastname="Serrano" firstname="José">Rep. José Serrano (D, NY-15)</name>
+  </entity>
+  <entity id="S000250" govtrackid="400367" title="Rep." state="TX" district="32">
+    <name lastname="Sessions" firstname="Peter">Rep. Peter Sessions (R, TX-32)</name>
+  </entity>
+  <entity id="S000344" govtrackid="400371" title="Rep." state="CA" district="30">
+    <name lastname="Sherman" firstname="Brad">Rep. Brad Sherman (D, CA-30)</name>
+  </entity>
+  <entity id="S000364" govtrackid="400373" title="Rep." state="IL" district="15">
+    <name lastname="Shimkus" firstname="John">Rep. John Shimkus (R, IL-15)</name>
+  </entity>
+  <entity id="S001148" govtrackid="400376" title="Rep." state="ID" district="2">
+    <name lastname="Simpson" firstname="Michael">Rep. Michael Simpson (R, ID-2)</name>
+  </entity>
+  <entity id="S000480" govtrackid="400378" title="Rep." state="NY" district="25">
+    <name lastname="Slaughter" firstname="Louise">Rep. Louise Slaughter (D, NY-25)</name>
+  </entity>
+  <entity id="S000522" govtrackid="400380" title="Rep." state="NJ" district="4">
+    <name lastname="Smith" firstname="Christopher">Rep. Christopher Smith (R, NJ-4)</name>
+  </entity>
+  <entity id="S000583" govtrackid="400381" title="Rep." state="TX" district="21">
+    <name lastname="Smith" firstname="Lamar">Rep. Lamar Smith (R, TX-21)</name>
+  </entity>
+  <entity id="S000510" govtrackid="400379" title="Rep." state="WA" district="9">
+    <name lastname="Smith" firstname="Adam">Rep. Adam Smith (D, WA-9)</name>
+  </entity>
+  <entity id="T000459" govtrackid="400400" title="Rep." state="NE" district="2">
+    <name lastname="Terry" firstname="Lee">Rep. Lee Terry (R, NE-2)</name>
+  </entity>
+  <entity id="T000460" govtrackid="400403" title="Rep." state="CA" district="5">
+    <name lastname="Thompson" firstname="C.">Rep. Michael Thompson (D, CA-5)</name>
+  </entity>
+  <entity id="T000193" govtrackid="400402" title="Rep." state="MS" district="2">
+    <name lastname="Thompson" firstname="Bennie">Rep. Bennie Thompson (D, MS-2)</name>
+  </entity>
+  <entity id="T000238" govtrackid="400404" title="Rep." state="TX" district="13">
+    <name lastname="Thornberry" firstname="William">Rep. William Thornberry (R, TX-13)</name>
+  </entity>
+  <entity id="T000462" govtrackid="400406" title="Rep." state="OH" district="12">
+    <name lastname="Tiberi" firstname="Patrick">Rep. Patrick Tiberi (R, OH-12)</name>
+  </entity>
+  <entity id="T000266" govtrackid="400407" title="Rep." state="MA" district="6">
+    <name lastname="Tierney" firstname="John">Rep. John Tierney (D, MA-6)</name>
+  </entity>
+  <entity id="T000461" govtrackid="400408" title="Sen." state="PA">
+    <name lastname="Toomey" firstname="Patrick">Sen. Patrick Toomey (R, PA)</name>
+  </entity>
+  <entity id="T000463" govtrackid="400411" title="Rep." state="OH" district="10">
+    <name lastname="Turner" firstname="Michael">Rep. Michael Turner (R, OH-10)</name>
+  </entity>
+  <entity id="U000038" govtrackid="400412" title="Sen." state="CO">
+    <name lastname="Udall" firstname="Mark">Sen. Mark Udall (D, CO)</name>
+  </entity>
+  <entity id="U000039" govtrackid="400413" title="Sen." state="NM">
+    <name lastname="Udall" firstname="Tom">Sen. Tom Udall (D, NM)</name>
+  </entity>
+  <entity id="U000031" govtrackid="400414" title="Rep." state="MI" district="6">
+    <name lastname="Upton" firstname="Frederick">Rep. Frederick Upton (R, MI-6)</name>
+  </entity>
+  <entity id="V000128" govtrackid="400415" title="Rep." state="MD" district="8">
+    <name lastname="Van Hollen" firstname="Christopher">Rep. Christopher Van Hollen (D, MD-8)</name>
+  </entity>
+  <entity id="V000081" govtrackid="400416" title="Rep." state="NY" district="7">
+    <name lastname="Velázquez" firstname="Nydia">Rep. Nydia Velázquez (D, NY-7)</name>
+  </entity>
+  <entity id="V000108" govtrackid="400417" title="Rep." state="IN" district="1">
+    <name lastname="Visclosky" firstname="Peter">Rep. Peter Visclosky (D, IN-1)</name>
+  </entity>
+  <entity id="V000127" govtrackid="400418" title="Sen." state="LA">
+    <name lastname="Vitter" firstname="David">Sen. David Vitter (R, LA)</name>
+  </entity>
+  <entity id="W000791" govtrackid="400419" title="Rep." state="OR" district="2">
+    <name lastname="Walden" firstname="Greg">Rep. Greg Walden (R, OR-2)</name>
+  </entity>
+  <entity id="W000187" govtrackid="400422" title="Rep." state="CA" district="43">
+    <name lastname="Waters" firstname="Maxine">Rep. Maxine Waters (D, CA-43)</name>
+  </entity>
+  <entity id="W000207" govtrackid="400424" title="Rep." state="NC" district="12">
+    <name lastname="Watt" firstname="Melvin">Rep. Melvin Watt (D, NC-12)</name>
+  </entity>
+  <entity id="W000215" govtrackid="400425" title="Rep." state="CA" district="33">
+    <name lastname="Waxman" firstname="Henry">Rep. Henry Waxman (D, CA-33)</name>
+  </entity>
+  <entity id="W000413" govtrackid="400431" title="Rep." state="KY" district="1">
+    <name lastname="Whitfield" firstname="Edward">Rep. Edward Whitfield (R, KY-1)</name>
+  </entity>
+  <entity id="W000437" govtrackid="400432" title="Sen." state="MS">
+    <name lastname="Wicker" firstname="Roger">Sen. Roger Wicker (R, MS)</name>
+  </entity>
+  <entity id="W000795" govtrackid="400433" title="Rep." state="SC" district="2">
+    <name lastname="Wilson" firstname="Addison">Rep. Addison Wilson (R, SC-2)</name>
+  </entity>
+  <entity id="W000672" govtrackid="400435" title="Rep." state="VA" district="10">
+    <name lastname="Wolf" firstname="Frank">Rep. Frank Wolf (R, VA-10)</name>
+  </entity>
+  <entity id="Y000031" govtrackid="400439" title="Rep." state="FL" district="13">
+    <name lastname="Young" firstname="C. W.">Rep. Bill Young (R, FL-13)</name>
+  </entity>
+  <entity id="Y000033" govtrackid="400440" title="Rep." state="AK" district="0">
+    <name lastname="Young" firstname="Donald">Rep. Donald Young (R, AK-0)</name>
+  </entity>
+  <entity id="N000182" govtrackid="400441" title="Rep." state="TX" district="19">
+    <name lastname="Neugebauer" firstname="Randy">Rep. Randy Neugebauer (R, TX-19)</name>
+  </entity>
+  <entity id="A000360" govtrackid="300002" title="Sen." state="TN">
+    <name lastname="Alexander" firstname="Lamar">Sen. Lamar Alexander (R, TN)</name>
+  </entity>
+  <entity id="B000243" govtrackid="300005" title="Sen." state="MT">
+    <name lastname="Baucus" firstname="Max">Sen. Max Baucus (D, MT)</name>
+  </entity>
+  <entity id="B000711" govtrackid="300011" title="Sen." state="CA">
+    <name lastname="Boxer" firstname="Barbara">Sen. Barbara Boxer (D, CA)</name>
+  </entity>
+  <entity id="C000127" govtrackid="300018" title="Sen." state="WA">
+    <name lastname="Cantwell" firstname="Maria">Sen. Maria Cantwell (D, WA)</name>
+  </entity>
+  <entity id="C000174" govtrackid="300019" title="Sen." state="DE">
+    <name lastname="Carper" firstname="Thomas">Sen. Thomas Carper (D, DE)</name>
+  </entity>
+  <entity id="C000286" govtrackid="300021" title="Sen." state="GA">
+    <name lastname="Chambliss" firstname="Saxby">Sen. Saxby Chambliss (R, GA)</name>
+  </entity>
+  <entity id="C000567" govtrackid="300023" title="Sen." state="MS">
+    <name lastname="Cochran" firstname="Thad">Sen. Thad Cochran (R, MS)</name>
+  </entity>
+  <entity id="C001035" govtrackid="300025" title="Sen." state="ME">
+    <name lastname="Collins" firstname="Susan">Sen. Susan Collins (R, ME)</name>
+  </entity>
+  <entity id="C001056" govtrackid="300027" title="Sen." state="TX">
+    <name lastname="Cornyn" firstname="John">Sen. John Cornyn (R, TX)</name>
+  </entity>
+  <entity id="C000880" govtrackid="300030" title="Sen." state="ID">
+    <name lastname="Crapo" firstname="Michael">Sen. Michael Crapo (R, ID)</name>
+  </entity>
+  <entity id="D000563" govtrackid="300038" title="Sen." state="IL">
+    <name lastname="Durbin" firstname="Richard">Sen. Richard Durbin (D, IL)</name>
+  </entity>
+  <entity id="E000285" govtrackid="300041" title="Sen." state="WY">
+    <name lastname="Enzi" firstname="Michael">Sen. Michael Enzi (R, WY)</name>
+  </entity>
+  <entity id="F000062" govtrackid="300043" title="Sen." state="CA">
+    <name lastname="Feinstein" firstname="Dianne">Sen. Dianne Feinstein (D, CA)</name>
+  </entity>
+  <entity id="G000359" govtrackid="300047" title="Sen." state="SC">
+    <name lastname="Graham" firstname="Lindsey">Sen. Lindsey Graham (R, SC)</name>
+  </entity>
+  <entity id="G000386" govtrackid="300048" title="Sen." state="IA">
+    <name lastname="Grassley" firstname="Charles">Sen. Charles Grassley (R, IA)</name>
+  </entity>
+  <entity id="H000206" govtrackid="300051" title="Sen." state="IA">
+    <name lastname="Harkin" firstname="Thomas">Sen. Thomas Harkin (D, IA)</name>
+  </entity>
+  <entity id="H000338" govtrackid="300052" title="Sen." state="UT">
+    <name lastname="Hatch" firstname="Orrin">Sen. Orrin Hatch (R, UT)</name>
+  </entity>
+  <entity id="I000024" govtrackid="300055" title="Sen." state="OK">
+    <name lastname="Inhofe" firstname="James">Sen. James Inhofe (R, OK)</name>
+  </entity>
+  <entity id="J000177" govtrackid="300058" title="Sen." state="SD">
+    <name lastname="Johnson" firstname="Tim">Sen. Tim Johnson (D, SD)</name>
+  </entity>
+  <entity id="K000148" govtrackid="300060" title="Sen." state="MA">
+    <name lastname="Kerry" firstname="John">Sen. John Kerry (D, MA)</name>
+  </entity>
+  <entity id="L000550" govtrackid="300063" title="Sen." state="LA">
+    <name lastname="Landrieu" firstname="Mary">Sen. Mary Landrieu (D, LA)</name>
+  </entity>
+  <entity id="L000123" govtrackid="300064" title="Sen." state="NJ">
+    <name lastname="Lautenberg" firstname="Frank">Sen. Frank Lautenberg (D, NJ)</name>
+  </entity>
+  <entity id="L000174" govtrackid="300065" title="Sen." state="VT">
+    <name lastname="Leahy" firstname="Patrick">Sen. Patrick Leahy (D, VT)</name>
+  </entity>
+  <entity id="L000261" govtrackid="300066" title="Sen." state="MI">
+    <name lastname="Levin" firstname="Carl">Sen. Carl Levin (D, MI)</name>
+  </entity>
+  <entity id="M000303" govtrackid="300071" title="Sen." state="AZ">
+    <name lastname="McCain" firstname="John">Sen. John McCain (R, AZ)</name>
+  </entity>
+  <entity id="M000355" govtrackid="300072" title="Sen." state="KY">
+    <name lastname="McConnell" firstname="Mitch">Sen. Mitch McConnell (R, KY)</name>
+  </entity>
+  <entity id="M000702" govtrackid="300073" title="Sen." state="MD">
+    <name lastname="Mikulski" firstname="Barbara">Sen. Barbara Mikulski (D, MD)</name>
+  </entity>
+  <entity id="M001153" govtrackid="300075" title="Sen." state="AK">
+    <name lastname="Murkowski" firstname="Lisa">Sen. Lisa Murkowski (R, AK)</name>
+  </entity>
+  <entity id="M001111" govtrackid="300076" title="Sen." state="WA">
+    <name lastname="Murray" firstname="Patty">Sen. Patty Murray (D, WA)</name>
+  </entity>
+  <entity id="N000032" govtrackid="300078" title="Sen." state="FL">
+    <name lastname="Nelson" firstname="Bill">Sen. Bill Nelson (D, FL)</name>
+  </entity>
+  <entity id="P000590" govtrackid="300080" title="Sen." state="AR">
+    <name lastname="Pryor" firstname="Mark">Sen. Mark Pryor (D, AR)</name>
+  </entity>
+  <entity id="R000122" govtrackid="300081" title="Sen." state="RI">
+    <name lastname="Reed" firstname="John">Sen. John Reed (D, RI)</name>
+  </entity>
+  <entity id="R000146" govtrackid="300082" title="Sen." state="NV">
+    <name lastname="Reid" firstname="Harry">Sen. Harry Reid (D, NV)</name>
+  </entity>
+  <entity id="R000307" govtrackid="300083" title="Sen." state="KS">
+    <name lastname="Roberts" firstname="Pat">Sen. Pat Roberts (R, KS)</name>
+  </entity>
+  <entity id="R000361" govtrackid="300084" title="Sen." state="WV">
+    <name lastname="Rockefeller" firstname="John">Sen. John Rockefeller (D, WV)</name>
+  </entity>
+  <entity id="S000148" govtrackid="300087" title="Sen." state="NY">
+    <name lastname="Schumer" firstname="Charles">Sen. Charles Schumer (D, NY)</name>
+  </entity>
+  <entity id="S001141" govtrackid="300088" title="Sen." state="AL">
+    <name lastname="Sessions" firstname="Jefferson">Sen. Jefferson Sessions (R, AL)</name>
+  </entity>
+  <entity id="S000320" govtrackid="300089" title="Sen." state="AL">
+    <name lastname="Shelby" firstname="Richard">Sen. Richard Shelby (R, AL)</name>
+  </entity>
+  <entity id="S000770" govtrackid="300093" title="Sen." state="MI">
+    <name lastname="Stabenow" firstname="Debbie Ann">Sen. Debbie Ann Stabenow (D, MI)</name>
+  </entity>
+  <entity id="W000779" govtrackid="300100" title="Sen." state="OR">
+    <name lastname="Wyden" firstname="Ron">Sen. Ron Wyden (D, OR)</name>
+  </entity>
+  <entity id="T000250" govtrackid="400546" title="Sen." state="SD">
+    <name lastname="Thune" firstname="John">Sen. John Thune (R, SD)</name>
+  </entity>
+  <entity id="C000560" govtrackid="400576" title="Sen." state="OK">
+    <name lastname="Coburn" firstname="Thomas">Sen. Thomas Coburn (R, OK)</name>
+  </entity>
+  <entity id="S000018" govtrackid="400606" title="Rep." state="AZ" district="5">
+    <name lastname="Salmon" firstname="Matt">Rep. Matt Salmon (R, AZ-5)</name>
+  </entity>
+  <entity id="B001251" govtrackid="400616" title="Rep." state="NC" district="1">
+    <name lastname="Butterfield" firstname="George">Rep. George Butterfield (D, NC-1)</name>
+  </entity>
+  <entity id="C001059" govtrackid="400618" title="Rep." state="CA" district="16">
+    <name lastname="Costa" firstname="Jim">Rep. Jim Costa (D, CA-16)</name>
+  </entity>
+  <entity id="W000797" govtrackid="400623" title="Rep." state="FL" district="23">
+    <name lastname="Wasserman Schultz" firstname="Debbie">Rep. Debbie Wasserman Schultz (D, FL-23)</name>
+  </entity>
+  <entity id="P000591" govtrackid="400626" title="Rep." state="GA" district="6">
+    <name lastname="Price" firstname="Tom">Rep. Tom Price (R, GA-6)</name>
+  </entity>
+  <entity id="W000796" govtrackid="400627" title="Rep." state="GA" district="3">
+    <name lastname="Westmoreland" firstname="Lynn">Rep. Lynn Westmoreland (R, GA-3)</name>
+  </entity>
+  <entity id="B001252" govtrackid="400628" title="Rep." state="GA" district="12">
+    <name lastname="Barrow" firstname="John">Rep. John Barrow (D, GA-12)</name>
+  </entity>
+  <entity id="L000563" govtrackid="400630" title="Rep." state="IL" district="3">
+    <name lastname="Lipinski" firstname="Daniel">Rep. Daniel Lipinski (D, IL-3)</name>
+  </entity>
+  <entity id="B001255" govtrackid="400636" title="Rep." state="LA" district="3">
+    <name lastname="Boustany" firstname="Charles">Rep. Charles Boustany (R, LA-3)</name>
+  </entity>
+  <entity id="C001061" govtrackid="400639" title="Rep." state="MO" district="5">
+    <name lastname="Cleaver" firstname="Emanuel">Rep. Emanuel Cleaver (D, MO-5)</name>
+  </entity>
+  <entity id="F000449" govtrackid="400640" title="Rep." state="NE" district="1">
+    <name lastname="Fortenberry" firstname="Jeffrey">Rep. Jeffrey Fortenberry (R, NE-1)</name>
+  </entity>
+  <entity id="H001038" govtrackid="400641" title="Rep." state="NY" district="26">
+    <name lastname="Higgins" firstname="Brian">Rep. Brian Higgins (D, NY-26)</name>
+  </entity>
+  <entity id="F000450" govtrackid="400643" title="Rep." state="NC" district="5">
+    <name lastname="Foxx" firstname="Virginia">Rep. Virginia Foxx (R, NC-5)</name>
+  </entity>
+  <entity id="M001156" govtrackid="400644" title="Rep." state="NC" district="10">
+    <name lastname="McHenry" firstname="Patrick">Rep. Patrick McHenry (R, NC-10)</name>
+  </entity>
+  <entity id="F000451" govtrackid="400646" title="Rep." state="PA" district="8">
+    <name lastname="Fitzpatrick" firstname="Michael">Rep. Michael Fitzpatrick (R, PA-8)</name>
+  </entity>
+  <entity id="S001162" govtrackid="400647" title="Rep." state="PA" district="13">
+    <name lastname="Schwartz" firstname="Allyson">Rep. Allyson Schwartz (D, PA-13)</name>
+  </entity>
+  <entity id="D000604" govtrackid="400648" title="Rep." state="PA" district="15">
+    <name lastname="Dent" firstname="Charles">Rep. Charles Dent (R, PA-15)</name>
+  </entity>
+  <entity id="G000552" govtrackid="400651" title="Rep." state="TX" district="1">
+    <name lastname="Gohmert" firstname="Louis">Rep. Louis Gohmert (R, TX-1)</name>
+  </entity>
+  <entity id="P000592" govtrackid="400652" title="Rep." state="TX" district="2">
+    <name lastname="Poe" firstname="Ted">Rep. Ted Poe (R, TX-2)</name>
+  </entity>
+  <entity id="G000553" govtrackid="400653" title="Rep." state="TX" district="9">
+    <name lastname="Green" firstname="Al">Rep. Al Green (D, TX-9)</name>
+  </entity>
+  <entity id="M001157" govtrackid="400654" title="Rep." state="TX" district="10">
+    <name lastname="McCaul" firstname="Michael">Rep. Michael McCaul (R, TX-10)</name>
+  </entity>
+  <entity id="C001062" govtrackid="400655" title="Rep." state="TX" district="11">
+    <name lastname="Conaway" firstname="K.">Rep. Michael Conaway (R, TX-11)</name>
+  </entity>
+  <entity id="M001158" govtrackid="400656" title="Rep." state="TX" district="24">
+    <name lastname="Marchant" firstname="Kenny">Rep. Kenny Marchant (R, TX-24)</name>
+  </entity>
+  <entity id="C001063" govtrackid="400657" title="Rep." state="TX" district="28">
+    <name lastname="Cuellar" firstname="Henry">Rep. Henry Cuellar (D, TX-28)</name>
+  </entity>
+  <entity id="M001159" govtrackid="400659" title="Rep." state="WA" district="5">
+    <name lastname="McMorris Rodgers" firstname="Cathy">Rep. Cathy McMorris Rodgers (R, WA-5)</name>
+  </entity>
+  <entity id="R000578" govtrackid="400660" title="Rep." state="WA" district="8">
+    <name lastname="Reichert" firstname="Dave">Rep. Dave Reichert (R, WA-8)</name>
+  </entity>
+  <entity id="M001160" govtrackid="400661" title="Rep." state="WI" district="4">
+    <name lastname="Moore" firstname="Gwen">Rep. Gwen Moore (D, WI-4)</name>
+  </entity>
+  <entity id="M001163" govtrackid="400663" title="Rep." state="CA" district="6">
+    <name lastname="Matsui" firstname="Doris">Rep. Doris Matsui (D, CA-6)</name>
+  </entity>
+  <entity id="C000542" govtrackid="402675" title="Sen." state="IN">
+    <name lastname="Coats" firstname="Daniel">Sen. Daniel Coats (R, IN)</name>
+  </entity>
+  <entity id="N000127" govtrackid="408211" title="Rep." state="MN" district="8">
+    <name lastname="Nolan" firstname="Richard">Rep. Richard Nolan (D, MN-8)</name>
+  </entity>
+  <entity id="S001154" govtrackid="409888" title="Rep." state="PA" district="9">
+    <name lastname="Shuster" firstname="William">Rep. William Shuster (R, PA-9)</name>
+  </entity>
+  <entity id="S000937" govtrackid="410396" title="Rep." state="TX" district="36">
+    <name lastname="Stockman" firstname="Steve">Rep. Steve Stockman (R, TX-36)</name>
+  </entity>
+  <entity id="C001064" govtrackid="412011" title="Rep." state="CA" district="45">
+    <name lastname="Campbell" firstname="John">Rep. John Campbell (R, CA-45)</name>
+  </entity>
+  <entity id="S001165" govtrackid="412186" title="Rep." state="NJ" district="8">
+    <name lastname="Sires" firstname="Albio">Rep. Albio Sires (D, NJ-8)</name>
+  </entity>
+  <entity id="M001166" govtrackid="412189" title="Rep." state="CA" district="9">
+    <name lastname="McNerney" firstname="Jerry">Rep. Jerry McNerney (D, CA-9)</name>
+  </entity>
+  <entity id="M001165" govtrackid="412190" title="Rep." state="CA" district="23">
+    <name lastname="McCarthy" firstname="Kevin">Rep. Kevin McCarthy (R, CA-23)</name>
+  </entity>
+  <entity id="L000564" govtrackid="412191" title="Rep." state="CO" district="5">
+    <name lastname="Lamborn" firstname="Doug">Rep. Doug Lamborn (R, CO-5)</name>
+  </entity>
+  <entity id="P000593" govtrackid="412192" title="Rep." state="CO" district="7">
+    <name lastname="Perlmutter" firstname="Ed">Rep. Ed Perlmutter (D, CO-7)</name>
+  </entity>
+  <entity id="C001069" govtrackid="412193" title="Rep." state="CT" district="2">
+    <name lastname="Courtney" firstname="Joe">Rep. Joe Courtney (D, CT-2)</name>
+  </entity>
+  <entity id="M001169" govtrackid="412194" title="Sen." state="CT">
+    <name lastname="Murphy" firstname="Christopher">Sen. Christopher Murphy (D, CT)</name>
+  </entity>
+  <entity id="C001066" govtrackid="412195" title="Rep." state="FL" district="14">
+    <name lastname="Castor" firstname="Kathy">Rep. Kathy Castor (D, FL-14)</name>
+  </entity>
+  <entity id="B001260" govtrackid="412196" title="Rep." state="FL" district="16">
+    <name lastname="Buchanan" firstname="Vern">Rep. Vern Buchanan (R, FL-16)</name>
+  </entity>
+  <entity id="J000288" govtrackid="412199" title="Rep." state="GA" district="4">
+    <name lastname="Johnson" firstname="Henry">Rep. Henry Johnson (D, GA-4)</name>
+  </entity>
+  <entity id="H001042" govtrackid="412200" title="Sen." state="HI">
+    <name lastname="Hirono" firstname="Mazie">Sen. Mazie Hirono (D, HI)</name>
+  </entity>
+  <entity id="R000580" govtrackid="412202" title="Rep." state="IL" district="6">
+    <name lastname="Roskam" firstname="Peter">Rep. Peter Roskam (R, IL-6)</name>
+  </entity>
+  <entity id="D000607" govtrackid="412205" title="Sen." state="IN">
+    <name lastname="Donnelly" firstname="Joe">Sen. Joe Donnelly (D, IN)</name>
+  </entity>
+  <entity id="B001259" govtrackid="412208" title="Rep." state="IA" district="1">
+    <name lastname="Braley" firstname="Bruce">Rep. Bruce Braley (D, IA-1)</name>
+  </entity>
+  <entity id="L000565" govtrackid="412209" title="Rep." state="IA" district="2">
+    <name lastname="Loebsack" firstname="David">Rep. David Loebsack (D, IA-2)</name>
+  </entity>
+  <entity id="Y000062" govtrackid="412211" title="Rep." state="KY" district="3">
+    <name lastname="Yarmuth" firstname="John">Rep. John Yarmuth (D, KY-3)</name>
+  </entity>
+  <entity id="S001168" govtrackid="412212" title="Rep." state="MD" district="3">
+    <name lastname="Sarbanes" firstname="John">Rep. John Sarbanes (D, MD-3)</name>
+  </entity>
+  <entity id="W000798" govtrackid="412213" title="Rep." state="MI" district="7">
+    <name lastname="Walberg" firstname="Timothy">Rep. Timothy Walberg (R, MI-7)</name>
+  </entity>
+  <entity id="W000799" govtrackid="412214" title="Rep." state="MN" district="1">
+    <name lastname="Walz" firstname="Timothy">Rep. Timothy Walz (D, MN-1)</name>
+  </entity>
+  <entity id="E000288" govtrackid="412215" title="Rep." state="MN" district="5">
+    <name lastname="Ellison" firstname="Keith">Rep. Keith Ellison (D, MN-5)</name>
+  </entity>
+  <entity id="B001256" govtrackid="412216" title="Rep." state="MN" district="6">
+    <name lastname="Bachmann" firstname="Michele">Rep. Michele Bachmann (R, MN-6)</name>
+  </entity>
+  <entity id="S001172" govtrackid="412217" title="Rep." state="NE" district="3">
+    <name lastname="Smith" firstname="Adrian">Rep. Adrian Smith (R, NE-3)</name>
+  </entity>
+  <entity id="H001041" govtrackid="412218" title="Sen." state="NV">
+    <name lastname="Heller" firstname="Dean">Sen. Dean Heller (R, NV)</name>
+  </entity>
+  <entity id="S001170" govtrackid="412219" title="Rep." state="NH" district="1">
+    <name lastname="Shea-Porter" firstname="Carol">Rep. Carol Shea-Porter (D, NH-1)</name>
+  </entity>
+  <entity id="C001067" govtrackid="412221" title="Rep." state="NY" district="9">
+    <name lastname="Clarke" firstname="Yvette">Rep. Yvette Clarke (D, NY-9)</name>
+  </entity>
+  <entity id="G000555" govtrackid="412223" title="Sen." state="NY">
+    <name lastname="Gillibrand" firstname="Kirsten">Sen. Kirsten Gillibrand (D, NY)</name>
+  </entity>
+  <entity id="J000289" govtrackid="412226" title="Rep." state="OH" district="4">
+    <name lastname="Jordan" firstname="Jim">Rep. Jim Jordan (R, OH-4)</name>
+  </entity>
+  <entity id="C001068" govtrackid="412236" title="Rep." state="TN" district="9">
+    <name lastname="Cohen" firstname="Steve">Rep. Steve Cohen (D, TN-9)</name>
+  </entity>
+  <entity id="W000800" govtrackid="412239" title="Rep." state="VT" district="0">
+    <name lastname="Welch" firstname="Peter">Rep. Peter Welch (D, VT-0)</name>
+  </entity>
+  <entity id="K000367" govtrackid="412242" title="Sen." state="MN">
+    <name lastname="Klobuchar" firstname="Amy">Sen. Amy Klobuchar (D, MN)</name>
+  </entity>
+  <entity id="M001170" govtrackid="412243" title="Sen." state="MO">
+    <name lastname="McCaskill" firstname="Claire">Sen. Claire McCaskill (D, MO)</name>
+  </entity>
+  <entity id="T000464" govtrackid="412244" title="Sen." state="MT">
+    <name lastname="Tester" firstname="Jon">Sen. Jon Tester (D, MT)</name>
+  </entity>
+  <entity id="C001070" govtrackid="412246" title="Sen." state="PA">
+    <name lastname="Casey" firstname="Robert">Sen. Robert Casey (D, PA)</name>
+  </entity>
+  <entity id="W000802" govtrackid="412247" title="Sen." state="RI">
+    <name lastname="Whitehouse" firstname="Sheldon">Sen. Sheldon Whitehouse (D, RI)</name>
+  </entity>
+  <entity id="C001071" govtrackid="412248" title="Sen." state="TN">
+    <name lastname="Corker" firstname="Bob">Sen. Bob Corker (R, TN)</name>
+  </entity>
+  <entity id="B001257" govtrackid="412250" title="Rep." state="FL" district="12">
+    <name lastname="Bilirakis" firstname="Gus">Rep. Gus Bilirakis (R, FL-12)</name>
+  </entity>
+  <entity id="B001261" govtrackid="412251" title="Sen." state="WY">
+    <name lastname="Barrasso" firstname="John">Sen. John Barrasso (R, WY)</name>
+  </entity>
+  <entity id="B001262" govtrackid="412252" title="Rep." state="GA" district="10">
+    <name lastname="Broun" firstname="Paul">Rep. Paul Broun (R, GA-10)</name>
+  </entity>
+  <entity id="T000465" govtrackid="412254" title="Rep." state="MA" district="3">
+    <name lastname="Tsongas" firstname="Niki">Rep. Niki Tsongas (D, MA-3)</name>
+  </entity>
+  <entity id="W000804" govtrackid="412255" title="Rep." state="VA" district="1">
+    <name lastname="Wittman" firstname="Rob">Rep. Rob Wittman (R, VA-1)</name>
+  </entity>
+  <entity id="L000566" govtrackid="412256" title="Rep." state="OH" district="5">
+    <name lastname="Latta" firstname="Robert">Rep. Robert Latta (R, OH-5)</name>
+  </entity>
+  <entity id="F000454" govtrackid="412257" title="Rep." state="IL" district="11">
+    <name lastname="Foster" firstname="Bill">Rep. Bill Foster (D, IL-11)</name>
+  </entity>
+  <entity id="C001072" govtrackid="412258" title="Rep." state="IN" district="7">
+    <name lastname="Carson" firstname="André">Rep. André Carson (D, IN-7)</name>
+  </entity>
+  <entity id="S001175" govtrackid="412259" title="Rep." state="CA" district="14">
+    <name lastname="Speier" firstname="Jackie">Rep. Jackie Speier (D, CA-14)</name>
+  </entity>
+  <entity id="S001176" govtrackid="412261" title="Rep." state="LA" district="1">
+    <name lastname="Scalise" firstname="Steve">Rep. Steve Scalise (R, LA-1)</name>
+  </entity>
+  <entity id="E000290" govtrackid="412263" title="Rep." state="MD" district="4">
+    <name lastname="Edwards" firstname="Donna">Rep. Donna Edwards (D, MD-4)</name>
+  </entity>
+  <entity id="C001075" govtrackid="412269" title="Rep." state="LA" district="6">
+    <name lastname="Cassidy" firstname="Bill">Rep. Bill Cassidy (R, LA-6)</name>
+  </entity>
+  <entity id="C001076" govtrackid="412270" title="Rep." state="UT" district="3">
+    <name lastname="Chaffetz" firstname="Jason">Rep. Jason Chaffetz (R, UT-3)</name>
+  </entity>
+  <entity id="C001077" govtrackid="412271" title="Rep." state="CO" district="6">
+    <name lastname="Coffman" firstname="Mike">Rep. Mike Coffman (R, CO-6)</name>
+  </entity>
+  <entity id="C001078" govtrackid="412272" title="Rep." state="VA" district="11">
+    <name lastname="Connolly" firstname="Gerald">Rep. Gerald Connolly (D, VA-11)</name>
+  </entity>
+  <entity id="F000456" govtrackid="412275" title="Rep." state="LA" district="4">
+    <name lastname="Fleming" firstname="John">Rep. John Fleming (R, LA-4)</name>
+  </entity>
+  <entity id="G000556" govtrackid="412276" title="Rep." state="FL" district="9">
+    <name lastname="Grayson" firstname="Alan">Rep. Alan Grayson (D, FL-9)</name>
+  </entity>
+  <entity id="G000558" govtrackid="412278" title="Rep." state="KY" district="2">
+    <name lastname="Guthrie" firstname="Brett">Rep. Brett Guthrie (R, KY-2)</name>
+  </entity>
+  <entity id="H001045" govtrackid="412280" title="Rep." state="MS" district="3">
+    <name lastname="Harper" firstname="Gregg">Rep. Gregg Harper (R, MS-3)</name>
+  </entity>
+  <entity id="H001046" govtrackid="412281" title="Sen." state="NM">
+    <name lastname="Heinrich" firstname="Martin">Sen. Martin Heinrich (D, NM)</name>
+  </entity>
+  <entity id="H001047" govtrackid="412282" title="Rep." state="CT" district="4">
+    <name lastname="Himes" firstname="James">Rep. James Himes (D, CT-4)</name>
+  </entity>
+  <entity id="H001048" govtrackid="412283" title="Rep." state="CA" district="50">
+    <name lastname="Hunter" firstname="Duncan">Rep. Duncan Hunter (R, CA-50)</name>
+  </entity>
+  <entity id="J000290" govtrackid="412284" title="Rep." state="KS" district="2">
+    <name lastname="Jenkins" firstname="Lynn">Rep. Lynn Jenkins (R, KS-2)</name>
+  </entity>
+  <entity id="K000368" govtrackid="412286" title="Rep." state="AZ" district="1">
+    <name lastname="Kirkpatrick" firstname="Ann">Rep. Ann Kirkpatrick (D, AZ-1)</name>
+  </entity>
+  <entity id="L000567" govtrackid="412290" title="Rep." state="NJ" district="7">
+    <name lastname="Lance" firstname="Leonard">Rep. Leonard Lance (R, NJ-7)</name>
+  </entity>
+  <entity id="L000569" govtrackid="412292" title="Rep." state="MO" district="3">
+    <name lastname="Luetkemeyer" firstname="Blaine">Rep. Blaine Luetkemeyer (R, MO-3)</name>
+  </entity>
+  <entity id="L000570" govtrackid="412293" title="Rep." state="NM" district="3">
+    <name lastname="Luján" firstname="Ben">Rep. Ben Luján (D, NM-3)</name>
+  </entity>
+  <entity id="L000571" govtrackid="412294" title="Rep." state="WY" district="0">
+    <name lastname="Lummis" firstname="Cynthia">Rep. Cynthia Lummis (R, WY-0)</name>
+  </entity>
+  <entity id="M001177" govtrackid="412295" title="Rep." state="CA" district="4">
+    <name lastname="McClintock" firstname="Tom">Rep. Tom McClintock (R, CA-4)</name>
+  </entity>
+  <entity id="M001171" govtrackid="412297" title="Rep." state="NY" district="24">
+    <name lastname="Maffei" firstname="Daniel">Rep. Daniel Maffei (D, NY-24)</name>
+  </entity>
+  <entity id="O000168" govtrackid="412302" title="Rep." state="TX" district="22">
+    <name lastname="Olson" firstname="Pete">Rep. Pete Olson (R, TX-22)</name>
+  </entity>
+  <entity id="P000594" govtrackid="412303" title="Rep." state="MN" district="3">
+    <name lastname="Paulsen" firstname="Erik">Rep. Erik Paulsen (R, MN-3)</name>
+  </entity>
+  <entity id="P000595" govtrackid="412305" title="Rep." state="MI" district="14">
+    <name lastname="Peters" firstname="Gary">Rep. Gary Peters (D, MI-14)</name>
+  </entity>
+  <entity id="P000596" govtrackid="412306" title="Res.Comm." state="PR" district="0">
+    <name lastname="Pierluisi" firstname="Pedro">Res.Comm. Pedro Pierluisi (D, PR-0)</name>
+  </entity>
+  <entity id="P000597" govtrackid="412307" title="Rep." state="ME" district="1">
+    <name lastname="Pingree" firstname="Chellie">Rep. Chellie Pingree (D, ME-1)</name>
+  </entity>
+  <entity id="P000598" govtrackid="412308" title="Rep." state="CO" district="2">
+    <name lastname="Polis" firstname="Jared">Rep. Jared Polis (D, CO-2)</name>
+  </entity>
+  <entity id="P000599" govtrackid="412309" title="Rep." state="FL" district="8">
+    <name lastname="Posey" firstname="Bill">Rep. Bill Posey (R, FL-8)</name>
+  </entity>
+  <entity id="R000582" govtrackid="412310" title="Rep." state="TN" district="1">
+    <name lastname="Roe" firstname="Phil">Rep. Phil Roe (R, TN-1)</name>
+  </entity>
+  <entity id="R000583" govtrackid="412311" title="Rep." state="FL" district="17">
+    <name lastname="Rooney" firstname="Thomas">Rep. Thomas Rooney (R, FL-17)</name>
+  </entity>
+  <entity id="S001177" govtrackid="412312" title="Del." state="MP" district="0">
+    <name lastname="Sablan" firstname="Gregorio">Del. Gregorio Sablan (D, MP-0)</name>
+  </entity>
+  <entity id="S001179" govtrackid="412314" title="Rep." state="IL" district="18">
+    <name lastname="Schock" firstname="Aaron">Rep. Aaron Schock (R, IL-18)</name>
+  </entity>
+  <entity id="S001180" govtrackid="412315" title="Rep." state="OR" district="5">
+    <name lastname="Schrader" firstname="Kurt">Rep. Kurt Schrader (D, OR-5)</name>
+  </entity>
+  <entity id="T000467" govtrackid="412317" title="Rep." state="PA" district="5">
+    <name lastname="Thompson" firstname="Glenn">Rep. Glenn Thompson (R, PA-5)</name>
+  </entity>
+  <entity id="T000468" govtrackid="412318" title="Rep." state="NV" district="1">
+    <name lastname="Titus" firstname="Dina">Rep. Dina Titus (D, NV-1)</name>
+  </entity>
+  <entity id="T000469" govtrackid="412319" title="Rep." state="NY" district="20">
+    <name lastname="Tonko" firstname="Paul">Rep. Paul Tonko (D, NY-20)</name>
+  </entity>
+  <entity id="J000291" govtrackid="412320" title="Sen." state="NE">
+    <name lastname="Johanns" firstname="Mike">Sen. Mike Johanns (R, NE)</name>
+  </entity>
+  <entity id="W000805" govtrackid="412321" title="Sen." state="VA">
+    <name lastname="Warner" firstname="Mark">Sen. Mark Warner (D, VA)</name>
+  </entity>
+  <entity id="R000584" govtrackid="412322" title="Sen." state="ID">
+    <name lastname="Risch" firstname="James">Sen. James Risch (R, ID)</name>
+  </entity>
+  <entity id="S001181" govtrackid="412323" title="Sen." state="NH">
+    <name lastname="Shaheen" firstname="Jeanne">Sen. Jeanne Shaheen (D, NH)</name>
+  </entity>
+  <entity id="H001049" govtrackid="412324" title="Sen." state="NC">
+    <name lastname="Hagan" firstname="Kay">Sen. Kay Hagan (D, NC)</name>
+  </entity>
+  <entity id="M001176" govtrackid="412325" title="Sen." state="OR">
+    <name lastname="Merkley" firstname="Jeff">Sen. Jeff Merkley (D, OR)</name>
+  </entity>
+  <entity id="B001265" govtrackid="412326" title="Sen." state="AK">
+    <name lastname="Begich" firstname="Mark">Sen. Mark Begich (D, AK)</name>
+  </entity>
+  <entity id="F000455" govtrackid="412327" title="Rep." state="OH" district="11">
+    <name lastname="Fudge" firstname="Marcia">Rep. Marcia Fudge (D, OH-11)</name>
+  </entity>
+  <entity id="B001267" govtrackid="412330" title="Sen." state="CO">
+    <name lastname="Bennet" firstname="Michael">Sen. Michael Bennet (D, CO)</name>
+  </entity>
+  <entity id="Q000023" govtrackid="412331" title="Rep." state="IL" district="5">
+    <name lastname="Quigley" firstname="Mike">Rep. Mike Quigley (D, IL-5)</name>
+  </entity>
+  <entity id="F000457" govtrackid="412378" title="Sen." state="MN">
+    <name lastname="Franken" firstname="Al">Sen. Al Franken (D, MN)</name>
+  </entity>
+  <entity id="C001080" govtrackid="412379" title="Rep." state="CA" district="27">
+    <name lastname="Chu" firstname="Judy">Rep. Judy Chu (D, CA-27)</name>
+  </entity>
+  <entity id="G000559" govtrackid="412382" title="Rep." state="CA" district="3">
+    <name lastname="Garamendi" firstname="John">Rep. John Garamendi (D, CA-3)</name>
+  </entity>
+  <entity id="O000169" govtrackid="412383" title="Rep." state="NY" district="21">
+    <name lastname="Owens" firstname="William">Rep. William Owens (D, NY-21)</name>
+  </entity>
+  <entity id="D000610" govtrackid="412385" title="Rep." state="FL" district="21">
+    <name lastname="Deutch" firstname="Ted">Rep. Ted Deutch (D, FL-21)</name>
+  </entity>
+  <entity id="G000560" govtrackid="412388" title="Rep." state="GA" district="14">
+    <name lastname="Graves" firstname="Tom">Rep. Tom Graves (R, GA-14)</name>
+  </entity>
+  <entity id="C001088" govtrackid="412390" title="Sen." state="DE">
+    <name lastname="Coons" firstname="Chris">Sen. Chris Coons (D, DE)</name>
+  </entity>
+  <entity id="M001183" govtrackid="412391" title="Sen." state="WV">
+    <name lastname="Manchin" firstname="Joe">Sen. Joe Manchin (D, WV)</name>
+  </entity>
+  <entity id="S001188" govtrackid="412392" title="Rep." state="IN" district="3">
+    <name lastname="Stutzman" firstname="Marlin">Rep. Marlin Stutzman (R, IN-3)</name>
+  </entity>
+  <entity id="R000585" govtrackid="412393" title="Rep." state="NY" district="23">
+    <name lastname="Reed" firstname="Tom">Rep. Tom Reed (R, NY-23)</name>
+  </entity>
+  <entity id="R000591" govtrackid="412394" title="Rep." state="AL" district="2">
+    <name lastname="Roby" firstname="Martha">Rep. Martha Roby (R, AL-2)</name>
+  </entity>
+  <entity id="B001274" govtrackid="412395" title="Rep." state="AL" district="5">
+    <name lastname="Brooks" firstname="Mo">Rep. Mo Brooks (R, AL-5)</name>
+  </entity>
+  <entity id="S001185" govtrackid="412396" title="Rep." state="AL" district="7">
+    <name lastname="Sewell" firstname="Terri">Rep. Terri Sewell (D, AL-7)</name>
+  </entity>
+  <entity id="G000565" govtrackid="412397" title="Rep." state="AZ" district="4">
+    <name lastname="Gosar" firstname="Paul">Rep. Paul Gosar (R, AZ-4)</name>
+  </entity>
+  <entity id="S001183" govtrackid="412399" title="Rep." state="AZ" district="6">
+    <name lastname="Schweikert" firstname="David">Rep. David Schweikert (R, AZ-6)</name>
+  </entity>
+  <entity id="C001087" govtrackid="412400" title="Rep." state="AR" district="1">
+    <name lastname="Crawford" firstname="Rick">Rep. Rick Crawford (R, AR-1)</name>
+  </entity>
+  <entity id="G000567" govtrackid="412401" title="Rep." state="AR" district="2">
+    <name lastname="Griffin" firstname="Tim">Rep. Tim Griffin (R, AR-2)</name>
+  </entity>
+  <entity id="W000809" govtrackid="412402" title="Rep." state="AR" district="3">
+    <name lastname="Womack" firstname="Steve">Rep. Steve Womack (R, AR-3)</name>
+  </entity>
+  <entity id="D000612" govtrackid="412403" title="Rep." state="CA" district="10">
+    <name lastname="Denham" firstname="Jeff">Rep. Jeff Denham (R, CA-10)</name>
+  </entity>
+  <entity id="B001270" govtrackid="412404" title="Rep." state="CA" district="37">
+    <name lastname="Bass" firstname="Karen">Rep. Karen Bass (D, CA-37)</name>
+  </entity>
+  <entity id="T000470" govtrackid="412405" title="Rep." state="CO" district="3">
+    <name lastname="Tipton" firstname="Scott">Rep. Scott Tipton (R, CO-3)</name>
+  </entity>
+  <entity id="G000562" govtrackid="412406" title="Rep." state="CO" district="4">
+    <name lastname="Gardner" firstname="Cory">Rep. Cory Gardner (R, CO-4)</name>
+  </entity>
+  <entity id="C001083" govtrackid="412407" title="Rep." state="DE" district="0">
+    <name lastname="Carney" firstname="John">Rep. John Carney (D, DE-0)</name>
+  </entity>
+  <entity id="S001186" govtrackid="412408" title="Rep." state="FL" district="2">
+    <name lastname="Southerland" firstname="Steve">Rep. Steve Southerland (R, FL-2)</name>
+  </entity>
+  <entity id="N000185" govtrackid="412409" title="Rep." state="FL" district="11">
+    <name lastname="Nugent" firstname="Richard">Rep. Richard Nugent (R, FL-11)</name>
+  </entity>
+  <entity id="W000806" govtrackid="412410" title="Rep." state="FL" district="10">
+    <name lastname="Webster" firstname="Daniel">Rep. Daniel Webster (R, FL-10)</name>
+  </entity>
+  <entity id="R000593" govtrackid="412411" title="Rep." state="FL" district="15">
+    <name lastname="Ross" firstname="Dennis">Rep. Dennis Ross (R, FL-15)</name>
+  </entity>
+  <entity id="W000808" govtrackid="412412" title="Rep." state="FL" district="24">
+    <name lastname="Wilson" firstname="Frederica">Rep. Frederica Wilson (D, FL-24)</name>
+  </entity>
+  <entity id="W000810" govtrackid="412416" title="Rep." state="GA" district="7">
+    <name lastname="Woodall" firstname="Rob">Rep. Rob Woodall (R, GA-7)</name>
+  </entity>
+  <entity id="S001189" govtrackid="412417" title="Rep." state="GA" district="8">
+    <name lastname="Scott" firstname="Austin">Rep. Austin Scott (R, GA-8)</name>
+  </entity>
+  <entity id="H001050" govtrackid="412418" title="Rep." state="HI" district="1">
+    <name lastname="Hanabusa" firstname="Colleen">Rep. Colleen Hanabusa (D, HI-1)</name>
+  </entity>
+  <entity id="L000573" govtrackid="412419" title="Rep." state="ID" district="1">
+    <name lastname="Labrador" firstname="Raúl">Rep. Raúl Labrador (R, ID-1)</name>
+  </entity>
+  <entity id="K000378" govtrackid="412421" title="Rep." state="IL" district="16">
+    <name lastname="Kinzinger" firstname="Adam">Rep. Adam Kinzinger (R, IL-16)</name>
+  </entity>
+  <entity id="H001059" govtrackid="412422" title="Rep." state="IL" district="14">
+    <name lastname="Hultgren" firstname="Randy">Rep. Randy Hultgren (R, IL-14)</name>
+  </entity>
+  <entity id="R000592" govtrackid="412426" title="Rep." state="IN" district="4">
+    <name lastname="Rokita" firstname="Todd">Rep. Todd Rokita (R, IN-4)</name>
+  </entity>
+  <entity id="B001275" govtrackid="412427" title="Rep." state="IN" district="8">
+    <name lastname="Bucshon" firstname="Larry">Rep. Larry Bucshon (R, IN-8)</name>
+  </entity>
+  <entity id="Y000064" govtrackid="412428" title="Rep." state="IN" district="9">
+    <name lastname="Young" firstname="Todd">Rep. Todd Young (R, IN-9)</name>
+  </entity>
+  <entity id="H001057" govtrackid="412429" title="Rep." state="KS" district="1">
+    <name lastname="Huelskamp" firstname="Tim">Rep. Tim Huelskamp (R, KS-1)</name>
+  </entity>
+  <entity id="Y000063" govtrackid="412430" title="Rep." state="KS" district="3">
+    <name lastname="Yoder" firstname="Kevin">Rep. Kevin Yoder (R, KS-3)</name>
+  </entity>
+  <entity id="P000602" govtrackid="412431" title="Rep." state="KS" district="4">
+    <name lastname="Pompeo" firstname="Mike">Rep. Mike Pompeo (R, KS-4)</name>
+  </entity>
+  <entity id="R000588" govtrackid="412432" title="Rep." state="LA" district="2">
+    <name lastname="Richmond" firstname="Cedric">Rep. Cedric Richmond (D, LA-2)</name>
+  </entity>
+  <entity id="H001052" govtrackid="412434" title="Rep." state="MD" district="1">
+    <name lastname="Harris" firstname="Andy">Rep. Andy Harris (R, MD-1)</name>
+  </entity>
+  <entity id="K000375" govtrackid="412435" title="Rep." state="MA" district="9">
+    <name lastname="Keating" firstname="William">Rep. William Keating (D, MA-9)</name>
+  </entity>
+  <entity id="B001271" govtrackid="412436" title="Rep." state="MI" district="1">
+    <name lastname="Benishek" firstname="Dan">Rep. Dan Benishek (R, MI-1)</name>
+  </entity>
+  <entity id="H001058" govtrackid="412437" title="Rep." state="MI" district="2">
+    <name lastname="Huizenga" firstname="Bill">Rep. Bill Huizenga (R, MI-2)</name>
+  </entity>
+  <entity id="A000367" govtrackid="412438" title="Rep." state="MI" district="3">
+    <name lastname="Amash" firstname="Justin">Rep. Justin Amash (R, MI-3)</name>
+  </entity>
+  <entity id="N000186" govtrackid="412442" title="Rep." state="MS" district="1">
+    <name lastname="Nunnelee" firstname="Alan">Rep. Alan Nunnelee (R, MS-1)</name>
+  </entity>
+  <entity id="P000601" govtrackid="412443" title="Rep." state="MS" district="4">
+    <name lastname="Palazzo" firstname="Steven">Rep. Steven Palazzo (R, MS-4)</name>
+  </entity>
+  <entity id="H001053" govtrackid="412444" title="Rep." state="MO" district="4">
+    <name lastname="Hartzler" firstname="Vicky">Rep. Vicky Hartzler (R, MO-4)</name>
+  </entity>
+  <entity id="L000576" govtrackid="412445" title="Rep." state="MO" district="7">
+    <name lastname="Long" firstname="Billy">Rep. Billy Long (R, MO-7)</name>
+  </entity>
+  <entity id="H001055" govtrackid="412446" title="Rep." state="NV" district="3">
+    <name lastname="Heck" firstname="Joe">Rep. Joe Heck (R, NV-3)</name>
+  </entity>
+  <entity id="R000594" govtrackid="412449" title="Rep." state="NJ" district="3">
+    <name lastname="Runyan" firstname="Jon">Rep. Jon Runyan (R, NJ-3)</name>
+  </entity>
+  <entity id="G000569" govtrackid="412451" title="Rep." state="NY" district="11">
+    <name lastname="Grimm" firstname="Michael">Rep. Michael Grimm (R, NY-11)</name>
+  </entity>
+  <entity id="G000564" govtrackid="412453" title="Rep." state="NY" district="19">
+    <name lastname="Gibson" firstname="Chris">Rep. Chris Gibson (R, NY-19)</name>
+  </entity>
+  <entity id="H001051" govtrackid="412454" title="Rep." state="NY" district="22">
+    <name lastname="Hanna" firstname="Richard">Rep. Richard Hanna (R, NY-22)</name>
+  </entity>
+  <entity id="E000291" govtrackid="412457" title="Rep." state="NC" district="2">
+    <name lastname="Ellmers" firstname="Renee">Rep. Renee Ellmers (R, NC-2)</name>
+  </entity>
+  <entity id="J000292" govtrackid="412460" title="Rep." state="OH" district="6">
+    <name lastname="Johnson" firstname="Bill">Rep. Bill Johnson (R, OH-6)</name>
+  </entity>
+  <entity id="S001187" govtrackid="412461" title="Rep." state="OH" district="15">
+    <name lastname="Stivers" firstname="Steve">Rep. Steve Stivers (R, OH-15)</name>
+  </entity>
+  <entity id="R000586" govtrackid="412462" title="Rep." state="OH" district="16">
+    <name lastname="Renacci" firstname="Jim">Rep. Jim Renacci (R, OH-16)</name>
+  </entity>
+  <entity id="G000563" govtrackid="412463" title="Rep." state="OH" district="7">
+    <name lastname="Gibbs" firstname="Bob">Rep. Bob Gibbs (R, OH-7)</name>
+  </entity>
+  <entity id="L000575" govtrackid="412464" title="Rep." state="OK" district="5">
+    <name lastname="Lankford" firstname="James">Rep. James Lankford (R, OK-5)</name>
+  </entity>
+  <entity id="K000376" govtrackid="412465" title="Rep." state="PA" district="3">
+    <name lastname="Kelly" firstname="Mike">Rep. Mike Kelly (R, PA-3)</name>
+  </entity>
+  <entity id="M001181" govtrackid="412466" title="Rep." state="PA" district="7">
+    <name lastname="Meehan" firstname="Patrick">Rep. Patrick Meehan (R, PA-7)</name>
+  </entity>
+  <entity id="M001179" govtrackid="412468" title="Rep." state="PA" district="10">
+    <name lastname="Marino" firstname="Thomas">Rep. Thomas Marino (R, PA-10)</name>
+  </entity>
+  <entity id="B001269" govtrackid="412469" title="Rep." state="PA" district="11">
+    <name lastname="Barletta" firstname="Lou">Rep. Lou Barletta (R, PA-11)</name>
+  </entity>
+  <entity id="C001084" govtrackid="412470" title="Rep." state="RI" district="1">
+    <name lastname="Cicilline" firstname="David">Rep. David Cicilline (D, RI-1)</name>
+  </entity>
+  <entity id="S001184" govtrackid="412471" title="Sen." state="SC">
+    <name lastname="Scott" firstname="Tim">Sen. Tim Scott (R, SC)</name>
+  </entity>
+  <entity id="D000615" govtrackid="412472" title="Rep." state="SC" district="3">
+    <name lastname="Duncan" firstname="Jeff">Rep. Jeff Duncan (R, SC-3)</name>
+  </entity>
+  <entity id="G000566" govtrackid="412473" title="Rep." state="SC" district="4">
+    <name lastname="Gowdy" firstname="Trey">Rep. Trey Gowdy (R, SC-4)</name>
+  </entity>
+  <entity id="M001182" govtrackid="412474" title="Rep." state="SC" district="5">
+    <name lastname="Mulvaney" firstname="Mick">Rep. Mick Mulvaney (R, SC-5)</name>
+  </entity>
+  <entity id="N000184" govtrackid="412475" title="Rep." state="SD" district="0">
+    <name lastname="Noem" firstname="Kristi">Rep. Kristi Noem (R, SD-0)</name>
+  </entity>
+  <entity id="F000459" govtrackid="412476" title="Rep." state="TN" district="3">
+    <name lastname="Fleischmann" firstname="Chuck">Rep. Chuck Fleischmann (R, TN-3)</name>
+  </entity>
+  <entity id="D000616" govtrackid="412477" title="Rep." state="TN" district="4">
+    <name lastname="DesJarlais" firstname="Scott">Rep. Scott DesJarlais (R, TN-4)</name>
+  </entity>
+  <entity id="B001273" govtrackid="412478" title="Rep." state="TN" district="6">
+    <name lastname="Black" firstname="Diane">Rep. Diane Black (R, TN-6)</name>
+  </entity>
+  <entity id="F000458" govtrackid="412479" title="Rep." state="TN" district="8">
+    <name lastname="Fincher" firstname="Stephen">Rep. Stephen Fincher (R, TN-8)</name>
+  </entity>
+  <entity id="F000461" govtrackid="412480" title="Rep." state="TX" district="17">
+    <name lastname="Flores" firstname="Bill">Rep. Bill Flores (R, TX-17)</name>
+  </entity>
+  <entity id="F000460" govtrackid="412482" title="Rep." state="TX" district="27">
+    <name lastname="Farenthold" firstname="Blake">Rep. Blake Farenthold (R, TX-27)</name>
+  </entity>
+  <entity id="R000589" govtrackid="412483" title="Rep." state="VA" district="2">
+    <name lastname="Rigell" firstname="E.">Rep. Scott Rigell (R, VA-2)</name>
+  </entity>
+  <entity id="H001060" govtrackid="412484" title="Rep." state="VA" district="5">
+    <name lastname="Hurt" firstname="Robert">Rep. Robert Hurt (R, VA-5)</name>
+  </entity>
+  <entity id="G000568" govtrackid="412485" title="Rep." state="VA" district="9">
+    <name lastname="Griffith" firstname="H.">Rep. Morgan Griffith (R, VA-9)</name>
+  </entity>
+  <entity id="H001056" govtrackid="412486" title="Rep." state="WA" district="3">
+    <name lastname="Herrera Beutler" firstname="Jaime">Rep. Jaime Herrera Beutler (R, WA-3)</name>
+  </entity>
+  <entity id="M001180" govtrackid="412487" title="Rep." state="WV" district="1">
+    <name lastname="McKinley" firstname="David">Rep. David McKinley (R, WV-1)</name>
+  </entity>
+  <entity id="D000614" govtrackid="412488" title="Rep." state="WI" district="7">
+    <name lastname="Duffy" firstname="Sean">Rep. Sean Duffy (R, WI-7)</name>
+  </entity>
+  <entity id="R000587" govtrackid="412489" title="Rep." state="WI" district="8">
+    <name lastname="Ribble" firstname="Reid">Rep. Reid Ribble (R, WI-8)</name>
+  </entity>
+  <entity id="B001277" govtrackid="412490" title="Sen." state="CT">
+    <name lastname="Blumenthal" firstname="Richard">Sen. Richard Blumenthal (D, CT)</name>
+  </entity>
+  <entity id="R000595" govtrackid="412491" title="Sen." state="FL">
+    <name lastname="Rubio" firstname="Marco">Sen. Marco Rubio (R, FL)</name>
+  </entity>
+  <entity id="P000603" govtrackid="412492" title="Sen." state="KY">
+    <name lastname="Paul" firstname="Rand">Sen. Rand Paul (R, KY)</name>
+  </entity>
+  <entity id="A000368" govtrackid="412493" title="Sen." state="NH">
+    <name lastname="Ayotte" firstname="Kelly">Sen. Kelly Ayotte (R, NH)</name>
+  </entity>
+  <entity id="H001061" govtrackid="412494" title="Sen." state="ND">
+    <name lastname="Hoeven" firstname="John">Sen. John Hoeven (R, ND)</name>
+  </entity>
+  <entity id="L000577" govtrackid="412495" title="Sen." state="UT">
+    <name lastname="Lee" firstname="Mike">Sen. Mike Lee (R, UT)</name>
+  </entity>
+  <entity id="J000293" govtrackid="412496" title="Sen." state="WI">
+    <name lastname="Johnson" firstname="Ron">Sen. Ron Johnson (R, WI)</name>
+  </entity>
+  <entity id="H001063" govtrackid="412498" title="Rep." state="CA" district="44">
+    <name lastname="Hahn" firstname="Janice">Rep. Janice Hahn (D, CA-44)</name>
+  </entity>
+  <entity id="A000369" govtrackid="412500" title="Rep." state="NV" district="2">
+    <name lastname="Amodei" firstname="Mark">Rep. Mark Amodei (R, NV-2)</name>
+  </entity>
+  <entity id="B001278" govtrackid="412501" title="Rep." state="OR" district="1">
+    <name lastname="Bonamici" firstname="Suzanne">Rep. Suzanne Bonamici (D, OR-1)</name>
+  </entity>
+  <entity id="B001279" govtrackid="412502" title="Rep." state="AZ" district="2">
+    <name lastname="Barber" firstname="Ron">Rep. Ron Barber (D, AZ-2)</name>
+  </entity>
+  <entity id="M001184" govtrackid="412503" title="Rep." state="KY" district="4">
+    <name lastname="Massie" firstname="Thomas">Rep. Thomas Massie (R, KY-4)</name>
+  </entity>
+  <entity id="D000617" govtrackid="412505" title="Rep." state="WA" district="1">
+    <name lastname="DelBene" firstname="Suzan">Rep. Suzan DelBene (D, WA-1)</name>
+  </entity>
+  <entity id="P000604" govtrackid="412506" title="Rep." state="NJ" district="10">
+    <name lastname="Payne" firstname="Donald">Rep. Donald Payne (D, NJ-10)</name>
+  </entity>
+  <entity id="" govtrackid="412507" title="Sen." state="HI">
+    <name lastname="Schatz" firstname="Brian">Sen. Brian Schatz (D, HI)</name>
+  </entity>
+  <entity id="" govtrackid="412508" title="Rep." state="AR" district="4">
+    <name lastname="Cotton" firstname="Tom">Rep. Tom Cotton (R, AR-4)</name>
+  </entity>
+  <entity id="" govtrackid="412509" title="Rep." state="AZ" district="9">
+    <name lastname="Sinema" firstname="Kyrsten">Rep. Kyrsten Sinema (D, AZ-9)</name>
+  </entity>
+  <entity id="" govtrackid="412510" title="Rep." state="CA" district="1">
+    <name lastname="La Malfa" firstname="Doug">Rep. Doug La Malfa (R, CA-1)</name>
+  </entity>
+  <entity id="" govtrackid="412511" title="Rep." state="CA" district="2">
+    <name lastname="Huffman" firstname="Jared">Rep. Jared Huffman (D, CA-2)</name>
+  </entity>
+  <entity id="" govtrackid="412512" title="Rep." state="CA" district="7">
+    <name lastname="Bera" firstname="Ami">Rep. Ami Bera (D, CA-7)</name>
+  </entity>
+  <entity id="" govtrackid="412513" title="Rep." state="CA" district="8">
+    <name lastname="Cook" firstname="Paul">Rep. Paul Cook (R, CA-8)</name>
+  </entity>
+  <entity id="" govtrackid="412514" title="Rep." state="CA" district="15">
+    <name lastname="Swalwell" firstname="Eric">Rep. Eric Swalwell (D, CA-15)</name>
+  </entity>
+  <entity id="" govtrackid="412515" title="Rep." state="CA" district="21">
+    <name lastname="Valadao" firstname="David">Rep. David Valadao (R, CA-21)</name>
+  </entity>
+  <entity id="" govtrackid="412516" title="Rep." state="CA" district="26">
+    <name lastname="Brownley" firstname="Julia">Rep. Julia Brownley (D, CA-26)</name>
+  </entity>
+  <entity id="" govtrackid="412517" title="Rep." state="CA" district="29">
+    <name lastname="Cardenas" firstname="Tony">Rep. Tony Cardenas (D, CA-29)</name>
+  </entity>
+  <entity id="" govtrackid="412518" title="Rep." state="CA" district="35">
+    <name lastname="McLeod" firstname="Gloria">Rep. Gloria McLeod (D, CA-35)</name>
+  </entity>
+  <entity id="" govtrackid="412519" title="Rep." state="CA" district="36">
+    <name lastname="Ruiz" firstname="Raul">Rep. Raul Ruiz (D, CA-36)</name>
+  </entity>
+  <entity id="" govtrackid="412520" title="Rep." state="CA" district="41">
+    <name lastname="Takano" firstname="Mark">Rep. Mark Takano (D, CA-41)</name>
+  </entity>
+  <entity id="" govtrackid="412521" title="Rep." state="CA" district="47">
+    <name lastname="Lowenthal" firstname="Alan">Rep. Alan Lowenthal (D, CA-47)</name>
+  </entity>
+  <entity id="" govtrackid="412522" title="Rep." state="CA" district="51">
+    <name lastname="Vargas" firstname="Juan">Rep. Juan Vargas (D, CA-51)</name>
+  </entity>
+  <entity id="" govtrackid="412523" title="Rep." state="CA" district="52">
+    <name lastname="Peters" firstname="Scott">Rep. Scott Peters (D, CA-52)</name>
+  </entity>
+  <entity id="" govtrackid="412524" title="Rep." state="CT" district="5">
+    <name lastname="Esty" firstname="Elizabeth">Rep. Elizabeth Esty (D, CT-5)</name>
+  </entity>
+  <entity id="" govtrackid="412525" title="Rep." state="FL" district="3">
+    <name lastname="Yoho" firstname="Ted">Rep. Ted Yoho (R, FL-3)</name>
+  </entity>
+  <entity id="" govtrackid="412526" title="Rep." state="FL" district="6">
+    <name lastname="DeSantis" firstname="Ron">Rep. Ron DeSantis (R, FL-6)</name>
+  </entity>
+  <entity id="" govtrackid="412527" title="Rep." state="FL" district="18">
+    <name lastname="Murphy" firstname="Patrick">Rep. Patrick Murphy (D, FL-18)</name>
+  </entity>
+  <entity id="" govtrackid="412528" title="Rep." state="FL" district="19">
+    <name lastname="Radel" firstname="Trey">Rep. Trey Radel (R, FL-19)</name>
+  </entity>
+  <entity id="" govtrackid="412529" title="Rep." state="FL" district="22">
+    <name lastname="Frankel" firstname="Lois">Rep. Lois Frankel (D, FL-22)</name>
+  </entity>
+  <entity id="" govtrackid="412530" title="Rep." state="FL" district="26">
+    <name lastname="Garcia" firstname="Joe">Rep. Joe Garcia (D, FL-26)</name>
+  </entity>
+  <entity id="" govtrackid="412531" title="Rep." state="GA" district="9">
+    <name lastname="Collins" firstname="Doug">Rep. Doug Collins (R, GA-9)</name>
+  </entity>
+  <entity id="" govtrackid="412532" title="Rep." state="HI" district="2">
+    <name lastname="Gabbard" firstname="Tulsi">Rep. Tulsi Gabbard (D, HI-2)</name>
+  </entity>
+  <entity id="" govtrackid="412533" title="Rep." state="IL" district="8">
+    <name lastname="Duckworth" firstname="Tammy">Rep. Tammy Duckworth (D, IL-8)</name>
+  </entity>
+  <entity id="" govtrackid="412534" title="Rep." state="IL" district="10">
+    <name lastname="Schneider" firstname="Brad">Rep. Brad Schneider (D, IL-10)</name>
+  </entity>
+  <entity id="" govtrackid="412535" title="Rep." state="IL" district="12">
+    <name lastname="Enyart" firstname="William">Rep. William Enyart (D, IL-12)</name>
+  </entity>
+  <entity id="" govtrackid="412536" title="Rep." state="IL" district="13">
+    <name lastname="Davis" firstname="Rodney">Rep. Rodney Davis (R, IL-13)</name>
+  </entity>
+  <entity id="" govtrackid="412537" title="Rep." state="IL" district="17">
+    <name lastname="Bustos" firstname="Cheri">Rep. Cheri Bustos (D, IL-17)</name>
+  </entity>
+  <entity id="" govtrackid="412538" title="Rep." state="IN" district="2">
+    <name lastname="Walorski" firstname="Jackie">Rep. Jackie Walorski (R, IN-2)</name>
+  </entity>
+  <entity id="" govtrackid="412539" title="Rep." state="IN" district="5">
+    <name lastname="Brooks" firstname="Susan">Rep. Susan Brooks (R, IN-5)</name>
+  </entity>
+  <entity id="" govtrackid="412540" title="Rep." state="IN" district="6">
+    <name lastname="Messer" firstname="Luke">Rep. Luke Messer (R, IN-6)</name>
+  </entity>
+  <entity id="" govtrackid="412541" title="Rep." state="KY" district="6">
+    <name lastname="Barr" firstname="Andy">Rep. Andy Barr (R, KY-6)</name>
+  </entity>
+  <entity id="" govtrackid="412542" title="Sen." state="MA">
+    <name lastname="Warren" firstname="Elizabeth">Sen. Elizabeth Warren (D, MA)</name>
+  </entity>
+  <entity id="" govtrackid="412543" title="Rep." state="MA" district="4">
+    <name lastname="Kennedy" firstname="Joe">Rep. Joe Kennedy (D, MA-4)</name>
+  </entity>
+  <entity id="" govtrackid="412544" title="Rep." state="MD" district="6">
+    <name lastname="Delaney" firstname="John">Rep. John Delaney (D, MD-6)</name>
+  </entity>
+  <entity id="" govtrackid="412545" title="Sen." state="ME">
+    <name lastname="King" firstname="Angus">Sen. Angus King (I, ME)</name>
+  </entity>
+  <entity id="" govtrackid="412546" title="Rep." state="MI" district="5">
+    <name lastname="Kildee" firstname="Daniel">Rep. Daniel Kildee (D, MI-5)</name>
+  </entity>
+  <entity id="" govtrackid="412547" title="Rep." state="MI" district="11">
+    <name lastname="Bentivolio" firstname="Kerry">Rep. Kerry Bentivolio (R, MI-11)</name>
+  </entity>
+  <entity id="" govtrackid="412548" title="Rep." state="MO" district="2">
+    <name lastname="Wagner" firstname="Ann">Rep. Ann Wagner (R, MO-2)</name>
+  </entity>
+  <entity id="" govtrackid="412549" title="Rep." state="MT" district="0">
+    <name lastname="Daines" firstname="Steve">Rep. Steve Daines (R, MT-0)</name>
+  </entity>
+  <entity id="" govtrackid="412550" title="Rep." state="NC" district="8">
+    <name lastname="Hudson" firstname="Richard">Rep. Richard Hudson (R, NC-8)</name>
+  </entity>
+  <entity id="" govtrackid="412551" title="Rep." state="NC" district="9">
+    <name lastname="Pittenger" firstname="Robert">Rep. Robert Pittenger (R, NC-9)</name>
+  </entity>
+  <entity id="" govtrackid="412552" title="Rep." state="NC" district="11">
+    <name lastname="Meadows" firstname="Mark">Rep. Mark Meadows (R, NC-11)</name>
+  </entity>
+  <entity id="" govtrackid="412553" title="Rep." state="NC" district="13">
+    <name lastname="Holding" firstname="George">Rep. George Holding (R, NC-13)</name>
+  </entity>
+  <entity id="" govtrackid="412554" title="Sen." state="ND">
+    <name lastname="Heitkamp" firstname="Heidi">Sen. Heidi Heitkamp (D, ND)</name>
+  </entity>
+  <entity id="" govtrackid="412555" title="Rep." state="ND" district="0">
+    <name lastname="Cramer" firstname="Kevin">Rep. Kevin Cramer (R, ND-0)</name>
+  </entity>
+  <entity id="" govtrackid="412556" title="Sen." state="NE">
+    <name lastname="Fischer" firstname="Deb">Sen. Deb Fischer (R, NE)</name>
+  </entity>
+  <entity id="" govtrackid="412557" title="Rep." state="NH" district="2">
+    <name lastname="Kuster" firstname="Ann">Rep. Ann Kuster (D, NH-2)</name>
+  </entity>
+  <entity id="" govtrackid="412558" title="Rep." state="NM" district="1">
+    <name lastname="Grisham" firstname="Michelle">Rep. Michelle Grisham (D, NM-1)</name>
+  </entity>
+  <entity id="" govtrackid="412559" title="Rep." state="NV" district="4">
+    <name lastname="Horsford" firstname="Steven">Rep. Steven Horsford (D, NV-4)</name>
+  </entity>
+  <entity id="" govtrackid="412560" title="Rep." state="NY" district="6">
+    <name lastname="Meng" firstname="Grace">Rep. Grace Meng (D, NY-6)</name>
+  </entity>
+  <entity id="" govtrackid="412561" title="Rep." state="NY" district="8">
+    <name lastname="Jeffries" firstname="Hakeem">Rep. Hakeem Jeffries (D, NY-8)</name>
+  </entity>
+  <entity id="" govtrackid="412562" title="Rep." state="NY" district="18">
+    <name lastname="Maloney" firstname="Sean">Rep. Sean Maloney (D, NY-18)</name>
+  </entity>
+  <entity id="" govtrackid="412563" title="Rep." state="NY" district="27">
+    <name lastname="Collins" firstname="Chris">Rep. Chris Collins (R, NY-27)</name>
+  </entity>
+  <entity id="" govtrackid="412564" title="Rep." state="OH" district="2">
+    <name lastname="Wenstrup" firstname="Brad">Rep. Brad Wenstrup (R, OH-2)</name>
+  </entity>
+  <entity id="" govtrackid="412565" title="Rep." state="OH" district="3">
+    <name lastname="Beatty" firstname="Joyce">Rep. Joyce Beatty (D, OH-3)</name>
+  </entity>
+  <entity id="" govtrackid="412566" title="Rep." state="OH" district="14">
+    <name lastname="Joyce" firstname="David">Rep. David Joyce (R, OH-14)</name>
+  </entity>
+  <entity id="" govtrackid="412567" title="Rep." state="OK" district="1">
+    <name lastname="Bridenstine" firstname="Jim">Rep. Jim Bridenstine (R, OK-1)</name>
+  </entity>
+  <entity id="" govtrackid="412568" title="Rep." state="OK" district="2">
+    <name lastname="Mullin" firstname="Markwayne">Rep. Markwayne Mullin (R, OK-2)</name>
+  </entity>
+  <entity id="" govtrackid="412569" title="Rep." state="PA" district="4">
+    <name lastname="Perry" firstname="Scott">Rep. Scott Perry (R, PA-4)</name>
+  </entity>
+  <entity id="" govtrackid="412570" title="Rep." state="PA" district="12">
+    <name lastname="Rothfus" firstname="Keith">Rep. Keith Rothfus (R, PA-12)</name>
+  </entity>
+  <entity id="" govtrackid="412571" title="Rep." state="PA" district="17">
+    <name lastname="Cartwright" firstname="Matthew">Rep. Matthew Cartwright (D, PA-17)</name>
+  </entity>
+  <entity id="" govtrackid="412572" title="Rep." state="SC" district="7">
+    <name lastname="Rice" firstname="Tom">Rep. Tom Rice (R, SC-7)</name>
+  </entity>
+  <entity id="" govtrackid="412573" title="Sen." state="TX">
+    <name lastname="Cruz" firstname="Ted">Sen. Ted Cruz (R, TX)</name>
+  </entity>
+  <entity id="" govtrackid="412574" title="Rep." state="TX" district="14">
+    <name lastname="Weber" firstname="Randy">Rep. Randy Weber (R, TX-14)</name>
+  </entity>
+  <entity id="" govtrackid="412575" title="Rep." state="TX" district="16">
+    <name lastname="O'Rourke" firstname="Beto">Rep. Beto O'Rourke (D, TX-16)</name>
+  </entity>
+  <entity id="" govtrackid="412576" title="Rep." state="TX" district="20">
+    <name lastname="Castro" firstname="Joaquin">Rep. Joaquin Castro (D, TX-20)</name>
+  </entity>
+  <entity id="" govtrackid="412577" title="Rep." state="TX" district="23">
+    <name lastname="Gallego" firstname="Pete">Rep. Pete Gallego (D, TX-23)</name>
+  </entity>
+  <entity id="" govtrackid="412578" title="Rep." state="TX" district="25">
+    <name lastname="Williams" firstname="Roger">Rep. Roger Williams (R, TX-25)</name>
+  </entity>
+  <entity id="" govtrackid="412579" title="Rep." state="TX" district="33">
+    <name lastname="Veasey" firstname="Marc">Rep. Marc Veasey (D, TX-33)</name>
+  </entity>
+  <entity id="" govtrackid="412580" title="Rep." state="TX" district="34">
+    <name lastname="Vela" firstname="Filemon">Rep. Filemon Vela (D, TX-34)</name>
+  </entity>
+  <entity id="" govtrackid="412581" title="Rep." state="UT" district="2">
+    <name lastname="Stewart" firstname="Chris">Rep. Chris Stewart (R, UT-2)</name>
+  </entity>
+  <entity id="" govtrackid="412582" title="Sen." state="VA">
+    <name lastname="Kaine" firstname="Timothy">Sen. Timothy Kaine (D, VA)</name>
+  </entity>
+  <entity id="" govtrackid="412583" title="Rep." state="WA" district="6">
+    <name lastname="Kilmer" firstname="Derek">Rep. Derek Kilmer (D, WA-6)</name>
+  </entity>
+  <entity id="" govtrackid="412584" title="Rep." state="WA" district="10">
+    <name lastname="Heck" firstname="Denny">Rep. Denny Heck (D, WA-10)</name>
+  </entity>
+  <entity id="" govtrackid="412585" title="Rep." state="WI" district="2">
+    <name lastname="Pocan" firstname="Mark">Rep. Mark Pocan (D, WI-2)</name>
+  </entity>
+</entities>

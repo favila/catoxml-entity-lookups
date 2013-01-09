@@ -1,0 +1,64 @@
+<xs:schema version="1.1" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:complexType name="entitiesType">
+  <xs:sequence>
+    <xs:element name="entity" type="entityType" minOccurs="0" maxOccurs="unbounded"/>
+  </xs:sequence>
+  <xs:attribute type="xs:token" name="type" use="required"/>
+  <xs:attribute type="xs:dateTime" name="updated" use="required"/>
+  <xs:attribute type="xs:token" name="version"/>
+  <xs:attribute type="xs:anyURI" name="source"/>
+  <xs:attribute type="xs:token" name="description"/>
+  <xs:anyAttribute processContents="lax"/>
+</xs:complexType>
+
+<xs:complexType name="entityType">
+  <xs:sequence>
+    <xs:element name="name" type="nameOrAbbrType" minOccurs="0" maxOccurs="unbounded"/>
+    <xs:element name="abbr" type="nameOrAbbrType" minOccurs="0" maxOccurs="unbounded"/>
+  </xs:sequence>
+  <xs:attribute type="xs:token" name="id" use="required"/>
+  <xs:attribute type="xs:token" name="parent-id" use="optional"/>
+  <xs:anyAttribute processContents="lax"/>
+</xs:complexType>
+
+<xs:simpleType name="chambers">
+  <xs:annotation>
+    <xs:documentation>Valid values for the "chamber" attribute</xs:documentation>
+  </xs:annotation>
+  <xs:restriction base="xs:token">
+    <xs:enumeration value="H">
+      <xs:annotation><xs:documentation>House</xs:documentation></xs:annotation>
+    </xs:enumeration>
+    <xs:enumeration value="S">
+      <xs:annotation><xs:documentation>Senate</xs:documentation></xs:annotation>
+    </xs:enumeration>
+  </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="chamberList">
+  <xs:list itemType="chambers"/>
+</xs:simpleType>
+
+<xs:complexType name="nameOrAbbrType">
+  <xs:simpleContent>
+    <xs:extension base="xs:token">
+      <xs:attribute name="role" type="xs:token"/>
+      <xs:attribute name="firstname" type="xs:token"/>
+      <xs:attribute name="lastname" type="xs:token"/>
+    </xs:extension>
+  </xs:simpleContent>
+</xs:complexType>
+
+<xs:element name="entities" type="entitiesType">
+  <xs:key name="entity-id">
+    <xs:selector xpath="entity"/>
+    <xs:field xpath="@id"/>
+  </xs:key>
+  <xs:keyref name="parent-entity-id" refer="entity-id">
+    <xs:selector xpath="entity"/>
+    <xs:field xpath="@parent-id"/>
+  </xs:keyref>
+</xs:element>
+
+</xs:schema>
