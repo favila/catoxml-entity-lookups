@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<entities type="federal-entity" updated="2013-01-09T02:41:00">
+<entities type="federal-entity" updated="2013-01-09T12:13:21">
   <entity id="0000">
     <name role="official">The Legislative Branch</name>
   </entity>
@@ -2973,9 +2973,6 @@
   <entity id="89N6" parent-id="8900">
     <name role="official">Associate Administrator for Management and Administration</name>
   </entity>
-  <entity id="89N7" parent-id="8900">
-    <name role="official">Associate Administrator for Defense Nuclear Security</name>
-  </entity>
   <entity id="89BP" parent-id="8900">
     <name role="official">Bonneville Power Marketing Administration</name>
   </entity>
@@ -3059,9 +3056,6 @@
   </entity>
   <entity id="8955" parent-id="8900">
     <name role="official">Consolidated Business Center</name>
-  </entity>
-  <entity id="89BA" parent-id="8900">
-    <name role="official">Chicago Office</name>
   </entity>
   <entity id="8982" parent-id="8900">
     <name role="official">Elk Hills Naval Pet &amp; Oil Shale Reserves</name>
