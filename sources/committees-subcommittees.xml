@@ -1,4 +1,4 @@
-<congressional-committees version="2012-12-11">
+<congressional-committees>
   <committee-entity id="JCSE00">
     <name role="official">Commission on Security and Cooperation in Europe</name>
   </committee-entity>
@@ -317,25 +317,25 @@
     <name role="official">Senate Committee on Environment and Public Works</name>
     <name>Committee on Environment and Public Works of the Senate</name>
   </committee-entity>
-  <committee-entity id="" parent-id="SSEV00">
+  <committee-entity id="SSEV17" parent-id="SSEV00">
     <name role="official">Subcommittee on Children's Health and Environmental Responsibility</name>
   </committee-entity>
-  <committee-entity id="" parent-id="SSEV00">
+  <committee-entity id="SSEV10" parent-id="SSEV00">
     <name role="official">Subcommittee on Clean Air and Nuclear Safety</name>
   </committee-entity>
-  <committee-entity id="" parent-id="SSEV00">
+  <committee-entity id="SSEV16" parent-id="SSEV00">
     <name role="official">Subcommittee on Green Jobs and the New Economy</name>
   </committee-entity>
-  <committee-entity id="" parent-id="SSEV00">
+  <committee-entity id="SSEV18" parent-id="SSEV00">
     <name role="official">Subcommittee on Oversight</name>
   </committee-entity>
-  <committee-entity id="" parent-id="SSEV00">
+  <committee-entity id="SSEV09" parent-id="SSEV00">
     <name role="official">Subcommittee on Superfund, Toxics and Environmental Health</name>
   </committee-entity>
-  <committee-entity id="" parent-id="SSEV00">
+  <committee-entity id="SSEV08" parent-id="SSEV00">
     <name role="official">Subcommittee on Transportation and Infrastructure</name>
   </committee-entity>
-  <committee-entity id="" parent-id="SSEV00">
+  <committee-entity id="SSEV15" parent-id="SSEV00">
     <name role="official">Subcommittee on Water and Wildlife</name>
   </committee-entity>
   <committee-entity id="HAG00">
@@ -740,6 +740,6 @@
   </committee-entity>
   <committee-entity id="HWM06" parent-id="HWM00">
     <name role="official">Subcommittee on Oversight</name>
-  </committee-entity>
+  </committee-entity>	
 </congressional-committees>
 

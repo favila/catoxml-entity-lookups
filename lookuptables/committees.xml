@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<entities type="committee" version="congress-113" updated="2013-01-09T02:41:00-06:00">
+<entities type="committee" version="congress-113" updated="2013-01-09T12:24:42-06:00">
   <entity id="JCSE00">
     <name role="official">Commission on Security and Cooperation in Europe</name>
   </entity>
@@ -318,25 +318,25 @@
     <name role="official">Senate Committee on Environment and Public Works</name>
     <name>Committee on Environment and Public Works of the Senate</name>
   </entity>
-  <entity id="" parent-id="SSEV00">
+  <entity id="SSEV17" parent-id="SSEV00">
     <name role="official">Subcommittee on Children's Health and Environmental Responsibility</name>
   </entity>
-  <entity id="" parent-id="SSEV00">
+  <entity id="SSEV10" parent-id="SSEV00">
     <name role="official">Subcommittee on Clean Air and Nuclear Safety</name>
   </entity>
-  <entity id="" parent-id="SSEV00">
+  <entity id="SSEV16" parent-id="SSEV00">
     <name role="official">Subcommittee on Green Jobs and the New Economy</name>
   </entity>
-  <entity id="" parent-id="SSEV00">
+  <entity id="SSEV18" parent-id="SSEV00">
     <name role="official">Subcommittee on Oversight</name>
   </entity>
-  <entity id="" parent-id="SSEV00">
+  <entity id="SSEV09" parent-id="SSEV00">
     <name role="official">Subcommittee on Superfund, Toxics and Environmental Health</name>
   </entity>
-  <entity id="" parent-id="SSEV00">
+  <entity id="SSEV08" parent-id="SSEV00">
     <name role="official">Subcommittee on Transportation and Infrastructure</name>
   </entity>
-  <entity id="" parent-id="SSEV00">
+  <entity id="SSEV15" parent-id="SSEV00">
     <name role="official">Subcommittee on Water and Wildlife</name>
   </entity>
   <entity id="HAG00">

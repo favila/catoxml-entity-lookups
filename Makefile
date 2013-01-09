@@ -23,7 +23,7 @@ $(tmpdir)/billversions.xml.tmp-unformatted: $(scriptdir)/doctypes2xml.py $(sourc
 $(tmpdir)/acts.xml.tmp-unformatted: $(scriptdir)/act-names.py $(sourcedir)/act-names.csv
 	python  $+ $@
 
-$(targetdir)/committees.xml: $(scriptdir)/fix-committees.xsl $(sourcedir)/committees-subcommittees4.xml
+$(targetdir)/committees.xml: $(scriptdir)/fix-committees.xsl $(sourcedir)/committees-subcommittees.xml
 	xsltproc --output $@ $+
 
 $(tmpdir)/federal-entities.xml.tmp-unformatted: $(scriptdir)/nistcsv2xml.py $(sourcedir)/NIST-agencies-bureaus.csv
