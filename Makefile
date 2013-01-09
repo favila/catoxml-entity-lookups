@@ -45,4 +45,4 @@ clean:
 	rm $(tmpdir)/* $(targetxml)
 
 move:
-	mv $(targetxml) $(movedest)
+	cp $(targetxml) $(movedest)
