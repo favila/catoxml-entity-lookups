@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<entities type="federal-entity" updated="2013-01-09T12:13:21">
+<entities type="federal-entity" updated="2013-01-16T08:39:22">
   <entity id="0000">
     <name role="official">The Legislative Branch</name>
   </entity>
@@ -20,6 +20,7 @@
   </entity>
   <entity id="0300" parent-id="0000">
     <name role="official">Library of Congress</name>
+    <abbr>LOC</abbr>
   </entity>
   <entity id="0361">
     <name role="official">Library of Congress Trust Fund Board</name>
@@ -29,9 +30,13 @@
   </entity>
   <entity id="0400" parent-id="0000">
     <name role="official">Government Printing Office</name>
+    <abbr>GPO</abbr>
   </entity>
   <entity id="0500" parent-id="0000">
-    <name role="official">General Accounting Office</name>
+    <name role="official">Government Accountability Office</name>
+    <name role="historical">General Accounting Office</name>
+    <name role="leadership">Comptroller General of the United States</name>
+    <abbr>GAO</abbr>
   </entity>
   <entity id="0501" parent-id="0500">
     <name role="official">Comptroller General of the United States</name>
@@ -149,12 +154,14 @@
   </entity>
   <entity id="1103" parent-id="1100">
     <name role="official">Office of Management and Budget</name>
+    <abbr>OMB</abbr>
   </entity>
   <entity id="1105" parent-id="1100">
     <name role="official">Office of Administration</name>
   </entity>
   <entity id="1109" parent-id="1100">
     <name role="official">Office of the United States Trade Representative</name>
+    <abbr>USTR</abbr>
   </entity>
   <entity id="1110" parent-id="1100">
     <name role="official">Office of Policy Development</name>
@@ -251,6 +258,8 @@
   </entity>
   <entity id="1200">
     <name role="official">Department of Agriculture</name>
+    <name role="leadership">Secretary of Agriculture</name>
+    <abbr>USDA</abbr>
   </entity>
   <entity id="1201" parent-id="1200">
     <name role="official">Office of the Secretary of Agriculture</name>
@@ -422,6 +431,7 @@
   </entity>
   <entity id="1300">
     <name role="official">Department of Commerce</name>
+    <name role="leadership">Secretary of Commerce</name>
   </entity>
   <entity id="1301" parent-id="1300">
     <name role="official">Office of the Secretary</name>
@@ -443,6 +453,7 @@
   </entity>
   <entity id="1321" parent-id="1314">
     <name role="official">Bureau of Economic Analysis</name>
+    <abbr>BEA</abbr>
   </entity>
   <entity id="1323" parent-id="1314">
     <name role="official">Bureau of the Census</name>
@@ -452,12 +463,14 @@
   </entity>
   <entity id="1330" parent-id="1300">
     <name role="official">National Oceanic and Atmospheric Administration/Under Secretary for Oceans and Atmosphere</name>
+    <abbr>NOAA</abbr>
   </entity>
   <entity id="1335" parent-id="1300">
     <name role="official">National Telecommunication and Information Administration/Assistant Secretary for Communications and Information</name>
   </entity>
   <entity id="1341" parent-id="1359">
     <name role="official">National Institute of Standards and Technology</name>
+    <abbr>NIST</abbr>
   </entity>
   <entity id="1342" parent-id="1359">
     <name role="official">National Technical Information Service</name>
@@ -488,6 +501,8 @@
   </entity>
   <entity id="1400">
     <name role="official">Department of the Interior</name>
+    <name role="leadership">Secretary of the Interior</name>
+    <abbr>DOI</abbr>
   </entity>
   <entity id="1402" parent-id="140S">
     <name role="official">Office of the Deputy Secretary of the Interior</name>
@@ -533,6 +548,7 @@
   </entity>
   <entity id="1422" parent-id="142L">
     <name role="official">Bureau of Land Management</name>
+    <abbr>BLM</abbr>
   </entity>
   <entity id="1425" parent-id="142W">
     <name role="official">Bureau of Reclamation</name>
@@ -551,6 +567,7 @@
   </entity>
   <entity id="1434" parent-id="142W">
     <name role="official">Geological Survey</name>
+    <abbr>USGS</abbr>
   </entity>
   <entity id="1435" parent-id="142L">
     <name role="official">Minerals Management Service</name>
@@ -560,12 +577,16 @@
   </entity>
   <entity id="1443" parent-id="142F">
     <name role="official">National Park Service</name>
+    <abbr>NPS</abbr>
   </entity>
   <entity id="1448" parent-id="142F">
     <name role="official">U.S. Fish and Wildlife Service</name>
+    <abbr>FWS</abbr>
   </entity>
   <entity id="1450" parent-id="1400">
     <name role="official">Indian Affairs (Assistant Secretary)</name>
+    <name role="historical">Bureau of Indian Affairs</name>
+    <abbr>BIA</abbr>
   </entity>
   <entity id="1460" parent-id="1400">
     <name role="official">Board on Geographic Names</name>
@@ -593,6 +614,8 @@
   </entity>
   <entity id="1500">
     <name role="official">Department of Justice</name>
+    <name role="leadership">Attorney General</name>
+    <abbr>DOJ</abbr>
   </entity>
   <entity id="1501" parent-id="1500">
     <name role="official">Offices, Boards and Divisions</name>
@@ -602,6 +625,7 @@
   </entity>
   <entity id="1524" parent-id="1500">
     <name role="official">Drug Enforcement Administration</name>
+    <abbr>DEA</abbr>
   </entity>
   <entity id="1526" parent-id="1500">
     <name role="official">Executive Office for U.S. Attorneys and the Offices of U.S. Attorneys</name>
@@ -617,12 +641,14 @@
   </entity>
   <entity id="1540" parent-id="1500">
     <name role="official">Bureau of Prisoners/Federal Prison System</name>
+    <abbr>BOP</abbr>
   </entity>
   <entity id="1544" parent-id="1500">
     <name role="official">U.S. Marshals Service</name>
   </entity>
   <entity id="1549" parent-id="1500">
     <name role="official">Federal Bureau of Investigation</name>
+    <abbr>FBI</abbr>
   </entity>
   <entity id="1550" parent-id="1500">
     <name role="official">Office of Justice Programs</name>
@@ -632,9 +658,12 @@
   </entity>
   <entity id="1560" parent-id="1500">
     <name role="official">Bureau of Alcohol, Tobacco, Firearms and Explosives</name>
+    <abbr>ATF</abbr>
   </entity>
   <entity id="1600">
     <name role="official">Department of Labor</name>
+    <name role="leadership">Secretary of Labor</name>
+    <abbr>DOL</abbr>
   </entity>
   <entity id="1601" parent-id="160S">
     <name role="official">Immediate Office of the Secretary of Labor</name>
@@ -731,6 +760,7 @@
   </entity>
   <entity id="1700">
     <name role="official">Department of the Navy</name>
+    <name role="leadership">Secretary of the Navy</name>
   </entity>
   <entity id="1708" parent-id="1712">
     <name role="official">Immediate Office of the Secretary of the Navy</name>
@@ -824,6 +854,7 @@
   </entity>
   <entity id="1800">
     <name role="official">U.S. Postal Service</name>
+    <abbr>USPS</abbr>
   </entity>
   <entity id="1804" parent-id="1800">
     <name role="official">Office -Inspector General of the U.S. Postal Service</name>
@@ -842,6 +873,7 @@
   </entity>
   <entity id="1900">
     <name role="official">Department of State</name>
+    <name role="leadership">Secretary of State</name>
   </entity>
   <entity id="1901" parent-id="190S">
     <name role="official">Immediate Office of the Secretary of State</name>
@@ -1244,6 +1276,7 @@
   </entity>
   <entity id="19UH">
     <name role="official">World Health Organization</name>
+    <abbr>WHO</abbr>
   </entity>
   <entity id="19UK">
     <name role="official">United Nations Industrial Development Organization</name>
@@ -1256,6 +1289,7 @@
   </entity>
   <entity id="19UN">
     <name role="official">United Nations (and special programs)</name>
+    <abbr>UN</abbr>
   </entity>
   <entity id="19UP">
     <name role="official">Universal Postal Union</name>
@@ -1268,6 +1302,7 @@
   </entity>
   <entity id="2000">
     <name role="official">Department of the Treasury</name>
+    <name role="leadership">Secretary of the Treasury</name>
   </entity>
   <entity id="2001" parent-id="2000">
     <name role="official">Departmental Offices</name>
@@ -1304,6 +1339,7 @@
   </entity>
   <entity id="2050" parent-id="2000">
     <name role="official">Internal Revenue Service</name>
+    <abbr>IRS</abbr>
   </entity>
   <entity id="2061">
     <name role="official">Federal Financing Bank</name>
@@ -1325,6 +1361,7 @@
   </entity>
   <entity id="2100">
     <name role="official">Department of the Army (except Corps of Engineers Civil program financing)</name>
+    <name role="leadership">Secretary of the Army</name>
   </entity>
   <entity id="2130" parent-id="2100">
     <name role="official">National Guard Bureau</name>
@@ -1535,6 +1572,7 @@
   </entity>
   <entity id="2400">
     <name role="official">Office of Personnel Management</name>
+    <abbr>OPM</abbr>
   </entity>
   <entity id="2460">
     <name role="official">Federal Prevailing Rate Advisory Committee</name>
@@ -1634,9 +1672,11 @@
   </entity>
   <entity id="2700">
     <name role="official">Federal Communications Commission</name>
+    <abbr>FCC</abbr>
   </entity>
   <entity id="2800">
     <name role="official">Social Security Administration</name>
+    <abbr>SSA</abbr>
   </entity>
   <entity id="2801" parent-id="2800">
     <name role="official">Office of the Commissioner</name>
@@ -1676,6 +1716,7 @@
   </entity>
   <entity id="2900">
     <name role="official">Federal Trade Commission</name>
+    <abbr>FTC</abbr>
   </entity>
   <entity id="3100">
     <name role="official">Nuclear Regulatory Commission</name>
@@ -1697,9 +1738,12 @@
   </entity>
   <entity id="3400">
     <name role="official">U.S. International Trade Commission</name>
+    <abbr>USITC</abbr>
   </entity>
   <entity id="3600">
     <name role="official">Department of Veterans Affairs</name>
+    <name role="leadership">Secretary of Veterans Affairs</name>
+    <abbr>VA</abbr>
   </entity>
   <entity id="3601" parent-id="3600">
     <name role="official">Office of the Secretary</name>
@@ -1859,9 +1903,12 @@
   </entity>
   <entity id="4609">
     <name role="official">Washington Metropolitan Area Transit Authority</name>
+    <abbr>WMATA</abbr>
   </entity>
   <entity id="4700">
     <name role="official">General Services Administration</name>
+    <name role="leadership">Administrator of the General Services Administration</name>
+    <abbr>GSA</abbr>
   </entity>
   <entity id="4701" parent-id="4700">
     <name role="official">Immediate Office of the Administrator</name>
@@ -1943,6 +1990,8 @@
   </entity>
   <entity id="4900">
     <name role="official">National Science Foundation</name>
+    <name role="leadership">Director of the National Science Foundation</name>
+    <abbr>NSF</abbr>
   </entity>
   <entity id="4960">
     <name role="official">National Science Board</name>
@@ -2018,21 +2067,25 @@
   </entity>
   <entity id="5000">
     <name role="official">Securities and Exchange Commission</name>
+    <abbr>SEC</abbr>
   </entity>
   <entity id="5094">
     <name role="official">Securities Investor Protection Corporation</name>
   </entity>
   <entity id="5100">
     <name role="official">Federal Deposit Insurance Corporation</name>
+    <abbr>FDIC</abbr>
   </entity>
   <entity id="5400">
     <name role="official">Federal Labor Relations Authority</name>
   </entity>
   <entity id="5600">
     <name role="official">Central Intelligence Agency</name>
+    <abbr>CIA</abbr>
   </entity>
   <entity id="5700">
     <name role="official">Department of the Air Force (Headquarters, USAF)</name>
+    <name role="leadership">Secretary of the Air Force</name>
   </entity>
   <entity id="5701" parent-id="5700">
     <name role="official">Air Force Management Engineering Agency</name>
@@ -2312,6 +2365,8 @@
   </entity>
   <entity id="6800">
     <name role="official">Environmental Protection Agency</name>
+    <name role="leadership">Administrator of the Environmental Protection Agency</name>
+    <abbr>EPA</abbr>
   </entity>
   <entity id="6801" parent-id="680S">
     <name role="official">Immediate Office of the Administrator of EPA</name>
@@ -2402,6 +2457,8 @@
   </entity>
   <entity id="6900">
     <name role="official">Department of Transportation</name>
+    <name role="leadership">Secretary of Transportation</name>
+    <abbr>DOT</abbr>
   </entity>
   <entity id="6901" parent-id="690S">
     <name role="official">Immediate Office of the Secretary of Transportation</name>
@@ -2462,6 +2519,7 @@
   </entity>
   <entity id="6920" parent-id="6900">
     <name role="official">Federal Aviation Administration</name>
+    <abbr>FAA</abbr>
   </entity>
   <entity id="6922" parent-id="690S">
     <name role="official">Assistant Secretary for Aviation and International Affairs</name>
@@ -2477,6 +2535,7 @@
   </entity>
   <entity id="6940" parent-id="6900">
     <name role="official">National Highway Traffic Safety Administration</name>
+    <abbr>NHTSA</abbr>
   </entity>
   <entity id="6943" parent-id="6900">
     <name role="official">Research and Innovative Technology Administration</name>
@@ -2501,6 +2560,8 @@
   </entity>
   <entity id="7000">
     <name role="official">Department of Homeland Security</name>
+    <name role="leadership">Secretary of Homeland Security</name>
+    <abbr>DHS</abbr>
   </entity>
   <entity id="7001" parent-id="7000">
     <name role="official">Office of the Secretary, Department of Homeland Security</name>
@@ -2516,24 +2577,29 @@
   </entity>
   <entity id="7008" parent-id="7001">
     <name role="official">U.S. Coast Guard</name>
+    <abbr>USCG</abbr>
   </entity>
   <entity id="7009" parent-id="7001">
     <name role="official">U.S. Secret Service</name>
   </entity>
   <entity id="7012" parent-id="7001">
     <name role="official">U.S. Immigration and Customs Enforcement</name>
+    <abbr>ICE</abbr>
   </entity>
   <entity id="7013" parent-id="7001">
     <name role="official">Transportation Security Administration</name>
+    <abbr>TSA</abbr>
   </entity>
   <entity id="7014" parent-id="7001">
     <name role="official">U.S. Customs and Border Protection</name>
+    <abbr>CBP</abbr>
   </entity>
   <entity id="7015" parent-id="7001">
     <name role="official">Federal Law Enforcement Training Center</name>
   </entity>
   <entity id="7022" parent-id="7001">
     <name role="official">Federal Emergency Management Agency</name>
+    <abbr>FEMA</abbr>
   </entity>
   <entity id="7032" parent-id="7001">
     <name role="official">Office for Information Analysis</name>
@@ -2558,9 +2624,11 @@
   </entity>
   <entity id="7200">
     <name role="official">U.S. Agency for International Development</name>
+    <abbr>USAID</abbr>
   </entity>
   <entity id="7300">
     <name role="official">Small Business Administration</name>
+    <abbr>SBA</abbr>
   </entity>
   <entity id="7360">
     <name role="official">National Women's Business Council</name>
@@ -2570,6 +2638,8 @@
   </entity>
   <entity id="7500">
     <name role="official">Department of Health and Human Services</name>
+    <name role="leadership">Secretary of Health and Human Services</name>
+    <abbr>HHS</abbr>
   </entity>
   <entity id="7501" parent-id="750S">
     <name role="official">Immediate Office of the Secretary of Health and Human Services</name>
@@ -2627,9 +2697,11 @@
   </entity>
   <entity id="7523" parent-id="750S">
     <name role="official">Centers for Disease Control and Prevention</name>
+    <abbr>CDC</abbr>
   </entity>
   <entity id="7524" parent-id="750S">
     <name role="official">Food and Drug Administration</name>
+    <abbr>FDA</abbr>
   </entity>
   <entity id="7525" parent-id="750S">
     <name role="official">Agency for Toxic Substances and Disease Registry</name>
@@ -2645,6 +2717,8 @@
   </entity>
   <entity id="7529" parent-id="750S">
     <name role="official">National Institutes of Health</name>
+    <name role="leadership">Director of the National Institutes of Health</name>
+    <abbr>NIH</abbr>
   </entity>
   <entity id="7530" parent-id="7500">
     <name role="official">Centers for Medicare &amp; Medicaid Services</name>
@@ -2681,6 +2755,8 @@
   </entity>
   <entity id="8000">
     <name role="official">National Aeronautics and Space Administration</name>
+    <name role="leadership">Administrator of the National Aeronautics and Space Administration</name>
+    <abbr>NASA</abbr>
   </entity>
   <entity id="8001" parent-id="8000">
     <name role="official">Headquarters, NASA</name>
@@ -2732,6 +2808,8 @@
   </entity>
   <entity id="8600">
     <name role="official">Department of Housing and Urban Development</name>
+    <name role="leadership">Secretary of Housing and Urban Development</name>
+    <abbr>HUD</abbr>
   </entity>
   <entity id="8601" parent-id="8600">
     <name role="official">Office of the Secretary of Housing and Urban Development</name>
@@ -2849,6 +2927,7 @@
   </entity>
   <entity id="8800">
     <name role="official">National Archives and Records Administration</name>
+    <abbr>NARA</abbr>
   </entity>
   <entity id="8852">
     <name role="official">Information Security Oversight Office</name>
@@ -2864,6 +2943,8 @@
   </entity>
   <entity id="8900">
     <name role="official">Department of Energy</name>
+    <name role="leadership">Secretary of Energy</name>
+    <abbr>DOE</abbr>
   </entity>
   <entity id="8901" parent-id="8900">
     <name role="official">Office of the Secretary</name>
@@ -3101,12 +3182,14 @@
   </entity>
   <entity id="8990">
     <name role="official">Federal Energy Regulatory Commission</name>
+    <abbr>FERC</abbr>
   </entity>
   <entity id="9000">
     <name role="official">Selective Service System</name>
   </entity>
   <entity id="9100">
     <name role="official">Department of Education</name>
+    <name role="leadership">Secretary of Education</name>
   </entity>
   <entity id="9101" parent-id="9100">
     <name role="official">Immediate Office of the Secretary of Education</name>
@@ -3138,10 +3221,10 @@
   <entity id="9110" parent-id="9100">
     <name role="official">Office of Public Affairs</name>
   </entity>
-  <entity id="9111">
+  <entity id="9111" parent-id="9100">
     <name role="official">Office for Civil Rights</name>
   </entity>
-  <entity id="9115">
+  <entity id="9115" parent-id="9100">
     <name role="official">Office of the Chief Information Officer</name>
   </entity>
   <entity id="9120" parent-id="9100">
@@ -3272,6 +3355,7 @@
   </entity>
   <entity id="9507">
     <name role="official">Commodity Futures Trading Commission</name>
+    <abbr>CFTC</abbr>
   </entity>
   <entity id="9508">
     <name role="official">National Transportation Safety Board</name>
@@ -3431,6 +3515,8 @@
   </entity>
   <entity id="9700">
     <name role="official">Department of Defense (except military departments)</name>
+    <name role="leadership">Secretary of Defense</name>
+    <abbr>DOD</abbr>
   </entity>
   <entity id="9736" parent-id="9700">
     <name role="official">Army/Air Force Exchange Service</name>
@@ -3491,6 +3577,7 @@
   </entity>
   <entity id="97AE" parent-id="9700">
     <name role="official">Defense Advanced Research Projects Agency</name>
+    <abbr>DARPA</abbr>
   </entity>
   <entity id="97AK" parent-id="9700">
     <name role="official">Defense Information Systems Agency</name>
@@ -3524,9 +3611,11 @@
   </entity>
   <entity id="97CG" parent-id="9700">
     <name role="official">National Security Agency/Central Security Service</name>
+    <abbr>NSA</abbr>
   </entity>
   <entity id="97DL" parent-id="9700">
     <name role="official">Defense Intelligence Agency</name>
+    <abbr>DIA</abbr>
   </entity>
   <entity id="97EX" parent-id="9700">
     <name role="official">Office of the Inspector General</name>
@@ -3548,6 +3637,7 @@
   </entity>
   <entity id="97JC" parent-id="9700">
     <name role="official">Missile Defense Agency</name>
+    <abbr>MDA</abbr>
   </entity>
   <entity id="97NH" parent-id="84AF">
     <name role="official">United States Naval Home</name>

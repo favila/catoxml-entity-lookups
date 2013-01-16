@@ -9,7 +9,7 @@ def convert(fp):
     root.attrib['updated'] = datetime.datetime.now().replace(microsecond=0).isoformat()
     
     for row in rows:
-        eid, epid, ename = [c.decode('cp1252').strip() for c in row]
+        eid, epid, ename, abbr, hist, leader = [c.decode('cp1252').strip() for c in row]
         entity = ET.SubElement(root, 'entity')
         entity.attrib['id'] = "{:0>4s}".format(eid)
         if epid:
@@ -17,6 +17,18 @@ def convert(fp):
         name = ET.SubElement(entity, 'name')
         name.set('role', 'official')
         name.text = ename
+        if hist:
+            name = ET.SubElement(entity, 'name')
+            name.set('role', 'historical')
+            name.text = hist
+        if leader:
+            name = ET.SubElement(entity, 'name')
+            name.set('role', 'leadership')
+            name.text = leader
+        if abbr:
+            name = ET.SubElement(entity, 'abbr')
+            name.text = abbr
+
     return root
 
 if __name__=='__main__':
