@@ -5,7 +5,7 @@ def convert(fp):
     rows = csv.reader(fp)
     rows.next() #header
     
-    root = ET.fromstring('<entities type="federal-entity"></entities>')
+    root = ET.fromstring('<entities type="federal-body"></entities>')
     root.attrib['updated'] = datetime.datetime.now().replace(microsecond=0).isoformat()
     
     for row in rows:

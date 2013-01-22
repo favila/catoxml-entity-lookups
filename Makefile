@@ -5,7 +5,7 @@ scriptdir := scripts
 tmpdir    := tmp
 
 peopleurl := http://www.govtrack.us/data/us/113/people.xml
-targetxml := $(targetdir)/acts.xml $(targetdir)/committees.xml $(targetdir)/federal-entities.xml $(targetdir)/people.xml $(targetdir)/billversions.xml
+targetxml := $(targetdir)/acts.xml $(targetdir)/committees.xml $(targetdir)/federal-bodies.xml $(targetdir)/people.xml $(targetdir)/billversions.xml
 xmlschema := entity-table.xsd
 movedest  := ../templates/vocabularies
 
@@ -26,7 +26,7 @@ $(tmpdir)/acts.xml.tmp-unformatted: $(scriptdir)/act-names.py $(sourcedir)/popul
 $(targetdir)/committees.xml: $(scriptdir)/fix-committees.xsl $(sourcedir)/committees-subcommittees.xml
 	xsltproc --output $@ $+
 
-$(tmpdir)/federal-entities.xml.tmp-unformatted: $(scriptdir)/nistcsv2xml.py $(sourcedir)/NIST-agencies-bureaus.csv
+$(tmpdir)/federal-bodies.xml.tmp-unformatted: $(scriptdir)/nistcsv2xml.py $(sourcedir)/NIST-agencies-bureaus.csv
 	python $+ $@
 
 $(tmpdir)/people-govtrack.xml:
