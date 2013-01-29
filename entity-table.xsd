@@ -1,5 +1,15 @@
-<xs:schema version="1.0" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  version="1.0" attributeFormDefault="unqualified" elementFormDefault="qualified">
+<xs:annotation>
+  <xs:appinfo>
+    <modified>2013-01-25T18:40:16.758Z</modified>
+  </xs:appinfo>
+  <xs:documentation>
+    XML Schema for *very basic* validation of CatoXML lookup tables (entity lists for entity-ref elements).
 
+    For details on the XML format, see https://namespaces.cato.org/catoxml
+  </xs:documentation>
+</xs:annotation>
 <xs:complexType name="entitiesType">
   <xs:sequence>
     <xs:element name="entity" type="entityType" minOccurs="0" maxOccurs="unbounded"/>
