@@ -3,22 +3,23 @@
 
 import sys
 import csv
+import utc
 import xml.etree.cElementTree as ET
-from datetime import datetime
 
 
 def normalize_name(name):
     return name.replace('``', '"').replace("''", '"')
 
+
 def convert(infile, outfile):
     reader = csv.reader(infile)
-    reader.next() #discard header
-    
+    reader.next()             # discard header
+
     acts = ET.Element('entities',
         type="act",
-        updated=datetime.today().replace(microsecond=0).isoformat()
+        updated=utc.now_isoformat()
     )
-    
+
     for row in reader:
         row = [c.decode('CP1252').strip() for c in row]
         row = map(normalize_name, row)
@@ -34,5 +35,5 @@ def convert(infile, outfile):
     lookup.write(outfile, encoding="utf-8")
 
 if __name__ == '__main__':
-    with open(sys.argv[1],'rbU') as infile, open(sys.argv[2], 'wb') as outfile:
+    with open(sys.argv[1], 'rbU') as infile, open(sys.argv[2], 'wb') as outfile:
         convert(infile, outfile)

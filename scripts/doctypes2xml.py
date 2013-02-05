@@ -10,22 +10,21 @@ Copyright (c) 2012 Dancing Mammoth, Inc. All rights reserved.
 """
 
 import sys
+import utc
 import xml.etree.cElementTree as ET
 from collections import namedtuple
-from datetime import datetime
 
 billversionfields = "version id definition chambers"
 BillVersion = namedtuple('BillVersion', billversionfields)
 
 
-
 def groupLines(lines):
     # import pdb; pdb.set_trace()
     fields = BillVersion._fields
-    chambers = {'House':'H', 'Senate':'S'}
+    chambers = {'House': 'H', 'Senate': 'S'}
     group = []
     chambergroup = []
-    normalfields = len(fields)-1
+    normalfields = len(fields) - 1
     for line in lines:
         line = line.strip().decode('utf-8')
         if len(group) >= normalfields:
@@ -46,8 +45,8 @@ def doc2xml(billversions):
         type="billversion",
         description="Definitions of Common Versions of Bills",
         source="http://www.gpo.gov/help/about_congressional_bills.htm",
-        updated=datetime.today().replace(microsecond=0).isoformat())
-    
+        updated=utc.now_isoformat())
+
     for bill in billversions:
         d = bill._asdict()
         d['chambers'] = ' '.join(sorted(d['chambers']))
@@ -55,8 +54,9 @@ def doc2xml(billversions):
         del d['version']
         bv = ET.SubElement(billversionET, 'entity', **d)
         ET.SubElement(bv, 'name', role="official").text = version
-        
+
     return billversionET
+
 
 def main():
     inf, of = sys.argv[1], sys.argv[2]
