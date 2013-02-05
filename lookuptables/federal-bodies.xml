@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<entities type="federal-body" updated="2013-01-22T06:52:17">
+<entities type="federal-body" updated="2013-02-05T21:58:02+00:00">
   <entity id="0000">
     <name role="official">The Legislative Branch</name>
   </entity>
@@ -154,6 +154,7 @@
   </entity>
   <entity id="1103" parent-id="1100">
     <name role="official">Office of Management and Budget</name>
+    <name role="leadership">Director of the Office of Management and Budget</name>
     <abbr>OMB</abbr>
   </entity>
   <entity id="1105" parent-id="1100">
@@ -730,6 +731,7 @@
   </entity>
   <entity id="1625" parent-id="1600">
     <name role="official">Bureau of Labor Statistics</name>
+    <abbr>BLS</abbr>
   </entity>
   <entity id="1630" parent-id="1600">
     <name role="official">Employment and Training Administration</name>
@@ -803,6 +805,7 @@
   </entity>
   <entity id="1727" parent-id="1700">
     <name role="official">U.S. Marine Corps</name>
+    <abbr>USMC</abbr>
   </entity>
   <entity id="1730" parent-id="1712">
     <name role="official">Special Projects Office</name>
@@ -854,6 +857,7 @@
   </entity>
   <entity id="1800">
     <name role="official">U.S. Postal Service</name>
+    <name role="historical">United States Postal Service</name>
     <abbr>USPS</abbr>
   </entity>
   <entity id="1804" parent-id="1800">
@@ -1572,6 +1576,7 @@
   </entity>
   <entity id="2400">
     <name role="official">Office of Personnel Management</name>
+    <name role="leadership">Director of the Office of Personnel Management</name>
     <abbr>OPM</abbr>
   </entity>
   <entity id="2460">
@@ -1676,6 +1681,7 @@
   </entity>
   <entity id="2800">
     <name role="official">Social Security Administration</name>
+    <name role="leadership">Commissioner of the Social Security Administration</name>
     <abbr>SSA</abbr>
   </entity>
   <entity id="2801" parent-id="2800">
@@ -3190,6 +3196,7 @@
   <entity id="9100">
     <name role="official">Department of Education</name>
     <name role="leadership">Secretary of Education</name>
+    <abbr>ED</abbr>
   </entity>
   <entity id="9101" parent-id="9100">
     <name role="official">Immediate Office of the Secretary of Education</name>
@@ -3443,6 +3450,7 @@
   </entity>
   <entity id="9559">
     <name role="official">Federal Reserve System, Board of Governors</name>
+    <name role="historical">Board of Governors of the Federal Reserve System</name>
   </entity>
   <entity id="9560">
     <name role="official">Barry Goldwater Scholarship and Excellence in Education Foundation</name>
