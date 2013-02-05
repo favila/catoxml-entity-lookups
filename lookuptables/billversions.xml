@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<entities description="Definitions of Common Versions of Bills" source="http://www.gpo.gov/help/about_congressional_bills.htm" type="billversion" updated="2013-01-09T02:41:01">
+<entities description="Definitions of Common Versions of Bills" source="http://www.gpo.gov/help/about_congressional_bills.htm" type="billversion" updated="2013-02-05T21:58:02+00:00">
   <entity chambers="S" definition="An alternate name for this version is Senate Amendment Ordered to be Printed. This version contains an amendment that has been ordered to be printed." id="as">
     <name role="official">Amendment Ordered to be Printed Senate</name>
   </entity>
