@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<entities type="federal-body" updated="2013-02-05T21:58:02+00:00">
+<entities type="federal-body" updated="2013-02-05T23:20:04+00:00">
   <entity id="0000">
     <name role="official">The Legislative Branch</name>
   </entity>
@@ -1681,7 +1681,7 @@
   </entity>
   <entity id="2800">
     <name role="official">Social Security Administration</name>
-    <name role="leadership">Commissioner of the Social Security Administration</name>
+    <name role="leadership">Commissioner of Social Security</name>
     <abbr>SSA</abbr>
   </entity>
   <entity id="2801" parent-id="2800">
@@ -1828,6 +1828,7 @@
   </entity>
   <entity id="3630" parent-id="3600">
     <name role="official">Under Secretary for Memorial Affairs / National Cemetery System</name>
+    <name role="historical">National Cemetery Administration</name>
   </entity>
   <entity id="3632" parent-id="3611">
     <name role="official">Deputy Assistant Secretary for Diversity and Equal Employment Opportunity</name>
