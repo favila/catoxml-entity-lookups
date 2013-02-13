@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<entities type="federal-body" updated="2013-02-05T23:20:04+00:00">
+<entities type="federal-body" updated="2013-02-13T14:03:31+00:00">
   <entity id="0000">
     <name role="official">The Legislative Branch</name>
   </entity>
@@ -46,6 +46,8 @@
   </entity>
   <entity id="0800" parent-id="0000">
     <name role="official">Congressional Budget Office</name>
+    <name role="leadership">Director of the Congressional Budget Office</name>
+    <abbr>CBO</abbr>
   </entity>
   <entity id="0901" parent-id="0000">
     <name role="official">Commission on Security and Cooperation in Europe</name>
@@ -124,6 +126,7 @@
   </entity>
   <entity id="1027">
     <name role="official">Administrative Office of the U.S. Courts</name>
+    <name role="leadership">Director of the Administrative Office of the United States Courts</name>
   </entity>
   <entity id="1028">
     <name role="official">Federal Judicial Center</name>
@@ -202,6 +205,7 @@
   </entity>
   <entity id="1145">
     <name role="official">Peace Corps</name>
+    <name role="leadership">Director of the Peace Corps</name>
   </entity>
   <entity id="1148" parent-id="1100">
     <name role="official">Office of Homeland Security</name>
@@ -241,6 +245,8 @@
   </entity>
   <entity id="11DM">
     <name role="official">International Monetary Fund</name>
+    <name role="leadership">Director of the International Monetary Fund</name>
+    <abbr>IMF</abbr>
   </entity>
   <entity id="11DN">
     <name role="official">North American Development Bank</name>
@@ -433,6 +439,7 @@
   <entity id="1300">
     <name role="official">Department of Commerce</name>
     <name role="leadership">Secretary of Commerce</name>
+    <abbr>DOC</abbr>
   </entity>
   <entity id="1301" parent-id="1300">
     <name role="official">Office of the Secretary</name>
@@ -464,6 +471,7 @@
   </entity>
   <entity id="1330" parent-id="1300">
     <name role="official">National Oceanic and Atmospheric Administration/Under Secretary for Oceans and Atmosphere</name>
+    <name role="leadership">Administrator of the National Oceanic and Atmospheric Administration</name>
     <abbr>NOAA</abbr>
   </entity>
   <entity id="1335" parent-id="1300">
@@ -471,6 +479,7 @@
   </entity>
   <entity id="1341" parent-id="1359">
     <name role="official">National Institute of Standards and Technology</name>
+    <name role="leadership">Director of the National Institute of Standards and Technology</name>
     <abbr>NIST</abbr>
   </entity>
   <entity id="1342" parent-id="1359">
@@ -549,6 +558,7 @@
   </entity>
   <entity id="1422" parent-id="142L">
     <name role="official">Bureau of Land Management</name>
+    <name role="leadership">Director of the Bureau of Land Management</name>
     <abbr>BLM</abbr>
   </entity>
   <entity id="1425" parent-id="142W">
@@ -568,6 +578,7 @@
   </entity>
   <entity id="1434" parent-id="142W">
     <name role="official">Geological Survey</name>
+    <name role="leadership">Director of the United States Geological Survey</name>
     <abbr>USGS</abbr>
   </entity>
   <entity id="1435" parent-id="142L">
@@ -578,10 +589,12 @@
   </entity>
   <entity id="1443" parent-id="142F">
     <name role="official">National Park Service</name>
+    <name role="leadership">Director of the National Park Service</name>
     <abbr>NPS</abbr>
   </entity>
   <entity id="1448" parent-id="142F">
     <name role="official">U.S. Fish and Wildlife Service</name>
+    <name role="leadership">Director of the United States Fish and Wildlife Service</name>
     <abbr>FWS</abbr>
   </entity>
   <entity id="1450" parent-id="1400">
@@ -626,6 +639,7 @@
   </entity>
   <entity id="1524" parent-id="1500">
     <name role="official">Drug Enforcement Administration</name>
+    <name role="leadership">Administrator of the Drug Enforcement Administration</name>
     <abbr>DEA</abbr>
   </entity>
   <entity id="1526" parent-id="1500">
@@ -642,6 +656,7 @@
   </entity>
   <entity id="1540" parent-id="1500">
     <name role="official">Bureau of Prisoners/Federal Prison System</name>
+    <name role="leadership">Director of the Federal Bureau of Prisons, Director of the Bureau of Prisons</name>
     <abbr>BOP</abbr>
   </entity>
   <entity id="1544" parent-id="1500">
@@ -649,6 +664,7 @@
   </entity>
   <entity id="1549" parent-id="1500">
     <name role="official">Federal Bureau of Investigation</name>
+    <name role="leadership">Director of the Federal Bureau of Investigation</name>
     <abbr>FBI</abbr>
   </entity>
   <entity id="1550" parent-id="1500">
@@ -659,6 +675,7 @@
   </entity>
   <entity id="1560" parent-id="1500">
     <name role="official">Bureau of Alcohol, Tobacco, Firearms and Explosives</name>
+    <name role="historical">Bureau of Alcohol, Tobacco and Firearms</name>
     <abbr>ATF</abbr>
   </entity>
   <entity id="1600">
@@ -1343,6 +1360,7 @@
   </entity>
   <entity id="2050" parent-id="2000">
     <name role="official">Internal Revenue Service</name>
+    <name role="leadership">Commissioner of Internal Revenue</name>
     <abbr>IRS</abbr>
   </entity>
   <entity id="2061">
@@ -1744,6 +1762,7 @@
   </entity>
   <entity id="3400">
     <name role="official">U.S. International Trade Commission</name>
+    <name role="historical">United States Trade Commission</name>
     <abbr>USITC</abbr>
   </entity>
   <entity id="3600">
@@ -1994,6 +2013,7 @@
   </entity>
   <entity id="4864">
     <name role="official">U.S. Commission on International Religious Freedom</name>
+    <name role="historical">United States Commission on International Religious Freedom</name>
   </entity>
   <entity id="4900">
     <name role="official">National Science Foundation</name>
@@ -2526,6 +2546,7 @@
   </entity>
   <entity id="6920" parent-id="6900">
     <name role="official">Federal Aviation Administration</name>
+    <name role="leadership">Administrator of the Federal Aviation Administration</name>
     <abbr>FAA</abbr>
   </entity>
   <entity id="6922" parent-id="690S">
@@ -2533,9 +2554,11 @@
   </entity>
   <entity id="6925" parent-id="6900">
     <name role="official">Federal Highway Administration</name>
+    <name role="leadership">Administrator of the Federal Highway Administration</name>
   </entity>
   <entity id="6930" parent-id="6900">
     <name role="official">Federal Railroad Administration</name>
+    <name role="leadership">Administrator of the Federal Railroad Administration</name>
   </entity>
   <entity id="6938" parent-id="6900">
     <name role="official">Maritime Administration</name>
@@ -2555,6 +2578,7 @@
   </entity>
   <entity id="6955" parent-id="6900">
     <name role="official">Federal Transit Administration</name>
+    <name role="leadership">Administrator of the Federal Transit Administrator</name>
   </entity>
   <entity id="6957" parent-id="6900">
     <name role="official">Pipeline and Hazardous Materials Safety Administration</name>
@@ -2577,28 +2601,39 @@
     <name role="official">Immediate Office of the Secretary</name>
   </entity>
   <entity id="7003" parent-id="7001">
-    <name role="official">Bureau of Citizenship and Immigration</name>
+    <name role="official">United States Citizenship and Immigration Services</name>
+    <name role="historical">Bureau of Citizenship and Immigration</name>
+    <abbr>USCIS</abbr>
   </entity>
   <entity id="7004" parent-id="7001">
     <name role="official">Office of the Inspector General</name>
   </entity>
   <entity id="7008" parent-id="7001">
     <name role="official">U.S. Coast Guard</name>
+    <name role="historical">United States Coast Guard</name>
     <abbr>USCG</abbr>
   </entity>
   <entity id="7009" parent-id="7001">
     <name role="official">U.S. Secret Service</name>
+    <name role="historical">United States Secret Service</name>
+    <name role="leadership">Director of the United States Secret Service</name>
+    <abbr>USSS</abbr>
   </entity>
   <entity id="7012" parent-id="7001">
     <name role="official">U.S. Immigration and Customs Enforcement</name>
+    <name role="historical">United States Immigration and Customs Enforcement</name>
+    <name role="leadership">Director of Immigration and Customs Enforcement</name>
     <abbr>ICE</abbr>
   </entity>
   <entity id="7013" parent-id="7001">
     <name role="official">Transportation Security Administration</name>
+    <name role="leadership">Administrator of the Transportation Security Administration</name>
     <abbr>TSA</abbr>
   </entity>
   <entity id="7014" parent-id="7001">
     <name role="official">U.S. Customs and Border Protection</name>
+    <name role="historical">United States Customs and Border Protection</name>
+    <name role="leadership">Commissioner of U.S. Customs and Border Protection</name>
     <abbr>CBP</abbr>
   </entity>
   <entity id="7015" parent-id="7001">
@@ -2606,6 +2641,7 @@
   </entity>
   <entity id="7022" parent-id="7001">
     <name role="official">Federal Emergency Management Agency</name>
+    <name role="leadership">Administrator of the Federal Emergency Management Agency</name>
     <abbr>FEMA</abbr>
   </entity>
   <entity id="7032" parent-id="7001">
@@ -2631,10 +2667,13 @@
   </entity>
   <entity id="7200">
     <name role="official">U.S. Agency for International Development</name>
+    <name role="historical">United States Agency for International Development</name>
+    <name role="leadership">Administrator of the United States Agency for International Development</name>
     <abbr>USAID</abbr>
   </entity>
   <entity id="7300">
     <name role="official">Small Business Administration</name>
+    <name role="leadership">Administrator of the Small Business Administration</name>
     <abbr>SBA</abbr>
   </entity>
   <entity id="7360">
@@ -2704,10 +2743,12 @@
   </entity>
   <entity id="7523" parent-id="750S">
     <name role="official">Centers for Disease Control and Prevention</name>
+    <name role="leadership">Director of the Centers for Disease Control and Prevention</name>
     <abbr>CDC</abbr>
   </entity>
   <entity id="7524" parent-id="750S">
     <name role="official">Food and Drug Administration</name>
+    <name role="leadership">Commissioner of Food and Drugs</name>
     <abbr>FDA</abbr>
   </entity>
   <entity id="7525" parent-id="750S">
@@ -2715,12 +2756,15 @@
   </entity>
   <entity id="7526" parent-id="750S">
     <name role="official">Health Resources and Services Administration</name>
+    <name role="leadership">Administrator of the Health Resources and Services Administration</name>
+    <abbr>HRSA</abbr>
   </entity>
   <entity id="7527" parent-id="750S">
     <name role="official">Indian Health Service</name>
   </entity>
   <entity id="7528" parent-id="750S">
     <name role="official">Agency for Healthcare Research and Quality</name>
+    <name role="leadership">Administrator of the Agency for Healthcare Research and Quality</name>
   </entity>
   <entity id="7529" parent-id="750S">
     <name role="official">National Institutes of Health</name>
@@ -3360,6 +3404,7 @@
   </entity>
   <entity id="9506">
     <name role="official">Federal Election Commission</name>
+    <abbr>FEC</abbr>
   </entity>
   <entity id="9507">
     <name role="official">Commodity Futures Trading Commission</name>
@@ -3426,7 +3471,10 @@
     <name role="official">Commission of Fine Arts</name>
   </entity>
   <entity id="9540">
-    <name role="official">Federal Housing Finance Board</name>
+    <name role="official">Federal Housing Finance Agency</name>
+    <name role="historical">Federal Housing Finance Board</name>
+    <name role="leadership">Director of the Federal Housing Finance Agency</name>
+    <abbr>FHFA</abbr>
   </entity>
   <entity id="9541">
     <name role="official">James Madison Memorial Fellowship Foundation</name>
