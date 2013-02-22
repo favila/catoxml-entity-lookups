@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<entities type="federal-body" updated="2013-02-13T14:03:31+00:00">
+<entities type="federal-body" updated="2013-02-22T16:31:27+00:00">
   <entity id="0000">
     <name role="official">The Legislative Branch</name>
   </entity>
@@ -632,7 +632,7 @@
     <abbr>DOJ</abbr>
   </entity>
   <entity id="1501" parent-id="1500">
-    <name role="official">Offices, Boards and Divisions</name>
+    <name role="official">Offices, Boards and Divisions (includes the following: Attorney General, Deputy Attorney General, Associate Attorney General, Office of Policy Development, Office of Public Affairs, Office of Legislative Affairs, Office of Legal Counsel, Solicitor General, Criminal Division, Civil Division, Civil Rights Division, Antitrust Division, Tax Division, Environment and Natural Resources Division, Justice Management Division, Office of Professional Responsibility, Office of the Pardon Attorney, U.S. National Central Bureau-INTERPOL, U.S. Parole Commission, Office of Intelligence Policy and Review, Foreign Claims Settlement Commission, Office of Information and Privacy, and Community Oriented Policing Services)</name>
   </entity>
   <entity id="1504" parent-id="1500">
     <name role="official">Office of the Inspector General</name>
