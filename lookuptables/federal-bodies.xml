@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<entities type="federal-body" updated="2013-02-22T16:31:27+00:00">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entities type="federal-body" updated="2013-6-24T22:37:43+00:00">
   <entity id="0000">
     <name role="official">The Legislative Branch</name>
   </entity>
@@ -31,12 +31,13 @@
   <entity id="0400" parent-id="0000">
     <name role="official">Government Printing Office</name>
     <abbr>GPO</abbr>
+        <name role="leadership">Public Printer</name>
   </entity>
   <entity id="0500" parent-id="0000">
     <name role="official">Government Accountability Office</name>
-    <name role="historical">General Accounting Office</name>
-    <name role="leadership">Comptroller General of the United States</name>
     <abbr>GAO</abbr>
+        <name role="historical">GAO</name>
+        <name role="leadership">Comptroller General of the United States</name>
   </entity>
   <entity id="0501" parent-id="0500">
     <name role="official">Comptroller General of the United States</name>
@@ -96,6 +97,7 @@
   </entity>
   <entity id="1001" parent-id="1000">
     <name role="official">Supreme Court of the United States</name>
+        <abbr>SCOTUS</abbr>
   </entity>
   <entity id="1002">
     <name role="official">U.S. Courts of Appeals-Judicial Circuits - except the Federal Circuit</name>
@@ -357,6 +359,7 @@
   </entity>
   <entity id="12C3" parent-id="12C0">
     <name role="official">Natural Resources Conservation Service</name>
+        <name role="leadership">Chief of Natural Resources Conservation Service</name>
   </entity>
   <entity id="12CN">
     <name role="official">International Institute for Cotton</name>
@@ -563,6 +566,7 @@
   </entity>
   <entity id="1425" parent-id="142W">
     <name role="official">Bureau of Reclamation</name>
+        <name role="leadership">Commissioner of the Bureau of Reclamation</name>
   </entity>
   <entity id="1428" parent-id="1400">
     <name role="official">National Business Center</name>
@@ -599,8 +603,8 @@
   </entity>
   <entity id="1450" parent-id="1400">
     <name role="official">Indian Affairs (Assistant Secretary)</name>
-    <name role="historical">Bureau of Indian Affairs</name>
     <abbr>BIA</abbr>
+        <name role="historical">BIA</name>
   </entity>
   <entity id="1460" parent-id="1400">
     <name role="official">Board on Geographic Names</name>
@@ -675,8 +679,8 @@
   </entity>
   <entity id="1560" parent-id="1500">
     <name role="official">Bureau of Alcohol, Tobacco, Firearms and Explosives</name>
-    <name role="historical">Bureau of Alcohol, Tobacco and Firearms</name>
     <abbr>ATF</abbr>
+        <name role="historical">ATF</name>
   </entity>
   <entity id="1600">
     <name role="official">Department of Labor</name>
@@ -779,6 +783,7 @@
   </entity>
   <entity id="1700">
     <name role="official">Department of the Navy</name>
+        <abbr>NAVY</abbr>
     <name role="leadership">Secretary of the Navy</name>
   </entity>
   <entity id="1708" parent-id="1712">
@@ -874,8 +879,8 @@
   </entity>
   <entity id="1800">
     <name role="official">U.S. Postal Service</name>
-    <name role="historical">United States Postal Service</name>
     <abbr>USPS</abbr>
+        <name role="historical">USPS</name>
   </entity>
   <entity id="1804" parent-id="1800">
     <name role="official">Office -Inspector General of the U.S. Postal Service</name>
@@ -884,7 +889,9 @@
     <name role="official">U.S. Postal Inspection Service</name>
   </entity>
   <entity id="1861">
-    <name role="official">Postal Rate Commission</name>
+        <name role="official">Postal Regulatory Commission</name>
+        <abbr>PRC</abbr>
+        <name role="historical">PRC</name>
   </entity>
   <entity id="1865">
     <name role="official">Citizens' Stamp Advisory Committee</name>
@@ -894,6 +901,7 @@
   </entity>
   <entity id="1900">
     <name role="official">Department of State</name>
+        <abbr>STATE</abbr>
     <name role="leadership">Secretary of State</name>
   </entity>
   <entity id="1901" parent-id="190S">
@@ -1383,6 +1391,7 @@
   </entity>
   <entity id="2100">
     <name role="official">Department of the Army (except Corps of Engineers Civil program financing)</name>
+        <abbr>ARMY</abbr>
     <name role="leadership">Secretary of the Army</name>
   </entity>
   <entity id="2130" parent-id="2100">
@@ -1762,8 +1771,8 @@
   </entity>
   <entity id="3400">
     <name role="official">U.S. International Trade Commission</name>
-    <name role="historical">United States Trade Commission</name>
     <abbr>USITC</abbr>
+        <name role="historical">USITC</name>
   </entity>
   <entity id="3600">
     <name role="official">Department of Veterans Affairs</name>
@@ -2109,9 +2118,11 @@
   <entity id="5600">
     <name role="official">Central Intelligence Agency</name>
     <abbr>CIA</abbr>
+        <name role="leadership">Director of the Central Intelligence Agency</name>
   </entity>
   <entity id="5700">
     <name role="official">Department of the Air Force (Headquarters, USAF)</name>
+        <abbr>AF</abbr>
     <name role="leadership">Secretary of the Air Force</name>
   </entity>
   <entity id="5701" parent-id="5700">
@@ -2602,28 +2613,28 @@
   </entity>
   <entity id="7003" parent-id="7001">
     <name role="official">United States Citizenship and Immigration Services</name>
-    <name role="historical">Bureau of Citizenship and Immigration</name>
     <abbr>USCIS</abbr>
+        <name role="historical">USCIS</name>
   </entity>
   <entity id="7004" parent-id="7001">
     <name role="official">Office of the Inspector General</name>
   </entity>
   <entity id="7008" parent-id="7001">
     <name role="official">U.S. Coast Guard</name>
-    <name role="historical">United States Coast Guard</name>
     <abbr>USCG</abbr>
+        <name role="historical">USCG</name>
   </entity>
   <entity id="7009" parent-id="7001">
     <name role="official">U.S. Secret Service</name>
-    <name role="historical">United States Secret Service</name>
-    <name role="leadership">Director of the United States Secret Service</name>
     <abbr>USSS</abbr>
+        <name role="historical">USSS</name>
+        <name role="leadership">Director of the United States Secret Service</name>
   </entity>
   <entity id="7012" parent-id="7001">
     <name role="official">U.S. Immigration and Customs Enforcement</name>
-    <name role="historical">United States Immigration and Customs Enforcement</name>
-    <name role="leadership">Director of Immigration and Customs Enforcement</name>
     <abbr>ICE</abbr>
+        <name role="historical">ICE</name>
+        <name role="leadership">Director of Immigration and Customs Enforcement</name>
   </entity>
   <entity id="7013" parent-id="7001">
     <name role="official">Transportation Security Administration</name>
@@ -2632,9 +2643,9 @@
   </entity>
   <entity id="7014" parent-id="7001">
     <name role="official">U.S. Customs and Border Protection</name>
-    <name role="historical">United States Customs and Border Protection</name>
-    <name role="leadership">Commissioner of U.S. Customs and Border Protection</name>
     <abbr>CBP</abbr>
+        <name role="historical">CBP</name>
+        <name role="leadership">Commissioner of U.S. Customs and Border Protection</name>
   </entity>
   <entity id="7015" parent-id="7001">
     <name role="official">Federal Law Enforcement Training Center</name>
@@ -2667,9 +2678,9 @@
   </entity>
   <entity id="7200">
     <name role="official">U.S. Agency for International Development</name>
-    <name role="historical">United States Agency for International Development</name>
-    <name role="leadership">Administrator of the United States Agency for International Development</name>
     <abbr>USAID</abbr>
+        <name role="historical">USAID</name>
+        <name role="leadership">Administrator of the United States Agency for International Development</name>
   </entity>
   <entity id="7300">
     <name role="official">Small Business Administration</name>
@@ -3472,9 +3483,9 @@
   </entity>
   <entity id="9540">
     <name role="official">Federal Housing Finance Agency</name>
-    <name role="historical">Federal Housing Finance Board</name>
-    <name role="leadership">Director of the Federal Housing Finance Agency</name>
     <abbr>FHFA</abbr>
+        <name role="historical">FHFA</name>
+        <name role="leadership">Director of the Federal Housing Finance Agency</name>
   </entity>
   <entity id="9541">
     <name role="official">James Madison Memorial Fellowship Foundation</name>
